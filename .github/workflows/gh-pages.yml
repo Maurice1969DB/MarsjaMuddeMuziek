@@ -1,4 +1,4 @@
-name: GitHub Pages
+name: GitHub pages
 
 on:
   push:
@@ -21,11 +21,10 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL=
-  --> https://hugoinaction.github.io/GitHubPages
+        run: hugo --minify --baseURL=https://hugoinaction.github.io/GitHubPages
 
-- name: Deploy
-  uses: peaceiris/actions-gh-pages@v3
-  with:
-    github_token: ${{ secrets.GITHUB_TOKEN }}
-    publish_dir: ./public
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
