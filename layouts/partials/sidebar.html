@@ -1,0 +1,25 @@
+<aside class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        {{ range .Site.Menus.main -}}
+        <li>
+          <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+        </li>
+        {{- end }}
+      </ul>
+    </nav>
+
+    <section class="social-icons">
+      {{ range $item := .Site.Params.socialIcons }}
+      <a href="{{ $item.url }}" rel="me" title="{{ $item.title }}" target="_blank">
+        <i class="fab {{ $item.icon }}" aria-hidden="true"></i>
+      </a>
+      {{ end }}
+    </section>
+  </div>
+</aside>

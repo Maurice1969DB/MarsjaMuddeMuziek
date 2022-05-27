@@ -1,0 +1,131 @@
+baseurl = "https://maurice1969db.github.io/MarsjaMuddeMuziek/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+title = "Marsja Mudde Muziek"
+theme = "soho"
+DefaultContentLanguage = "nl"
+enableInlineShortcodes = true
+summarylength = 10
+enableEmoji = true
+paginate = 5
+ignoreErrors = ["error-remote-getjson"]
+weight = 2
+
+[languages]
+    [languages.nl]
+    contentDir = "content/nl"
+    languageName = "Nederlands"
+    weight = 1
+
+    [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 2
+
+[params]
+title = "Soho Theme"
+description = "Ervaren in laten ervaren"
+# gravatar = "soho@example.com"
+images = ["images/profile.png"]
+profilePicture = "images/profile.png"
+copyright = "Author Name"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+builtWith = true
+mainSections = ["blog"]
+
+## Set custom theme color.
+# themeColor = "#fc2803"
+
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "#"
+
+[menu]
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+name = "News / Home"
+identifier = "news"
+weight = 10
+url = "/"
+
+[[languages.en.menu.main]]
+name = "About Marsja Mudde"
+identifier = "about"
+weight = 20
+url = "/about"
+
+[[languages.en.menu.main]]
+name = "Early music blog"
+identifier = "blog"
+weight = 30
+url = "/blog"
+
+[[languages.en.menu.main]]
+name = "Events calendar"
+identifier = "events"
+weight = 40
+url = "/events"
+
+[languages.nl.menu]
+[[languages.nl.menu.main]]
+name = "Nieuws / Home"
+identifier = "news"
+weight = 10
+url = "/"
+
+[[languages.nl.menu.main]]
+name = "Over Marsja Mudde"
+identifier = "about"
+weight = 20
+url = "/about"
+
+[[languages.nl.menu.main]]
+name = "Oude muziek blog"
+identifier = "blog"
+weight = 30
+url = "/blog"
+
+[[languages.nl.menu.main]]
+name = "Evenementenoverzicht"
+identifier = "events"
+weight = 40
+url = "/events"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services]
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+# needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+unsafe = true
