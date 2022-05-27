@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'cardinal';
+    src: url('../fonts/cardinal-webfont.eot');
+    src: url('../fonts/cardinal-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/cardinal-webfont.woff') format('woff'),
+    url('../fonts/cardinal-webfont.ttf') format('truetype'),
+    url('../fonts/cardinal-webfont.svg#cardinalregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    font-family: verdana, arial, helvetica, sans serif;
+}
+
+@media (min-width: 48em) {
+    .sidebar {
+        top: 6rem;
+        left: 1rem;
+        border-top-right-radius: 34%;
+        background-color: #05648d;
+    }
+    .sidebar-about p
+    {
+        font-family: cardinal, serif;
+    }
+
+    .header {
+        position: fixed;
+        background-color: white;
+        height: 6rem;
+        width: 100%;
+        text-align: center;
+    }
+
+    .content {
+        padding-top: 6em;
+    }
+}
+
+
