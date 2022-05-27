@@ -1,4 +1,4 @@
-baseurl = "https://maurice1969db.github.io/MarsjaMuddeMuziek/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://maurice1969db.github.io/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Marsja Mudde Muziek"
 theme = "soho"
 DefaultContentLanguage = "nl"
@@ -14,11 +14,60 @@ weight = 2
     contentDir = "content/nl"
     languageName = "Nederlands"
     weight = 1
+    [languages.nl.menu]
+        [[languages.nl.menu.main]]
+            name = "Nieuws / Home"
+            identifier = "news"
+            weight = 10
+            url = "/"
+
+        [[languages.nl.menu.main]]
+        name = "Over Marsja Mudde"
+        identifier = "about"
+        weight = 20
+        url = "/about"
+
+        [[languages.nl.menu.main]]
+        name = "Oude muziek blog"
+        identifier = "blog"
+        weight = 30
+        url = "/blog"
+
+        [[languages.nl.menu.main]]
+        name = "Evenementenoverzicht"
+        identifier = "events"
+        weight = 40
+        url = "/events"
 
     [languages.en]
     contentDir = "content/en"
     languageName = "English"
     weight = 2
+
+        [languages.en.menu]
+        [[languages.en.menu.main]]
+        name = "News / Home"
+        identifier = "news"
+        weight = 10
+        url = "/"
+
+        [[languages.en.menu.main]]
+        name = "About Marsja Mudde"
+        identifier = "about"
+        weight = 20
+        url = "/about"
+
+        [[languages.en.menu.main]]
+        name = "Early music blog"
+        identifier = "blog"
+        weight = 30
+        url = "/blog"
+
+        [[languages.en.menu.main]]
+        name = "Events calendar"
+        identifier = "events"
+        weight = 40
+        url = "/events"
 
 [params]
 title = "Soho Theme"
@@ -42,55 +91,9 @@ url = "#"
 
 [menu]
 
-[languages.en.menu]
-[[languages.en.menu.main]]
-name = "News / Home"
-identifier = "news"
-weight = 10
-url = "/"
 
-[[languages.en.menu.main]]
-name = "About Marsja Mudde"
-identifier = "about"
-weight = 20
-url = "/about"
 
-[[languages.en.menu.main]]
-name = "Early music blog"
-identifier = "blog"
-weight = 30
-url = "/blog"
 
-[[languages.en.menu.main]]
-name = "Events calendar"
-identifier = "events"
-weight = 40
-url = "/events"
-
-[languages.nl.menu]
-[[languages.nl.menu.main]]
-name = "Nieuws / Home"
-identifier = "news"
-weight = 10
-url = "/"
-
-[[languages.nl.menu.main]]
-name = "Over Marsja Mudde"
-identifier = "about"
-weight = 20
-url = "/about"
-
-[[languages.nl.menu.main]]
-name = "Oude muziek blog"
-identifier = "blog"
-weight = 30
-url = "/blog"
-
-[[languages.nl.menu.main]]
-name = "Evenementenoverzicht"
-identifier = "events"
-weight = 40
-url = "/events"
 
 [taxonomies]
 category = "categories"
