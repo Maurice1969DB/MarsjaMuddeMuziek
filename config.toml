@@ -24,19 +24,19 @@ weight = 2
         name = "Over Marsja Mudde"
         identifier = "about"
         weight = 20
-        url = "/about"
+        url = "/about/"
 
         [[languages.nl.menu.main]]
         name = "Oude muziek blog"
         identifier = "blog"
         weight = 30
-        url = "/blog"
+        url = "/blog/"
 
         [[languages.nl.menu.main]]
         name = "Evenementenoverzicht"
         identifier = "events"
         weight = 40
-        url = "/events"
+        url = "/events/"
 
     [languages.en]
     languageName = "English"
@@ -47,25 +47,25 @@ weight = 2
         name = "News / Home"
         identifier = "news"
         weight = 10
-        url = "/"
+        url = "/en/"
 
         [[languages.en.menu.main]]
         name = "About Marsja Mudde"
         identifier = "about"
         weight = 20
-        url = "/about"
+        url = "/en/about/"
 
         [[languages.en.menu.main]]
         name = "Early music blog"
         identifier = "blog"
         weight = 30
-        url = "/blog"
+        url = "/en/blog/"
 
         [[languages.en.menu.main]]
         name = "Events calendar"
         identifier = "events"
         weight = 40
-        url = "/events"
+        url = "/en/events/"
 
 [params]
 title = "Soho Theme"
