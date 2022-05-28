@@ -11,7 +11,6 @@ weight = 2
 
 [languages]
     [languages.nl]
-    contentDir = "content/nl"
     languageName = "Nederlands"
     weight = 1
     [languages.nl.menu]
@@ -40,7 +39,6 @@ weight = 2
         url = "/events"
 
     [languages.en]
-    contentDir = "content/en"
     languageName = "English"
     weight = 2
 
