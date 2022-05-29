@@ -41,7 +41,7 @@ html {
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: white;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -167,7 +167,7 @@ footer {
 }
 
 .sidebar {
-  background-color: #49757a;
+  background-color: white;
   color: #fff;
 }
 
@@ -179,7 +179,7 @@ footer {
 footer a,
 .content a,
 .related-posts li a:hover {
-  color: #49757a;
+  color: #b4250c;
 }
 
 .read-more-link {
@@ -232,7 +232,6 @@ ul.posts li,
   ul.posts li,
   .sidebar nav li {
     font-size: inherit;
-    padding: 0;
   }
 }
 

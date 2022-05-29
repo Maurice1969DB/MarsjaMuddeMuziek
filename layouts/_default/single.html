@@ -1,23 +1,17 @@
 {{ define "main" -}}
 <div class="post">
-  <h1 class="title">{{ .Title }}</h1>
+  <h1 class="title">
+      {{ .Title | humanize }}
+  </h1>
   {{ with .Params.tagline }}<span class="tagline">{{ . }}</span>{{ end }}
-
-  <div>
-  {{ .Content }}
-  </div>
-
-  {{ partial "tags.html" . }}
-
-  {{ if (and (ne .Params.DisableShare true) (ne .Params.disable_share true)) -}}
-  {{ partial "share.html" . }}
-  {{- end }}
-
-  {{ if (and .Site.DisqusShortname (ne .Params.DisableComments true) (ne .Params.disable_comments true)) -}}
-  <div class="comments">
-    <h2>Comments</h2>
-    {{ template "_internal/disqus.html" . }}
-  </div>
-  {{- end }}
+  {{ if eq (substr .RawContent 6 1) "M" }}
+    <div class="capital-m">
+      {{ .Content }}
+    </div>
+  {{ else }}
+    <div>
+      {{ .Content }}
+    </div>
+  {{ end }}
 </div>
-{{- end }}
+  {{- end }}

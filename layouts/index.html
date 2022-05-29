@@ -7,20 +7,18 @@
     {{ range $paginator.Pages }}
       <article class="post">
         <h1 class="post-title">
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
+          <a href="{{ .Permalink }}">{{ .Title | humanize}}</a>
         </h1>
+          {{ if eq (substr .Content 3 1) "M" }}
+            <div class="capital-m">
+                {{ .Content }}
+            </div>
+          {{ else }}
+              <div>
+                  {{ .Content }}
+              </div>
+          {{ end }}
 
-        <div class="post-date">
-          <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}">{{ .Date.Format "Jan 2, 2006" }}</time> &middot; {{ .ReadingTime }} min read
-        </div>
-
-        <div>
-          {{ .Summary }}
-        </div>
-
-        <div class="read-more-link">
-          <a href="{{ .Permalink }}">Read More</a>
-        </div>
       </article>
     {{- end }}
   </div>

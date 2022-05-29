@@ -77,10 +77,10 @@ copyright = "Author Name"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 builtWith = true
-mainSections = ["blog"]
+mainSections = ["news"]
 
 ## Set custom theme color.
-# themeColor = "#fc2803"
+## themeColor = "#fc2803"
 
 [[params.socialIcons]]
 icon = "fa-linkedin"

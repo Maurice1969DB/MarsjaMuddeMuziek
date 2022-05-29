@@ -152,7 +152,7 @@ pre,
   font-family: Menlo, Monaco, "Courier New", monospace;
 }
 code {
-  color: #e83e8c;
+  color: #b4250c;
   white-space: pre;
 }
 pre {
@@ -333,6 +333,10 @@ tbody tr:nth-child(odd) th {
 .post-title {
   font-size: 1.6rem;
   margin-top: 0;
+}
+
+.post-title::first-letter {
+  font-family: cardinal, serif;
 }
 
 /* Meta data line below post title */

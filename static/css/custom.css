@@ -9,16 +9,40 @@
     font-style: normal;
 }
 
-html {
-    font-family: verdana, arial, helvetica, sans serif;
+@font-face {
+    font-family: 'jost';
+    src: url("../fonts/Jost-VariableFont_wght.ttf") format('truetype');
 }
 
+@font-face {
+    font-family: 'arimo';
+    src: url("../fonts/Arimo-VariableFont_wght.ttf") format('truetype');
+}
+
+html {
+    font-family: jost, arial, helvetica, sans serif;
+    font-size: 20px;
+}
+
+body {
+    background-color: #fffcf3;
+}
+
+.sidebar nav li
+{
+    font-size: 19px;
+}
 @media (min-width: 48em) {
     .sidebar {
-        top: 6rem;
-        left: 1rem;
-        border-top-right-radius: 34%;
-        background-color: #05648d;
+        top: 8rem;
+        left: 5rem;
+        background-image: url("../images/menu_bg.png");
+        background-repeat: no-repeat;
+        background-color: transparent;
+        opacity: 92%;
+        text-align: left;
+        z-index: 10;
+
     }
     .sidebar-about p
     {
@@ -26,16 +50,66 @@ html {
     }
 
     .header {
-        position: fixed;
+        position: sticky;
+        top: 0;
+        font-size: 1rem;
         background-color: white;
-        height: 6rem;
-        width: 100%;
+        border: 0;
+        border-bottom: #b4250c solid 6px;
+        margin-bottom: 1rem;
+        margin-left: -15rem;
+        margin-right: -5em;
+        height: 12rem;
         text-align: center;
+        background-image:linear-gradient(to top, rgba(245, 246, 252, 0.52), 92%, rgba(180, 37, 12, 0.21)), url("../images/default.jpeg");
+        background-size: cover;
+    }
+
+    .header img {
+        z-index: 10;
+        padding-top: 0.5rem;
+        min-width: 500px;
+        padding-left: 2em;
     }
 
     .content {
-        padding-top: 6em;
+        padding-left: 15em;
+        padding-right: 5em;
+        padding-top: 0;
+        margin-left: 7em;
+        margin-right: 7em;
+        max-width: 100%;
+        text-align: justify;
+        background-color: #f6e8d7;
+        box-shadow: rgb(0 0 0 / 35%) 0 5px 15px;
     }
+
+    .content p:first-child::first-letter
+    {
+        font-family: cardinal, serif;
+        font-size: 5em;
+        color: #b4250c;
+    }
+
+    .content .capital-m p:first-child::first-letter, h4:first-child::first-letter
+    {
+        background: url("../images/m.png") no-repeat;
+        font-size: 6em;
+        color: transparent;
+        float: left;
+        margin-right: .16em;
+        margin-block: -0.33em;
+    }
+
+    .content a {
+        color: #b4250c;
+    }
+
+    .post
+    {
+        padding-top: 2em;
+    }
+
 }
 
 

@@ -66,11 +66,12 @@
 
 
 
-  {{ partial "header.html" . }}
+
 
   {{ partial "sidebar.html" . }}
 
   <main class="content container">
+    {{ partial "header.html" . }}
   {{ block "main" . -}}{{- end }}
   </main>
 
@@ -83,6 +84,7 @@
 
   <script src="{{ `js/jquery.min.js` | relURL }}"></script>
   <script src="{{ `js/soho.js` | relURL }}"></script>
+  <script src="{{ `js/marsja.js` | relURL }}"></script>
 
   {{ range $.Site.Params.customJs -}}
   <script src="{{ . | relURL }}"></script>
