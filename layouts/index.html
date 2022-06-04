@@ -9,7 +9,7 @@
         <h1 class="post-title">
           <a href="{{ .Permalink }}">{{ .Title | humanize}}</a>
         </h1>
-          {{ if eq (substr .Content 3 1) "M" }}
+          {{ if eq (substr .RawContent 5 1) "M" }}
             <div class="capital-m">
                 {{ .Content }}
             </div>

@@ -1,10 +1,7 @@
 {{ define "main" -}}
 <div class="post">
-  <h1 class="title">
-      {{ .Title | humanize }}
-  </h1>
   {{ with .Params.tagline }}<span class="tagline">{{ . }}</span>{{ end }}
-  {{ if eq (substr .RawContent 6 1) "M" }}
+  {{ if eq (substr .RawContent 5 1) "M" }}
     <div class="capital-m">
       {{ .Content }}
     </div>
