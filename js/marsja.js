@@ -1,4 +1,9 @@
-window.onscroll = function() {scrollFunction()};
+const sidebar = document.querySelector('.sidebar');
+const content = document.querySelector('.content');
 
-function scrollFunction() {
+document.querySelector('.toggle').onclick = function () {
+    sidebar.classList.toggle('sidebar_small');
+    content.classList.toggle('sidebar_small');
 }
+
+
