@@ -2,18 +2,6 @@
     <img src="{{ `images/marsja-mudde-muziek.png` | relURL }}" alt="">
 
 
-    {{ if .IsTranslated }}
-        {{ range .Translations }}
-            <ul>
-                {{ if eq .Site.Language.Lang "en" }}
-                <li><a title="English" href="{{ .RelPermalink }}">&#x1F1EC;&#x1F1E7;</a></li>
-                {{ else }}
-                <li><a title="Nederlands" href="{{ .RelPermalink }}">&#127475;&#127473;</a></li>
-                {{ end }}
-            </ul>
-        {{ end }}
-    {{ end }}
-
     {{ if eq .Site.Language.Lang "nl" }}
     <img style="padding-left: 11em; padding-top: 0.5em" src="{{ `images/ervaren-in-laten-ervaren.png` | relURL }}" alt="">
     {{ else }}

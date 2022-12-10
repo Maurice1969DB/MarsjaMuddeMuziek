@@ -153,6 +153,8 @@
                 href="https://maurice1969db.github.io/MarsjaMuddeMuziek/news/about/"
                 />
   </url><url>
+    <loc>https://maurice1969db.github.io/MarsjaMuddeMuziek/ensembles/</loc>
+  </url><url>
     <loc>https://maurice1969db.github.io/MarsjaMuddeMuziek/tags/news/</loc>
   </url><url>
     <loc>https://maurice1969db.github.io/MarsjaMuddeMuziek/news/</loc>
@@ -166,5 +168,7 @@
                 hreflang="nl"
                 href="https://maurice1969db.github.io/MarsjaMuddeMuziek/news/"
                 />
+  </url><url>
+    <loc>https://maurice1969db.github.io/MarsjaMuddeMuziek/zangles_praktijk/</loc>
   </url>
 </urlset>

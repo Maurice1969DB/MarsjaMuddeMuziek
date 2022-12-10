@@ -1,3 +1,6 @@
-+++
-title = "Nieuws / Home"
-+++
+---
+title: "Nieuws / Home"
+menu:
+    main:
+        weight: 1
+---
