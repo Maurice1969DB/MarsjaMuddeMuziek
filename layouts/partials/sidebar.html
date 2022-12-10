@@ -1,15 +1,32 @@
 <aside class="sidebar">
+    <a href="javascript:void(0);" class="toggle">
+        <i class="fa fa-bars"></i>
+    </a>
   <div class="container">
     <div class="sidebar-about">
-
     </div>
-
     <nav>
       <ul class="sidebar-nav">
-        {{ range .Site.Menus.main -}}
-        <li>
-          <a href="{{ .URL }}">{{ .Name }}</a>
-        </li>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+            <li class="menu-item">
+              <a class="{{ if eq ($currentPage.RelPermalink | relLangURL) (.URL | relLangURL) }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+                {{ if in ($currentPage.RelPermalink | relLangURL) (.URL | relLangURL)  }}
+              <ul>
+                {{ range .Children }}
+                  <li class="menu-item indent">
+                    <a class="{{ if eq ($currentPage.RelPermalink | relLangURL) (.URL | relLangURL) }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+                  </li>
+                {{ end }}
+              </ul>
+                  {{ end }}
+          {{else}}
+            <li class="menu-item">
+              <a class="{{ if eq ($currentPage.RelPermalink | relLangURL) (.URL | relLangURL) }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+          {{ end }}
         {{- end }}
       </ul>
     </nav>
@@ -21,5 +38,17 @@
       </a>
       {{ end }}
     </section>
+      <section style="font-size: 2rem" class="social-icons">
+        {{ if .IsTranslated }}
+            {{ range .Translations }}
+                    {{ if eq .Site.Language.Lang "en" }}
+                        <a style="" title="English" href="{{ .RelPermalink }}">&#x1F1EC;&#x1F1E7;</a>
+                    {{ else }}
+                        <a style="" title="Nederlands" href="{{ .RelPermalink }}">&#127475;&#127473;</a>
+                    {{ end }}
+
+            {{ end }}
+        {{ end }}
+      </section>
   </div>
 </aside>

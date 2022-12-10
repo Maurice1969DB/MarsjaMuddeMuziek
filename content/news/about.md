@@ -1,5 +1,4 @@
 ---
-date: 2022-05-27
 ---
 
 ### Marsja Mudde Muziek: ervaren in laten ervaren ###

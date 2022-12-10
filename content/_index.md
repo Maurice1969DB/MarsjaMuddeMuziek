@@ -1,3 +1,3 @@
----
-title: "Nieuws / Home"
----
++++
+title = "Nieuws / Home"
++++

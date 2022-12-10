@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
-</head>
-<body>
-$END$
-</body>
-</html>
+{{ $colour := .Get 0 }}
+<code style="background-color: {{ $colour }};">
+  <span style="color: {{ $colour }}; filter: grayscale(1) invert(1) contrast(100)">
+    {{ $colour }}
+  </span>
+</code>

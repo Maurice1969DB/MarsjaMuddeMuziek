@@ -15,10 +15,10 @@ weight = 2
     weight = 1
     [languages.nl.menu]
         [[languages.nl.menu.main]]
-            name = "Nieuws / Home"
-            identifier = "news"
-            weight = 10
-            url = "/"
+        name = "Nieuws / Home"
+        identifier = "news"
+        weight = 10
+        url = "/"
 
         [[languages.nl.menu.main]]
         name = "Over Marsja Mudde"
@@ -31,6 +31,13 @@ weight = 2
         identifier = "blog"
         weight = 30
         url = "/blog/"
+
+        [[languages.nl.menu.main]]
+        parent = "blog"
+        name = "Rich"
+        identifier = "rich"
+        weight = 35
+        url = "/blog/rich-content/"
 
         [[languages.nl.menu.main]]
         name = "Evenementenoverzicht"
@@ -73,7 +80,7 @@ description = "Ervaren in laten ervaren"
 # gravatar = "soho@example.com"
 images = ["images/profile.png"]
 profilePicture = "images/profile.png"
-copyright = "Author Name"
+copyright = "Marsja Mudde"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 builtWith = true
