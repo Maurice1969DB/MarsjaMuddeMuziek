@@ -1,3 +1,3 @@
-+++
-title = "Oude Muziek Blog"
-+++
+---
+title: "Oude Muziek Blog"
+---

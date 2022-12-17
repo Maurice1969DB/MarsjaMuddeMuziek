@@ -1,6 +1,16 @@
 {{ define "main" -}}
 <ul class="posts">
   <h1>{{ .Title }}</h1>
+  <br/>
+  {{ if eq (substr .RawContent 5 1) "M" }}
+    <div class="capital-m">
+      {{ .Content }}
+    </div>
+  {{ else }}
+    <div>
+      {{ .Content }}
+    </div>
+  {{ end }}
   {{ range .Data.Pages -}}
   <li>
     <div class="flex">

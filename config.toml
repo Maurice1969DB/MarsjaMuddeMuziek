@@ -33,6 +33,12 @@ weight = 2
         url = "/blog/"
 
         [[languages.nl.menu.main]]
+        name = "Programma's"
+        identifier = "programmas"
+        weight = 32
+        url = "/programmas"
+
+        [[languages.nl.menu.main]]
         name="Ensembles"
         identifier="ensembles"
         weight = 35
@@ -42,7 +48,7 @@ weight = 2
         name = "Evenementenoverzicht"
         identifier = "events"
         weight = 40
-        url = "/events/"
+        url = "/events"
 
     [languages.en]
     languageName = "English"
@@ -67,11 +73,17 @@ weight = 2
         weight = 30
         url = "/en/blog/"
 
+         [[languages.en.menu.main]]
+        name = "Programs"
+        identifier = "programmas"
+        weight = 32
+        url = "/en/programmas"
+
         [[languages.en.menu.main]]
         name="Ensembles"
         identifier="ensembles"
         weight = 35
-        url = "/ensembles"
+        url = "/en/ensembles"
 
         [[languages.en.menu.main]]
         name = "Events calendar"
