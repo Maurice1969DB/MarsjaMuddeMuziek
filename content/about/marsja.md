@@ -1,7 +1,6 @@
 ---
-date: 2022-05-27
-type: section
 title: Over Marsja Mudde
+url: /about
 ---
 
 ### Mijn naam is Marsja Mudde, zangeres en zangpedagoge. ###

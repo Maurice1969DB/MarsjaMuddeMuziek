@@ -24,7 +24,7 @@ weight = 2
         name = "Over Marsja Mudde"
         identifier = "about"
         weight = 20
-        url = "/about/"
+        url = "/about"
 
         [[languages.nl.menu.main]]
         name = "Oude muziek blog"
@@ -33,11 +33,10 @@ weight = 2
         url = "/blog/"
 
         [[languages.nl.menu.main]]
-        parent = "blog"
-        name = "Rich"
-        identifier = "rich"
+        name="Ensembles"
+        identifier="ensembles"
         weight = 35
-        url = "/blog/rich-content/"
+        url = "/ensembles"
 
         [[languages.nl.menu.main]]
         name = "Evenementenoverzicht"
@@ -67,6 +66,12 @@ weight = 2
         identifier = "blog"
         weight = 30
         url = "/en/blog/"
+
+        [[languages.en.menu.main]]
+        name="Ensembles"
+        identifier="ensembles"
+        weight = 35
+        url = "/ensembles"
 
         [[languages.en.menu.main]]
         name = "Events calendar"
