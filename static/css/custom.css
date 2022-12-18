@@ -137,7 +137,7 @@ h1 {
     margin-right: 0;
     height: 14rem;
     text-align: center;
-    background-image:linear-gradient(to top, rgba(245, 246, 252, 0.52), 92%, rgba(180, 37, 12, 0.21)), url("../images/default.jpeg");
+    background-image:linear-gradient(to top, rgba(245, 246, 252, 0.52), 65%, rgba(180, 37, 12, 0.21)), url("../images/default.jpeg");
     background-size: cover;
 }
 
@@ -226,7 +226,7 @@ h1 {
 
 }
 
-.content .capital-m p:first-child::first-letter, .capital-m h3:first-child::first-letter
+.content .capital-m h3:first-child::first-letter
 {
     background: url("../images/m.png") no-repeat;
     font-size: 5em;
@@ -234,6 +234,15 @@ h1 {
     float: left;
     margin-block: -2.5rem;
     margin-right: -0.1rem;
+}
+
+.content .capital-m p:first-child::first-letter
+{
+    background: url("../images/m.png") no-repeat;
+    font-size: 5em;
+    color: transparent;
+    float: left;
+    margin-block: -2.5rem;
 }
 
 .content a {
