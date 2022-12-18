@@ -4,61 +4,6 @@
     <title>Oude Muziek Blog on Marsja Mudde Muziek</title>
     <link>https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/</link>
     <description>Recent content in Oude Muziek Blog on Marsja Mudde Muziek</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Soho Theme</title>
-      <link>https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/soho/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/soho/</guid>
-      <description>Soho is a minimalist two-column hugo theme based on Hyde and inspired by the success of Flex.</description>
-    </item>
-    
-    <item>
-      <title>markdown syntax guide</title>
-      <link>https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://maurice1969db.github.io/MarsjaMuddeMuziek/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

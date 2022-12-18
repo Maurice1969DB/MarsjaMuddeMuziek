@@ -1,4 +1,4 @@
 ---
 author: "Marsja Mudde"
-title: "Ensembles"
+title: Ensembles
 ---

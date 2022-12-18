@@ -28,6 +28,10 @@ body {
     background-color: #fffcf3;
 }
 
+h4 {
+    font-weight: 800;
+}
+
 h3 {
     margin-bottom: 1rem;
     color: #003399
@@ -53,7 +57,7 @@ h1 {
 
 .sidebar .container
 {
-    padding-left: 1rem;
+    padding-left: 0rem;
 }
 
 .sidebar-about p
