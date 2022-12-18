@@ -1,3 +1,3 @@
-+++
-title = "News / Home"
-+++
+---
+title: "News / Home"
+---
