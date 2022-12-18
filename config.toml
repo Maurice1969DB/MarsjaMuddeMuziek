@@ -12,6 +12,7 @@ weight = 2
 [languages]
     [languages.nl]
     languageName = "Nederlands"
+    readMore = "Lees meer..."
     weight = 1
     [languages.nl.menu]
         [[languages.nl.menu.main]]
@@ -52,6 +53,7 @@ weight = 2
 
     [languages.en]
     languageName = "English"
+    readMore = "Read more..."
     weight = 2
 
         [languages.en.menu]

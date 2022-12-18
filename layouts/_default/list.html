@@ -11,11 +11,18 @@
       {{ .Content }}
     </div>
   {{ end }}
-  {{ range .Data.Pages -}}
+  {{ range .Data.Pages.ByWeight.Reverse -}}
   <li>
     <div class="flex">
       <a href="{{ .Permalink }}" class="truncate">{{ .Title }}</a>
     </div>
+    {{ .Summary }}
+      {{ if .Truncated }}
+      <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+      <div>
+        <a href="{{ .RelPermalink }}">{{ .Param "readMore" }}</a>
+      </div>
+      {{ end }}
   </li>
   {{- end }}
 </ul>

@@ -30,7 +30,13 @@ body {
 
 h3 {
     margin-bottom: 1rem;
+    color: #003399
 }
+
+h1 {
+    color: rgb(00, 33, 99)
+}
+
 
 .sidebar
 {
@@ -319,6 +325,10 @@ nav {
     .label
     {
         right: 6.5em;
+    }
+
+    h3 {
+        color: #003399
     }
 
 }
