@@ -30,15 +30,19 @@ body {
 
 h4 {
     font-weight: 800;
+    color: #ed4001;
+    text-align: left;
 }
 
 h3 {
     margin-bottom: 1rem;
-    color: #003399
+    color: #003399;
+    text-align: left;
 }
 
 h1 {
-    color: rgb(00, 33, 99)
+    color: rgb(00, 33, 99);
+    text-align: left;
 }
 
 
@@ -326,9 +330,14 @@ nav {
         background-color: #f6e8d7;
         box-shadow: rgb(0 0 0 / 35%) 0 5px 15px;
     }
+
     .post
     {
         margin-top: 5rem;
+    }
+
+    .posts ul {
+      list-style-type: ' - ';
     }
 
     .toggle {

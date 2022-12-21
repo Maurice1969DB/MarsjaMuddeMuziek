@@ -17,39 +17,69 @@ weight = 2
     [languages.nl.menu]
         [[languages.nl.menu.main]]
         name = "Nieuws / Home"
-        identifier = "news"
+        identifier = "nieuws"
         weight = 10
         url = "/"
 
         [[languages.nl.menu.main]]
         name = "Over Marsja Mudde"
-        identifier = "about"
+        identifier = "over"
         weight = 20
-        url = "/about"
-
-        [[languages.nl.menu.main]]
-        name = "Oude muziek blog"
-        identifier = "blog"
-        weight = 30
-        url = "/blog/"
+        url = "/over"
 
         [[languages.nl.menu.main]]
         name = "Programma's"
         identifier = "programmas"
-        weight = 32
-        url = "/programmas"
+        weight = 30
+        url = "/programmas"        
 
         [[languages.nl.menu.main]]
         name="Ensembles"
         identifier="ensembles"
-        weight = 35
+        weight = 40
         url = "/ensembles"
 
         [[languages.nl.menu.main]]
+        name="Zangles praktijk"
+        identifier="zangles"
+        weight = 50
+        url = "/zangles"
+
+        [[languages.nl.menu.main]]
+        name="Workshops"
+        identifier="workshops"
+        weight = 60
+        url = "/workshops"
+
+        [[languages.nl.menu.main]]
         name = "Evenementenoverzicht"
-        identifier = "events"
-        weight = 40
-        url = "/events"
+        identifier = "evenementen"
+        weight = 70
+        url = "/evenementen"
+
+        [[languages.nl.menu.main]]
+        name = "Oude muziek blog"
+        identifier = "blog"
+        weight = 80
+        url = "/blog"
+
+        [[languages.nl.menu.main]]
+        name="Fragmenten"
+        identifier="fragmenten"
+        weight = 90
+        url = "/fragmenten"
+
+        [[languages.nl.menu.main]]
+        name="CD's & Boeken"
+        identifier="produkten"
+        weight = 100
+        url = "/produkten"
+
+        [[languages.nl.menu.main]]
+        name = "Contact / Nieuwsbrief"
+        identifier = "contact"
+        weight = 110
+        url = "/contact"
 
     [languages.en]
     languageName = "English"
@@ -70,28 +100,58 @@ weight = 2
         url = "/en/about/"
 
         [[languages.en.menu.main]]
-        name = "Early music blog"
-        identifier = "blog"
-        weight = 30
-        url = "/en/blog/"
-
-         [[languages.en.menu.main]]
         name = "Programs"
-        identifier = "programmas"
-        weight = 32
-        url = "/en/programmas"
+        identifier = "programs"
+        weight = 30
+        url = "/en/programs"
 
         [[languages.en.menu.main]]
         name="Ensembles"
         identifier="ensembles"
-        weight = 35
+        weight = 40
         url = "/en/ensembles"
+
+        [[languages.en.menu.main]]
+        name="Teaching practice"
+        identifier="teaching"
+        weight = 50
+        url = "/en/teaching"
+
+        [[languages.en.menu.main]]
+        name="Workshops"
+        identifier="workshops"
+        weight = 60
+        url = "/en/workshops"
 
         [[languages.en.menu.main]]
         name = "Events calendar"
         identifier = "events"
-        weight = 40
+        weight = 70
         url = "/en/events/"
+
+        [[languages.en.menu.main]]
+        name = "Early music blog"
+        identifier = "blog"
+        weight = 80
+        url = "/en/blog/"
+
+        [[languages.en.menu.main]]
+        name = "Fragments"
+        identifier = "fragments"
+        weight = 90
+        url = "/en/fragments/"
+
+        [[languages.en.menu.main]]
+        name = "CDs & Books"
+        identifier = "products"
+        weight = 100
+        url = "/en/products/"
+
+        [[languages.en.menu.main]]
+        name = "Contact & Newsletter"
+        identifier = "contact"
+        weight = 110
+        url = "/en/contact"
 
 [params]
 title = "Soho Theme"
