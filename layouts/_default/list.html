@@ -10,7 +10,7 @@
       {{ .Content }}
     </div>
   {{ end }}
-  {{ range .Data.Pages.ByWeight.Reverse -}}
+  {{ range .Data.Pages.ByWeight -}}
   <li>
     <div class="flex">
       <a href="{{ .Permalink }}" class="truncate">{{ .Title }}</a>

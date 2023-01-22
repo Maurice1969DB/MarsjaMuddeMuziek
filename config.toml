@@ -23,9 +23,9 @@ weight = 2
 
         [[languages.nl.menu.main]]
         name = "Over Marsja Mudde"
-        identifier = "over"
+        identifier = "about"
         weight = 20
-        url = "/over"
+        url = "/about"
 
         [[languages.nl.menu.main]]
         name = "Programma's"
@@ -52,10 +52,10 @@ weight = 2
         url = "/workshops"
 
         [[languages.nl.menu.main]]
-        name = "Evenementenoverzicht"
-        identifier = "evenementen"
+        name = "Evenementen overzicht"
+        identifier = "events"
         weight = 70
-        url = "/evenementen"
+        url = "/events"
 
         [[languages.nl.menu.main]]
         name = "Oude muziek blog"
@@ -71,9 +71,9 @@ weight = 2
 
         [[languages.nl.menu.main]]
         name="CD's & Boeken"
-        identifier="produkten"
+        identifier="products"
         weight = 100
-        url = "/produkten"
+        url = "/products"
 
         [[languages.nl.menu.main]]
         name = "Contact / Nieuwsbrief"
@@ -137,9 +137,9 @@ weight = 2
 
         [[languages.en.menu.main]]
         name = "Fragments"
-        identifier = "fragments"
+        identifier = "fragmenten"
         weight = 90
-        url = "/en/fragments/"
+        url = "/en/fragmenten/"
 
         [[languages.en.menu.main]]
         name = "CDs & Books"
