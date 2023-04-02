@@ -103,6 +103,11 @@ h1 {
     color: white;
 }
 
+.sidebar .social-icons
+{
+    margin-top: 0;
+}
+
 @media( max-width: 60em ) {
 
     .sidebar.sidebar_small {
@@ -227,6 +232,7 @@ h1 {
     float: left;
     margin-block: -2.5rem;
     margin-right: 0.3rem;
+    margin-bottom: 0.2rem;
 
 }
 
@@ -267,6 +273,11 @@ nav {
     margin-left: 0;
 }
 
+.readmore a
+{
+    float: right;
+}
+
 
 @media (min-width: 60em) {
 
@@ -291,28 +302,24 @@ nav {
     .sidebar {
         top: 9rem;
         left: 5rem;
+        height: auto;
         background-image: url("../images/menu_bg.png");
         background-repeat: no-repeat;
         background-color: transparent;
+        background-position: center center;
+        background-size: cover;
         text-align: left;
-
+        overflow: hidden;
+        
     }
 
-    .sidebar:before
-    {
-        --s:10px;
-        --o:2em;
-        --c: #1d4062;
-        top:26.7rem;
+    .sidebar .container {
+        /* existing styles */
+        overflow-y: scroll;
+        max-height: calc(95vh - 14rem);
+      }
 
-        content:attr(data-text);
-        padding:5px calc(10px + var(--s)) calc(5px + var(--o)) calc(10px + var(--o));
-        position:absolute;
-        left: 0;
-        background: linear-gradient(#5c818e 0 0) bottom/100% var(--o) no-repeat;
-        clip-path:polygon(0 0,100% 0,calc(100% - var(--s)) calc(100% - var(--o)),var(--o) calc(100% - var(--o)),var(--o) 100%,0 calc(100% - var(--o)))
 
-    }
 
     .content .container
     {
@@ -340,6 +347,10 @@ nav {
       list-style-type: ' - ';
     }
 
+    .posts ul li {
+        padding-bottom: 2%;
+    }
+
     .toggle {
         display: none;
     }
@@ -349,10 +360,49 @@ nav {
         right: 6.5em;
     }
 
+   
+
     h3 {
         color: #003399
     }
 
 }
 
+/* Table styles */
+.calendar table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2rem;
+  }
+  
+  .calendar table th,
+  .calendar table td {
+    padding: 0.5rem;
+    text-align: left;
+    border: 1px solid #ccc;
+  }
+  
+  .calendar table th {
+    background-color: #05658e;
+    color: #ffffff;
+    font-weight: normal;
+  }
+
+.table-row-events {
+    background-color: #a1d1e5 !important;
+}
+
+.table-row-events:nth-child(odd) {
+    background-color: #86bdc9 !important;
+}
+
+/* For workshops */
+.table-row-workshops {
+    background-color: #e5a1a1 !important;
+}
+
+.table-row-workshops:nth-child(odd) {
+    background-color: #d98282 !important;
+}
+  
 

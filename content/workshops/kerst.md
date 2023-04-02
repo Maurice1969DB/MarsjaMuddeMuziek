@@ -4,6 +4,7 @@ menu:
     main:
         parent: workshops
         weight: 40
+date: 2023-12-09
 ---
 ### Een Middeleeuwse Kerst: 
 Middeleeuwse Kerstliederen uit de Nederlanden

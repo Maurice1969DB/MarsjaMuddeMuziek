@@ -81,6 +81,10 @@ weight = 2
         weight = 110
         url = "/contact"
 
+    [languages.nl.params.translations]
+        date = "Datum"
+        event = "Evenement"
+
     [languages.en]
     languageName = "English"
     readMore = "Read more..."
@@ -210,3 +214,5 @@ disableInlineCSS = true
 [markup.goldmark.renderer]
 # needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
 unsafe = true
+
+buildFuture = true

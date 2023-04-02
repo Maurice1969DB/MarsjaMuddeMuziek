@@ -1,4 +1,4 @@
-{{ define "main" -}}
+{{ define "main" }}
 <ul class="posts">
   <br/>
   {{ if in (substr (.Content | plainify) 0 1) "M" }}
@@ -10,19 +10,19 @@
       {{ .Content }}
     </div>
   {{ end }}
-  {{ range .Data.Pages.ByWeight -}}
-  <li>
-    <div class="flex">
-      <a href="{{ .Permalink }}" class="truncate">{{ .Title }}</a>
-    </div>
-    {{ .Summary }}
-      {{ if .Truncated }}
-      <!-- This <div> includes a read more link, but only if the summary is truncated... -->
-      <div>
-        <a href="{{ .RelPermalink }}">{{ .Param "readMore" }}</a>
-      </div>
-      {{ end }}
-  </li>
-  {{- end }}
+  {{ range where .Pages "Type" "!=" "events"  }}
+      <li>
+        <div class="flex">
+          <a href="{{ .Permalink }}" class="truncate">{{ .Title }}</a>
+        </div>
+        {{ .Summary }}
+          {{ if .Truncated }}
+          <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+          <div class="readmore">
+            <a href="{{ .RelPermalink }}">{{ .Param "readMore" }}</a>
+          </div>
+          {{ end }}
+      </li>
+  {{ end }}
 </ul>
-{{- end }}
+{{ end }}

@@ -1,5 +1,4 @@
 ---
-author: "Marsja Mudde"
-title: Evenementen overzicht
+title: "Evenementen"
+layout: "calendar"
 ---
-Marsja Mudde Muziek is betrokken bij de volgende publiek toegankelijke evenementen:

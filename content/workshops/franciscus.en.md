@@ -4,6 +4,7 @@ menu:
     main:
         parent: workshops
         weight: 30
+date: 2023-09-30
 ---
 ### Franciscus' Ode aan de Dieren: 
 Songs about Creation and Animal Kingdom from Italian Medieval and Renaissance Music Manuscripts

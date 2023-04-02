@@ -4,6 +4,7 @@ menu:
     main:
         parent: workshops
         weight: 30
+date: 2023-09-30
 ---
 ### Franciscus' Ode aan de Dieren: 
 Liederen over Schepping en Dierenrijk uit Italiaanse Middeleeuwse en Renaissance Muziek Handschriften

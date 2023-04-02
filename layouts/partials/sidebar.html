@@ -2,9 +2,25 @@
     <a href="javascript:void(0);" class="toggle">
         <i class="fa fa-bars"></i>
     </a>
+    <section style="font-size: 1.5rem" class="social-icons">
+      {{ if .IsTranslated }}
+          {{ range .Translations }}
+                  {{ if eq .Site.Language.Lang "en" }}
+                      <a  title="English" href="{{ .RelPermalink }}">&#x1F1EC;&#x1F1E7;</a>
+                  {{ else }}
+                      <a  title="Nederlands" href="{{ .RelPermalink }}">&#127475;&#127473;</a>
+                  {{ end }}
+
+          {{ end }}
+      {{ end }}
+      {{ range $item := .Site.Params.socialIcons }}
+      <a href="{{ $item.url }}" rel="me" title="{{ $item.title }}" target="_blank">
+        <i class="fab {{ $item.icon }}" aria-hidden="true"></i>
+      </a>
+      {{ end }}
+    </section>
   <div class="container">
-    <div class="sidebar-about">
-    </div>
+    <div class="sidebar-about"></div>
     <nav>
       <ul class="sidebar-nav">
         {{ $currentPage := . }}
@@ -31,24 +47,7 @@
       </ul>
     </nav>
 
-    <section class="social-icons">
-      {{ range $item := .Site.Params.socialIcons }}
-      <a href="{{ $item.url }}" rel="me" title="{{ $item.title }}" target="_blank">
-        <i class="fab {{ $item.icon }}" aria-hidden="true"></i>
-      </a>
-      {{ end }}
-    </section>
-      <section style="font-size: 2rem" class="social-icons">
-        {{ if .IsTranslated }}
-            {{ range .Translations }}
-                    {{ if eq .Site.Language.Lang "en" }}
-                        <a style="" title="English" href="{{ .RelPermalink }}">&#x1F1EC;&#x1F1E7;</a>
-                    {{ else }}
-                        <a style="" title="Nederlands" href="{{ .RelPermalink }}">&#127475;&#127473;</a>
-                    {{ end }}
-
-            {{ end }}
-        {{ end }}
-      </section>
+    
+      
   </div>
 </aside>
