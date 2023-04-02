@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://maurice1969db.github.io/MarsjaMuddeMuziek/en/workshops/franciscus/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/MarsjaMuddeMuziek/workshops/franciscus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/MarsjaMuddeMuziek/en/workshops/franciscus/"
+                />
+  </url><url>
+    <loc>https://maurice1969db.github.io/MarsjaMuddeMuziek/en/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/MarsjaMuddeMuziek/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/MarsjaMuddeMuziek/en/"
+                />
+  </url><url>
+    <loc>https://maurice1969db.github.io/MarsjaMuddeMuziek/en/workshops/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/MarsjaMuddeMuziek/workshops/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/MarsjaMuddeMuziek/en/workshops/"
+                />
+  </url><url>
     <loc>https://maurice1969db.github.io/MarsjaMuddeMuziek/en/news/home/</loc>
     <xhtml:link
                 rel="alternate"
@@ -183,6 +222,16 @@
                 />
   </url><url>
     <loc>https://maurice1969db.github.io/MarsjaMuddeMuziek/en/workshops/kerst/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/MarsjaMuddeMuziek/workshops/kerst/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/MarsjaMuddeMuziek/en/workshops/kerst/"
+                />
   </url><url>
     <loc>https://maurice1969db.github.io/MarsjaMuddeMuziek/en/ensembles/</loc>
     <xhtml:link
@@ -254,18 +303,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://maurice1969db.github.io/MarsjaMuddeMuziek/en/tags/news/"
-                />
-  </url><url>
-    <loc>https://maurice1969db.github.io/MarsjaMuddeMuziek/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://maurice1969db.github.io/MarsjaMuddeMuziek/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maurice1969db.github.io/MarsjaMuddeMuziek/en/"
                 />
   </url><url>
     <loc>https://maurice1969db.github.io/MarsjaMuddeMuziek/en/workshops/santiago/</loc>
@@ -362,18 +399,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://maurice1969db.github.io/MarsjaMuddeMuziek/programs.en/vita"
-                />
-  </url><url>
-    <loc>https://maurice1969db.github.io/MarsjaMuddeMuziek/en/workshops/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://maurice1969db.github.io/MarsjaMuddeMuziek/workshops/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maurice1969db.github.io/MarsjaMuddeMuziek/en/workshops/"
                 />
   </url>
 </urlset>
