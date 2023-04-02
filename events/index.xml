@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Evenementen on Marsja Mudde Muziek</title><link>https://maurice1969db.github.io/MarsjaMuddeMuziek/events/</link><description>Recent content in Evenementen on Marsja Mudde Muziek</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maurice1969db.github.io/MarsjaMuddeMuziek/events/index.xml" rel="self" type="application/rss+xml"/><item><title>event iets</title><link>https://maurice1969db.github.io/MarsjaMuddeMuziek/events/2023-04-01-event/</link><pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate><guid>https://maurice1969db.github.io/MarsjaMuddeMuziek/events/2023-04-01-event/</guid><description>ueueu</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evenementen on Marsja Mudde Muziek</title>
+    <link>https://maurice1969db.github.io/MarsjaMuddeMuziek/events/</link>
+    <description>Recent content in Evenementen on Marsja Mudde Muziek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maurice1969db.github.io/MarsjaMuddeMuziek/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>event iets</title>
+      <link>https://maurice1969db.github.io/MarsjaMuddeMuziek/events/2023-04-01-event/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurice1969db.github.io/MarsjaMuddeMuziek/events/2023-04-01-event/</guid>
+      <description>ueueu</description>
+    </item>
+    
+  </channel>
+</rss>

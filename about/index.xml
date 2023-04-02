@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Over Marsja Mudde on Marsja Mudde Muziek</title><link>https://maurice1969db.github.io/MarsjaMuddeMuziek/about/</link><description>Recent content in Over Marsja Mudde on Marsja Mudde Muziek</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://maurice1969db.github.io/MarsjaMuddeMuziek/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Curriculum Vitae</title><link>https://maurice1969db.github.io/MarsjaMuddeMuziek/about/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://maurice1969db.github.io/MarsjaMuddeMuziek/about/cv/</guid><description>Middeleeuwen- en renaissancespecialist en sopraan Marsja Mudde (Ridderkerk, 1976) was van jongs af aan al gefascineerd door steeds oudere klassieke vocale muziek.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Over Marsja Mudde on Marsja Mudde Muziek</title>
+    <link>https://maurice1969db.github.io/MarsjaMuddeMuziek/about/</link>
+    <description>Recent content in Over Marsja Mudde on Marsja Mudde Muziek</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://maurice1969db.github.io/MarsjaMuddeMuziek/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://maurice1969db.github.io/MarsjaMuddeMuziek/about/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurice1969db.github.io/MarsjaMuddeMuziek/about/cv/</guid>
+      <description>Middeleeuwen- en renaissancespecialist en sopraan Marsja Mudde (Ridderkerk, 1976) was van jongs af aan al gefascineerd door steeds oudere klassieke vocale muziek.</description>
+    </item>
+    
+  </channel>
+</rss>
