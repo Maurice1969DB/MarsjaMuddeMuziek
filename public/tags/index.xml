@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Marsja Mudde Muziek</title>
-    <link>https://maurice1969db.github.io/MarsjaMuddeMuziek/tags/</link>
+    <link>https://maurice1969db.github.io/tags/</link>
     <description>Recent content in Tags on Marsja Mudde Muziek</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://maurice1969db.github.io/MarsjaMuddeMuziek/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://maurice1969db.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>news</title>
-      <link>https://maurice1969db.github.io/MarsjaMuddeMuziek/tags/news/</link>
+      <link>https://maurice1969db.github.io/tags/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maurice1969db.github.io/MarsjaMuddeMuziek/tags/news/</guid>
+      <guid>https://maurice1969db.github.io/tags/news/</guid>
       <description></description>
     </item>
     
