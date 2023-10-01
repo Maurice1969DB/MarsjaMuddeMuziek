@@ -2,4 +2,4 @@
 title: Contact
 ---
 
-[Email](mailto:info@marsjamudde.nl)
+[E-mail](mailto:info@marsjamudde.nl)
