@@ -23,3 +23,7 @@ Vanaf 1974 concentreerde zij zich op vroege Europese vocale tradities. Van 1987 
 
 #### Centrum Cantus Modalis
 Na haar pensioen richtte zij een centrum voor modale muziek op, Centrum Cantus Modalis, bestaande uit een educatieve tak en een uitvoerende tak: Ensemble Cantus Modalis. Doel van het Centrum is om de onderliggende pricipes van de levende modale tradities van de niet-westerse wereld in samenhang met de 'uitgestorven' modale tradities van de westerse wereld te bestuderen. Dit met de intentie om het westerse gevoel van identificatie met haar modale wortels nieuw leven in te blazen.
+
+#### Nieuwsbrief
+
+<script async src="https://embed.email-provider.eu/e/d1gkustesj-fkt3dj0zfw.js"></script>
