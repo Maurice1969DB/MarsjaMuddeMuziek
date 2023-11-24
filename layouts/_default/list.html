@@ -13,7 +13,7 @@
   {{ range where .Pages "Type" "!=" "events"  }}
       <li>
         <div class="flex">
-          <a href="{{ .Permalink }}" class="truncate">{{ .Title }}</a>
+          <a href="{{ .RelPermalink }}" class="truncate">{{ .Title }}</a>
         </div>
         {{ .Summary }}
           {{ if .Truncated }}
