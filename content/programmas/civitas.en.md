@@ -1,9 +1,8 @@
 ---
 title: Civitas
-url: /programs/civitas
 menu:
     main:
-        parent: programs
+        parent: programmas
         weight: 2
 ---
 ### Civitas

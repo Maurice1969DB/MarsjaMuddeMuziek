@@ -9,7 +9,9 @@ Anime Beatitudinis Cantando is een professioneel vrouwenensemble dat op een zinn
 
 De klank en interpretatie van de muziek door Anime Beatitudinis Cantando kenmerkt zich door het vloeiend volgen van de originele notatie, aandacht voor het dialect en de tongval, aandacht voor de modale harmonie en akoestische effecten en bijgevolg het reageren op wat de muziek van de zangeressen wil (en dus niet andersom). Dit resulteert in een levendige uitvoering met verrassende samenklanken, die optimaal tot hun recht komen in de ruimte waar de voorstelling plaatsvindt. 
 
-De naam Anime Beatitudinis Cantando is Latijn voor "zingen in de ziel van gelukzaligheid". Dit geeft uitdrukking aan de intentie die muziek uit de periode van de middeleeuwen en vroege renaissance vaak impliciet lijkt te hebben: verbinding van de ziel met de ander en met het hogere. Maar ook aan het gevoel dat zingen bij de zangeressen teweeg kan brengen. Immers, de gelukkige ziel zingt en de zingende ziel is gelukkig!
+<img src="../images/Anime.jpeg" style="width: 13rem; float: left; margin:1rem">
+
+De naam Anime Beatitudinis Cantando is Latijn voor "zingen in de ziel van gelukzaligheid". Dit geeft uitdrukking aan de intentie die muziek uit de periode van de middeleeuwen en vroege renaissance vaak impliciet lijkt te hebben: verbinding van de ziel met de ander en met het hogere. Maar ook aan het gevoel dat zingen bij de zangeressen teweeg kan brengen, en hopelijk ook bij het publiek. Immers, de gelukkige ziel zingt en de zingende ziel is gelukkig! 
 
 Vaste kernleden van het ensemble zijn de zangeressen Cora Schmeiser, Agnieszka Chabowska en Marsja Mudde. Afhankelijk van het programma kunnen andere zangeressen of instrumentalisten aan het ensemble worden toegevoegd.
 

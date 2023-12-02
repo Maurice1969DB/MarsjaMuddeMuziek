@@ -104,10 +104,10 @@ weight = 2
         url = "/en/about/"
 
         [[languages.en.menu.main]]
-        name = "Programs"
-        identifier = "programs"
+        name = "Programmes"
+        identifier = "programmas"
         weight = 30
-        url = "/en/programs"
+        url = "/en/programmas"
 
         [[languages.en.menu.main]]
         name="Ensembles"

@@ -7,6 +7,9 @@ menu:
 ---
 ### Boek "Zicht op Hildegard; leven, visioenen, geneeskunst, muziek"
 Hildegard van Bingen was een sterke vrouw met veelzijdige talenten, blijkt uit het eind 2020 verschenen Zicht op Hildegard. Dit boek is een toegankelijke inleiding op het leven en werk van deze twaalfde-eeuwse benedictines, waarna je beslist op bedevaart wilt naar haar klooster in het Duitse Eibingen. In Zicht op Hildegard laten negen specialisten hun licht schijnen op een deelgebied van haar leven en werk. Bij elkaar levert dat een veelzijdig en indringend portret op.
+
+<img src="../images/BoekHildegard.jpeg" style="width: 13rem; float: right; margin:1rem">
+
 #### Auteurs
 Sociaal wetenschapper dr. Hans Wilbrink besteedt aandacht aan de maatschappelijke invloed van Hildegard toen en nu. Zuster Philippa Rath o.s.b. van de Hildegard-abdij in Eibingen laat zien dat zij een inspirerend voorbeeld is voor onze tijd. Theologe Kitty Bouwman bespreekt visioenen in het werk van Hildegard. Kunstkenner Felicia Dekkers werpt licht op twee handschriften. En classica en filosofe Mieke Kock-Rademakers gaat in op Hildegards eerste visioenenboek Ken de wegen. Velen kennen Hildegard van haar buitengewone kruidenkennis of via haar prachtige muziek. Ook die aspecten komen aan de orde, in artikelen van arts dr. Lutgart Gillis, en musicologen dr. Hanna Rijken, dr. Rebecca Stewart en drs. Marsja Mudde. 
 #### Redactie

@@ -1,9 +1,9 @@
 ---
 title: Vita Hildegardis Bingenis
-url: /programs.en/vita
+
 menu:
     main:
-        parent: programs
+        parent: programmas
         weight: 1
 ---
 ### Vita Hildegardis Bingensis
