@@ -197,7 +197,7 @@
                 href="https://maurice1969db.github.io/en/programmas/civitas/"
                 />
   </url><url>
-    <loc>https://maurice1969db.github.io/contact/</loc>
+    <loc>https://maurice1969db.github.io/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -206,7 +206,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://maurice1969db.github.io/contact/"
+                href="https://maurice1969db.github.io/en/contact/"
                 />
   </url><url>
     <loc>https://maurice1969db.github.io/en/about/cv/</loc>
@@ -267,6 +267,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://maurice1969db.github.io/en/ensembles/"
+                />
+  </url><url>
+    <loc>https://maurice1969db.github.io/en/events/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/en/events/"
                 />
   </url><url>
     <loc>https://maurice1969db.github.io/en/fragmenten/</loc>

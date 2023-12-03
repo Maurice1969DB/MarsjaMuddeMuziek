@@ -1,6 +1,5 @@
 ---
 title: Contact
-url: /contact
 ---
  
 Marsja Mudde Muziek is bereikbaar op het volgende postadres, telefoonnummer en e-mailadres: 
@@ -15,14 +14,7 @@ Nederland
 
 +31 6 18277792
 
-info@marsjamudde.nl
-
-<script async src="https://embed.email-provider.eu/e/uktpvji9jd-8m2ivdtpuz.js"></script>
----
-title: Contact
----
-#### E-mail
-[info(at)marsjamudde(puntje)nl](mailto:info@marsjamudde.nl)  
+[info(at)marsjamudde(puntje)nl](mailto:info@marsjamudde.nl)
 
 #### Nieuwsbrief  
 

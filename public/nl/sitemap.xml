@@ -54,12 +54,6 @@
                 href="https://maurice1969db.github.io/workshops/franciscus/"
                 />
   </url><url>
-    <loc>https://maurice1969db.github.io/events/</loc>
-    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maurice1969db.github.io/events/2023-04-01-event/</loc>
-    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://maurice1969db.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -175,7 +169,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://maurice1969db.github.io/contact/"
+                href="https://maurice1969db.github.io/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -217,6 +211,18 @@
                 rel="alternate"
                 hreflang="nl"
                 href="https://maurice1969db.github.io/ensembles/"
+                />
+  </url><url>
+    <loc>https://maurice1969db.github.io/events/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/en/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/events/"
                 />
   </url><url>
     <loc>https://maurice1969db.github.io/fragmenten/</loc>
