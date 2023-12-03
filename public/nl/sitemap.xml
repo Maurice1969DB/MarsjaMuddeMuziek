@@ -75,6 +75,18 @@
                 href="https://maurice1969db.github.io/news/home/"
                 />
   </url><url>
+    <loc>https://maurice1969db.github.io/news/website/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/en/news/website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/news/website/"
+                />
+  </url><url>
     <loc>https://maurice1969db.github.io/workshops/algemeen/</loc>
     <xhtml:link
                 rel="alternate"
@@ -151,7 +163,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://maurice1969db.github.io/programs/civitas/"
+                href="https://maurice1969db.github.io/en/programmas/civitas/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -160,6 +172,16 @@
                 />
   </url><url>
     <loc>https://maurice1969db.github.io/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/contact/"
+                />
   </url><url>
     <loc>https://maurice1969db.github.io/about/cv/</loc>
     <xhtml:link
@@ -381,7 +403,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://maurice1969db.github.io/programs.en/vita"
+                href="https://maurice1969db.github.io/en/programmas/vita/"
                 />
     <xhtml:link
                 rel="alternate"

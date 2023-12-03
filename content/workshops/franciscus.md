@@ -14,7 +14,7 @@ Liederen over Schepping en Dierenrijk uit Italiaanse Middeleeuwse en Renaissance
 #### Doelgroep:
 Liefhebbers van ieder niveau
 #### Datum:
-30 september of 7 oktober 2023; dit wordt nog nader bekendgemaakt.
+Datum nog niet bekend, oktober 2024; dit wordt nog nader bekendgemaakt.
 #### Kosten: 
 87 Euro per persoon
 #### Omschrijving:

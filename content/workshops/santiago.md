@@ -13,7 +13,7 @@ Middeleeuwse Pelgrimsliederen uit voornamelijk Spaanse Muziek Handschriften
 #### Doelgroep:
 Gevorderde amateurs en (pre-)professionals
 #### Datum:
-19-21 juni 2023 
+Datum ligt nog niet vast. Zomer 2024 
 #### Kosten: 
 197 Euro per persoon
 #### Omschrijving:

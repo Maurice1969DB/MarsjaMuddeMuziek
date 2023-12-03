@@ -53,6 +53,18 @@
                 href="https://maurice1969db.github.io/en/news/home/"
                 />
   </url><url>
+    <loc>https://maurice1969db.github.io/en/news/website/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/news/website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/en/news/website/"
+                />
+  </url><url>
     <loc>https://maurice1969db.github.io/en/zangles/</loc>
     <xhtml:link
                 rel="alternate"
@@ -173,7 +185,7 @@
                 href="https://maurice1969db.github.io/en/products/"
                 />
   </url><url>
-    <loc>https://maurice1969db.github.io/programs/civitas/</loc>
+    <loc>https://maurice1969db.github.io/en/programmas/civitas/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -182,7 +194,19 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://maurice1969db.github.io/programs/civitas/"
+                href="https://maurice1969db.github.io/en/programmas/civitas/"
+                />
+  </url><url>
+    <loc>https://maurice1969db.github.io/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/contact/"
                 />
   </url><url>
     <loc>https://maurice1969db.github.io/en/about/cv/</loc>
@@ -389,7 +413,7 @@
                 href="https://maurice1969db.github.io/en/workshops/opmaat/"
                 />
   </url><url>
-    <loc>https://maurice1969db.github.io/programs.en/vita</loc>
+    <loc>https://maurice1969db.github.io/en/programmas/vita/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -398,7 +422,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://maurice1969db.github.io/programs.en/vita"
+                href="https://maurice1969db.github.io/en/programmas/vita/"
                 />
   </url>
 </urlset>

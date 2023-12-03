@@ -13,8 +13,8 @@ Verdieping in de liederen van Hildegard von Bingen vanuit de Dendermonde Codex e
 #### Doelgroep:
 Gevorderde amateurs en (pre-)professionals
 #### Datum:
-datum nog niet bekend
+Datum nog niet bekend; op verzoek boekbaar vanaf 5 personen
 #### Kosten: 
-prijs nog niet bekend
+prijs nog niet bekend, mede afhankelijk van aantal personen
 #### Omschrijving:
-Onder auspicien van Centrum Cantus Modalis en in samenwerking met Cora Schmeiser ontwikkelt Marsja Mudde Muziek een vijfdaagse workshop rondom het rijke repertoire van de abdis Hildegard von Bingen. Er zal gewerkt worden vanuit reproducties van de originele handschriften. Thema’s in de workshop zijn uitspraak en betekenis, structuur en opbouw, cheironomie versus neumen, bourdons en andere creatieve keuzemogelijkheden en natuurlijk vocale flexibiliteit vanwege de grote ambitus van Hildegards muziek.
+Een vijfdaagse workshop rondom het rijke repertoire van de abdis Hildegard von Bingen. Er zal gewerkt worden vanuit reproducties van de originele handschriften. Thema’s in de workshop zijn uitspraak en betekenis, structuur en opbouw, cheironomie versus neumen, bourdons en andere creatieve keuzemogelijkheden en natuurlijk vocale flexibiliteit vanwege de grote ambitus van Hildegards muziek.

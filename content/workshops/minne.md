@@ -14,7 +14,7 @@ Middeleeuwse Gezongen Liefdespoëzie uit Nederland en Duitsland
 #### Doelgroep:
 Liefhebbers van ieder niveau; individuen en duo's
 #### Datum:
-11-12 februari 2023 
+Datum ligt nog niet vast. Ergens in februari 2024
 #### Kosten: 
 137 Euro per persoon
 #### Omschrijving:
