@@ -1,0 +1,14 @@
+{{ define "main" -}}
+<div class="post">
+  {{ with .Params.tagline }}<span class="tagline">{{ . }}</span>{{ end }}
+  {{ if in (substr (.Content | plainify) 0 1) "M" }}
+    <div class="capital-m">
+      {{ .Content }}
+    </div>
+  {{ else }}
+    <div>
+      {{ .Content }}
+    </div>
+  {{ end }}
+</div>
+  {{- end }}

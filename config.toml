@@ -1,0 +1,218 @@
+baseurl = "https://maurice1969db.github.io" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+title = "Marsja Mudde Muziek"
+theme = "soho"
+DefaultContentLanguage = "nl"
+enableInlineShortcodes = true
+summarylength = 10
+enableEmoji = true
+paginate = 5
+ignoreErrors = ["error-remote-getjson"]
+weight = 2
+
+[languages]
+    [languages.nl]
+    languageName = "Nederlands"
+    readMore = "Lees meer..."
+    weight = 1
+    [languages.nl.menu]
+        [[languages.nl.menu.main]]
+        name = "Nieuws / Home"
+        identifier = "nieuws"
+        weight = 10
+        url = "/"
+
+        [[languages.nl.menu.main]]
+        name = "Over Marsja Mudde"
+        identifier = "about"
+        weight = 20
+        url = "/about"
+
+        [[languages.nl.menu.main]]
+        name = "Programma's"
+        identifier = "programmas"
+        weight = 30
+        url = "/programmas"        
+
+        [[languages.nl.menu.main]]
+        name="Ensembles"
+        identifier="ensembles"
+        weight = 40
+        url = "/ensembles"
+
+        [[languages.nl.menu.main]]
+        name="Zangles praktijk"
+        identifier="zangles"
+        weight = 50
+        url = "/zangles"
+
+        [[languages.nl.menu.main]]
+        name="Workshops"
+        identifier="workshops"
+        weight = 60
+        url = "/workshops"
+
+        [[languages.nl.menu.main]]
+        name = "Evenementen overzicht"
+        identifier = "events"
+        weight = 70
+        url = "/events"
+
+        [[languages.nl.menu.main]]
+        name = "Oude muziek blog"
+        identifier = "blog"
+        weight = 80
+        url = "/blog"
+
+        [[languages.nl.menu.main]]
+        name="Fragmenten"
+        identifier="fragmenten"
+        weight = 90
+        url = "/fragmenten"
+
+        [[languages.nl.menu.main]]
+        name="CD's & Boeken"
+        identifier="products"
+        weight = 100
+        url = "/products"
+
+        [[languages.nl.menu.main]]
+        name = "Contact / Nieuwsbrief"
+        identifier = "contact"
+        weight = 110
+        url = "/contact"
+
+    [languages.nl.params.translations]
+        date = "Datum"
+        event = "Evenement"
+
+    [languages.en]
+    languageName = "English"
+    readMore = "Read more..."
+    weight = 2
+
+        [languages.en.menu]
+        [[languages.en.menu.main]]
+        name = "News / Home"
+        identifier = "news"
+        weight = 10
+        url = "/en/"
+
+        [[languages.en.menu.main]]
+        name = "About Marsja Mudde"
+        identifier = "about"
+        weight = 20
+        url = "/en/about/"
+
+        [[languages.en.menu.main]]
+        name = "Programmes"
+        identifier = "programmas"
+        weight = 30
+        url = "/en/programmas"
+
+        [[languages.en.menu.main]]
+        name="Ensembles"
+        identifier="ensembles"
+        weight = 40
+        url = "/en/ensembles"
+
+        [[languages.en.menu.main]]
+        name="Teaching practice"
+        identifier="teaching"
+        weight = 50
+        url = "/en/zangles"
+
+        [[languages.en.menu.main]]
+        name="Workshops"
+        identifier="workshops"
+        weight = 60
+        url = "/en/workshops"
+
+        [[languages.en.menu.main]]
+        name = "Events calendar"
+        identifier = "events"
+        weight = 70
+        url = "/en/events/"
+
+        [[languages.en.menu.main]]
+        name = "Early music blog"
+        identifier = "blog"
+        weight = 80
+        url = "/en/blog/"
+
+        [[languages.en.menu.main]]
+        name = "Fragments"
+        identifier = "fragmenten"
+        weight = 90
+        url = "/en/fragmenten/"
+
+        [[languages.en.menu.main]]
+        name = "CDs & Books"
+        identifier = "products"
+        weight = 100
+        url = "/en/products/"
+
+        [[languages.en.menu.main]]
+        name = "Contact & Newsletter"
+        identifier = "contact"
+        weight = 110
+        url = "/en/contact"
+
+[params]
+title = "Soho Theme"
+description = "Ervaren in laten ervaren"
+# gravatar = "soho@example.com"
+images = ["images/profile.png"]
+profilePicture = "images/profile.png"
+copyright = "Marsja Mudde"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+builtWith = true
+mainSections = ["news"]
+
+## Set custom theme color.
+## themeColor = "#fc2803"
+
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "#"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services]
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+# needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+unsafe = true
+
+buildFuture = true
