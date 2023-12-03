@@ -107,17 +107,17 @@ weight = 2
         name = "Programmes"
         identifier = "programmas"
         weight = 30
-        url = "/en/programmas"
+        url = "/en/programmas/"
 
         [[languages.en.menu.main]]
         name="Ensembles"
         identifier="ensembles"
         weight = 40
-        url = "/en/ensembles"
+        url = "/en/ensembles/"
 
         [[languages.en.menu.main]]
         name="Teaching practice"
-        identifier="teaching"
+        identifier="zangles"
         weight = 50
         url = "/en/zangles"
 
@@ -157,6 +157,10 @@ weight = 2
         weight = 110
         url = "/en/contact"
 
+     [languages.en.params.translations]
+        date = "Date"
+        event = "Event"
+
 [params]
 title = "Soho Theme"
 description = "Ervaren in laten ervaren"
@@ -168,6 +172,8 @@ license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 builtWith = true
 mainSections = ["news"]
+
+  
 
 ## Set custom theme color.
 ## themeColor = "#fc2803"

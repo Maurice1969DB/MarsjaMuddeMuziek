@@ -1,4 +1,9 @@
 ---
+title: Methodology in early music
+menu:
+    main:
+        parent: zangles
+        weight: 4
 ---
 ### Methodology in early music
 

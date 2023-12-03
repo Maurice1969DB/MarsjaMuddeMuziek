@@ -1,6 +1,5 @@
 ---
 title: Methodiek in de Oude Muziek
-url: /zangles/methodiek
 menu:
     main:
         parent: zangles

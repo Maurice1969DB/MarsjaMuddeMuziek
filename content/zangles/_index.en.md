@@ -1,6 +1,6 @@
 ---
 author: "Marsja Mudde"
-title: "Teaching Practice"
+title: Teaching Practice
 ---
 ### Singinglessons for individuals and groups
 Since quite some years I enjoy giving technical and interpretational singinglessons to individual students as well as groups. The content of my classes is individually suited, dependent on the questions being asked. One mainly asks about technical things, the other has questions about pronunciation or tempi. A third might wonder how to approach ensemblesinging. Sometimes even there is no question at all, just a longing for having fun singing together. There are many possibilities, and every question is worth asking. So make an appointment for an introduction lesson and we will explore how to work towards answers and new experience!

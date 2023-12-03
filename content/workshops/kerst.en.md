@@ -4,11 +4,12 @@ menu:
      main:
          parent: workshops
          weight: 40
+date: 2023-12-09
 ---
 ### A Medieval Christmas:
 Medieval Christmas carols from the Netherlands
 
-<img src="../images/Bazuinen.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../../../images/Bazuinen.jpeg" style="width: 13rem; float: right; margin:1rem">
 
 #### Target audience:
 Enthusiasts of all levels

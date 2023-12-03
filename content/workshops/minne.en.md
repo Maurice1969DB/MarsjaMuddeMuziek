@@ -8,7 +8,7 @@ menu:
 ### Die Minne mint ende singt:
 Medieval Sung Love Poetry from the Netherlands and Germany
 
-<img src="../images/ManesseCodex.jpg" style="width: 9rem; float: right; margin:1rem">
+<img src="../../../images/ManesseCodex.jpg" style="width: 9rem; float: right; margin:1rem">
 
 #### Target audience:
 Enthusiasts of every level; individuals and duos

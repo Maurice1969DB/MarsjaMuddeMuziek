@@ -9,7 +9,7 @@ date: 2023-09-30
 ### Franciscus' Ode aan de Dieren: 
 Songs about Creation and Animal Kingdom from Italian Medieval and Renaissance Music Manuscripts
 
-<img src="../images/Altissimu.png" style="width: 13rem; float: right; margin:1rem">
+<img src="../../../images/Altissimu.png" style="width: 13rem; float: right; margin:1rem">
 
 #### Target audience:
 Enthusiasts of all levels

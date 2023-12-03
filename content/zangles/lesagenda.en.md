@@ -1,5 +1,11 @@
 ---
+title: Appointments
+menu:
+    main:
+        parent: zangles
+        weight: 6
 ---
+
 ### Making lesson appointments
 Lessons can take place by appointment at my home in Den Bosch, at an additional cost at your home or at another location, or online at a normal rate if desired.
 

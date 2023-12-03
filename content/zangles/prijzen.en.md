@@ -1,4 +1,9 @@
 ---
+title: Prices and Conditions
+menu:
+    main:
+        parent: zangles
+        weight: 2
 ---
 ### Prices and conditions Singing lessons at Marsja Mudde Music from January 2023
 

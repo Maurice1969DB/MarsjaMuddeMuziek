@@ -8,7 +8,7 @@ menu:
 ### On the way to Santiago da Compostella:
 Medieval Pilgrim Songs from mainly Spanish Music Manuscripts
 
-<img src="../images/Congaudeant.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../../../images/Congaudeant.jpeg" style="width: 13rem; float: right; margin:1rem">
 
 #### Target audience:
 Advanced amateurs and (pre-)professionals

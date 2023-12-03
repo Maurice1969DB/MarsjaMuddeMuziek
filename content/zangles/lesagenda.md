@@ -1,6 +1,5 @@
 ---
 title: Lesagenda
-url: /zangles/lesagenda
 menu:
     main:
         parent: zangles

@@ -1,6 +1,5 @@
 ---
 title: Prijzen en voorwaarden 2023
-url: /zangles/prijzen
 menu:
     main:
         parent: zangles
