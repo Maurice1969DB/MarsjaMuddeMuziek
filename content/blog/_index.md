@@ -1,3 +1,0 @@
----
-title: "Oude Muziek Blog"
----

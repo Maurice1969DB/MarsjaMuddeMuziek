@@ -1,4 +1,0 @@
----
-title: "Evenementen"
-layout: "calendar"
----

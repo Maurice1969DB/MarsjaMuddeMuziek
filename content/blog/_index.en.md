@@ -1,3 +1,0 @@
-+++
-title = "Early Music Blog"
-+++
