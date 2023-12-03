@@ -181,7 +181,7 @@ mainSections = ["news"]
 [[params.socialIcons]]
 icon = "fa-linkedin"
 title = "Linkedin"
-url = "#"
+url = "https://nl.linkedin.com/in/marsjamudde"
 
 [taxonomies]
 category = "categories"
