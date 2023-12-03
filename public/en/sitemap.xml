@@ -65,18 +65,6 @@
                 href="https://maurice1969db.github.io/en/news/website/"
                 />
   </url><url>
-    <loc>https://maurice1969db.github.io/en/zangles/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://maurice1969db.github.io/zangles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maurice1969db.github.io/en/zangles/"
-                />
-  </url><url>
     <loc>https://maurice1969db.github.io/en/zangles/lesagenda/</loc>
     <xhtml:link
                 rel="alternate"
@@ -423,6 +411,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://maurice1969db.github.io/en/workshops/opmaat/"
+                />
+  </url><url>
+    <loc>https://maurice1969db.github.io/en/zangles/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/zangles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/en/zangles/"
                 />
   </url><url>
     <loc>https://maurice1969db.github.io/en/programmas/vita/</loc>

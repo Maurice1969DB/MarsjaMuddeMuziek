@@ -119,7 +119,7 @@ weight = 2
         name="Teaching practice"
         identifier="teaching"
         weight = 50
-        url = "/en/teaching"
+        url = "/en/zangles"
 
         [[languages.en.menu.main]]
         name="Workshops"
