@@ -5,8 +5,8 @@ menu:
          parent: workshops
          weight: 70
 ---
-### Customized workshops
-Marsja Mudde Muziek provides tailor-made workshops for all kinds of occasions and target groups.
+### Tailor-made workshops
+Marsja Mudde Muziek provides customized workshops for all kinds of occasions and target groups.
 
 <img src="../../../images/JaNuns.jpg" style="width: 13rem; float: right; margin:1rem">
 

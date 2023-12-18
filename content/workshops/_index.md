@@ -7,6 +7,7 @@ Marsja geeft niet alleen workshops voor mensen die al zingen, maar ook voor scho
 
 #### Workshops voor zingende liefhebbers van ieder niveau:
 Deze workshops focussen op kennismaking met het repertoire en met vroege notatie. Elke deelnemer wordt op haar of zijn niveau geholpen om het repertoire te kunnen zingen. Meer gevorderden worden individueel verder uitgedaagd. Als groep wordt gewerkt aan de interpretatie. Bij voldoende belangstelling is er een splitsing naar niveau in meer groepen mogelijk.
+- Maandelijkse studiedag Hildegard von Bingen (halve dag, alleen vrouwen)
 - Die Minne mint ende singt: Middeleeuwse Gezongen Liefdespoëzie uit Nederland en Duitsland
 Datum nader te bepalen, half februari 2024
 - Franciscus' Ode aan de Dieren: Liederen over Schepping en Dierenrijk uit Italiaanse Middeleeuwse en Renaissance Muziek Handschriften
@@ -17,10 +18,11 @@ Op verzoek nog te boeken voor december 2023, vanaf 2 personen. U kunt tot uiterl
 
 #### Workshops voor gevorderden en (pre)professionals:
 Bij deze workshops wordt verwacht dat de deelnemers voldoende ervaring hebben om de uitdaging van het volledig lezen uit de originele notatie aan te gaan. Er wordt zowel individueel als in groepjes gewerkt aan het repertoire. De workshop wordt afgesloten met een openbaar toonmoment.
+- Mastering Modal Methods and Manners for Modal Music: 20-22 februari 2024
 - Op weg naar Santiago da Compostella: Middeleeuwse Pelgrimsliederen uit voornamelijk Spaanse Muziek Handschriften
 Datum nader te bepalen, zomer 2024, ook op verzoek boekbaar vanaf 2 personen.
 - Hildegard von Bingen: verdieping in de liederen van Hildegard von Bingen vanuit de Dendermonde Codex en de Riesencodex
-Datum nader te bepalen, ook op verzoek boekbaar vanaf 5 personen.
+Datum nader te bepalen, ook op verzoek boekbaar vanaf 4 personen.
 - workshop op maat voor uw ensemble of koor
 
 #### Workshops voor basisscholen:

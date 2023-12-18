@@ -2,21 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maurice1969db.github.io/en/workshops/kerst/</loc>
-    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
+    <loc>https://maurice1969db.github.io/en/events/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://maurice1969db.github.io/workshops/kerst/"
+                href="https://maurice1969db.github.io/events/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://maurice1969db.github.io/en/workshops/kerst/"
+                href="https://maurice1969db.github.io/en/events/"
+                />
+  </url><url>
+    <loc>https://maurice1969db.github.io/en/events/demonstratiemmmm/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/events/demonstratiemmmm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/en/events/demonstratiemmmm/"
                 />
   </url><url>
     <loc>https://maurice1969db.github.io/en/</loc>
-    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -28,8 +41,21 @@
                 href="https://maurice1969db.github.io/en/"
                 />
   </url><url>
+    <loc>https://maurice1969db.github.io/en/workshops/mmmmmm/</loc>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/workshops/mmmmmm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/en/workshops/mmmmmm/"
+                />
+  </url><url>
     <loc>https://maurice1969db.github.io/en/workshops/</loc>
-    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -39,6 +65,45 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://maurice1969db.github.io/en/workshops/"
+                />
+  </url><url>
+    <loc>https://maurice1969db.github.io/en/workshops/studiedag2/</loc>
+    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/workshops/studiedag2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/en/workshops/studiedag2/"
+                />
+  </url><url>
+    <loc>https://maurice1969db.github.io/en/workshops/studiedag/</loc>
+    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/workshops/studiedag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/en/workshops/studiedag/"
+                />
+  </url><url>
+    <loc>https://maurice1969db.github.io/en/workshops/kerst/</loc>
+    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/workshops/kerst/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/en/workshops/kerst/"
                 />
   </url><url>
     <loc>https://maurice1969db.github.io/en/workshops/franciscus/</loc>
@@ -64,6 +129,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://maurice1969db.github.io/en/news/home/"
+                />
+  </url><url>
+    <loc>https://maurice1969db.github.io/en/news/kerstdagen/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://maurice1969db.github.io/news/kerstdagen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maurice1969db.github.io/en/news/kerstdagen/"
                 />
   </url><url>
     <loc>https://maurice1969db.github.io/en/news/website/</loc>
@@ -232,18 +309,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://maurice1969db.github.io/en/ensembles/"
-                />
-  </url><url>
-    <loc>https://maurice1969db.github.io/en/events/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://maurice1969db.github.io/events/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maurice1969db.github.io/en/events/"
                 />
   </url><url>
     <loc>https://maurice1969db.github.io/en/fragmenten/</loc>

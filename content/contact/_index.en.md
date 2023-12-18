@@ -18,8 +18,6 @@ The Netherlands
 
 [info(at)marsjamudde(point)nl](mailto:info@marsjamudde.nl)
 
-#### Newsletter
-
 #### Newsletter  
 
 <script async src="https://embed.email-provider.eu/e/uktpvji9jd-diooj9rlez.js"></script>

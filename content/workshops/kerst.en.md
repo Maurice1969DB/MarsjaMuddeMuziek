@@ -1,5 +1,5 @@
 ---
-title: Een Middeleeuwse Kerst
+title: A medieval Christmas
 menu:
      main:
          parent: workshops
@@ -14,7 +14,7 @@ Medieval Christmas carols from the Netherlands
 #### Target audience:
 Enthusiasts of all levels
 #### Date:
-December 9, 2023
+This workshop can be booked for a minimum of 2 participants, during the period of Advent until a few days after Christmas, with exception of Christmas Day and Boxing Day.
 #### Cost:
 87 euros per person
 #### Definition:

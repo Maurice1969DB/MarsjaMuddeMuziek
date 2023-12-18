@@ -14,11 +14,6 @@ Nederland
 
 +31 6 18277792
 
-info@marsjamudde.nl
-
----
-title: Contact
----
 #### E-mail
 [info(at)marsjamudde(puntje)nl](mailto:info@marsjamudde.nl)  
 

@@ -14,7 +14,7 @@ Middeleeuwse Kerstliederen uit de Nederlanden
 #### Doelgroep:
 Liefhebbers van ieder niveau
 #### Datum:
-Op verzoek nog te boeken voor december 2023, vanaf 2 personen. U kunt tot uiterlijk 12 december laten weten dat en wanneer u deze workshop wilt doen
+U kunt deze workshop in overleg boeken voor de adventsperiode tot een paar dagen na Kerstmis, met uitzondering van beide Kerstdagen, met een minimum van 2 deelnemers.
 #### Kosten: 
 87 Euro per persoon
 #### Omschrijving:

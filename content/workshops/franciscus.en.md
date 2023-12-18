@@ -1,12 +1,12 @@
 ---
-title: Franciscus' Ode aan de Dieren
+title: Franciscus' Ode to the Animals
 menu:
     main:
         parent: workshops
         weight: 30
 date: 2023-09-30
 ---
-### Franciscus' Ode aan de Dieren: 
+### Franciscus' Ode to the Animals: 
 Songs about Creation and Animal Kingdom from Italian Medieval and Renaissance Music Manuscripts
 
 <img src="../../../images/Altissimu.png" style="width: 13rem; float: right; margin:1rem">
@@ -14,7 +14,7 @@ Songs about Creation and Animal Kingdom from Italian Medieval and Renaissance Mu
 #### Target audience:
 Enthusiasts of all levels
 #### Date:
-September 30 or October 7, 2023; this will be announced later.
+Date to be planned around the 4th of October; this will be announced later.
 #### Cost:
 87 euros per person
 #### Description:
