@@ -21,4 +21,7 @@ The sounding results of this approach are clearly audible and have been describe
 
 #### Artistic leader Dr. Rebecca Stewart 
 Cantus Modalis is led by Dr. Rebecca Stewart. She has studied musicology, ethnomusicology, and different vocal genres at universities and centers in the United States, India and The Netherlands. She obtained her doctorate in ethnomusicology at the University of California and specialized for 15 years in Hindustani classical music. The combination of these experiences has given her a deep understanding of modal traditions, be they ‘Eastern’ or ‘Western’. This forms the basis of her approach to our western traditions, extending from the earliest forms of chant through their many and varied polyphonic offshoots. Since moving to The Netherlands in 1974 she has concentrated more on early European vocal traditions. In 1978 she became founder and director of the department of baroque singing at the Royal Conservatory in The Hague. From 1987 to 2002 she was maestro di cappella of the vocal ensemble Cappella Pratensis. In 1989 she founded the department of early ensemble singing at the Fontys Conservatory in Tilburg. 
-Link: More about the Center and Ensemble Cantus Modalis
+
+#### Newsletter from Center Cantus Modalis
+
+<script async src="https://embed.email-provider.eu/e/d1gkustesj-fkt3dj0zfw.js"></script>
