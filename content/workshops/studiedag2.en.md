@@ -14,7 +14,7 @@ Singing compositions by Hildegard von Bingen, together with other women.
 #### Target audience:
 Enthusiasts of any level, only women (sorry gentlemen)
 #### Number of participants:
-Minimum 2 (we work less hours), maximum 15, register until the Wednesday before, via [Marsja].(mailto:info@marsjamudde.nl) 
+Minimum 2 (we work less hours), maximum 15, register until the Wednesday before, via [Marsja](mailto:info@marsjamudde.nl) 
 #### Planning:
 Every third Saturday of the month we will work from 10:30 to 13:30 h (or shorter with fewer participants), with a short coffeebreak.
 #### Costs: 
