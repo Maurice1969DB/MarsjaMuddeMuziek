@@ -18,7 +18,7 @@
         {{ range $sortedUpcomingEvents }}
         <tr>
             <td class="{{ if eq .Type "events" }}table-row-events{{ else if eq .Type "workshops" }}table-row-workshops{{ end }}">  {{ .Date.Format "02-01-2006" }}</td>
-            <td class="{{ if eq .Type "events" }}table-row-events{{ else if eq .Type "workshops" }}table-row-workshops{{ end }}"><a href="{{ .Permalink }}">{{ .Title }} ({{.Type}})</a></td>
+            <td class="{{ if eq .Type "events" }}table-row-events{{ else if eq .Type "workshops" }}table-row-workshops{{ end }}"><a href="{{ .RelPermalink }}">{{ .Title }} ({{.Type}})</a></td>
         </tr>
         {{ end }}
         </tbody>
