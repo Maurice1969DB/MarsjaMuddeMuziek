@@ -14,7 +14,7 @@ Liederen over Schepping en Dierenrijk uit Italiaanse Middeleeuwse en Renaissance
 #### Doelgroep:
 Liefhebbers van ieder niveau
 #### Datum:
-Datum(s) nog niet bekend, boekbaar tot half oktober 2025. Dit wordt nog nader bekendgemaakt.
+Datum(s) nog niet bekend, boekbaar tot half oktober 2025; dit wordt nog nader bekendgemaakt.
 #### Kosten: 
 97 Euro per persoon
 #### Omschrijving:
