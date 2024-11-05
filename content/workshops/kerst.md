@@ -4,7 +4,7 @@ menu:
     main:
         parent: workshops
         weight: 40
-date: 2023-12-09
+date: 2024-12-01
 ---
 ### Een Middeleeuwse Kerst: 
 Middeleeuwse Kerstliederen uit de Nederlanden
@@ -16,7 +16,7 @@ Liefhebbers van ieder niveau
 #### Datum:
 U kunt deze workshop in overleg boeken voor de adventsperiode tot een paar dagen na Kerstmis, met uitzondering van beide Kerstdagen, met een minimum van 2 deelnemers.
 #### Kosten: 
-87 Euro per persoon
+97 Euro per persoon
 #### Omschrijving:
 Het feest van de geboorte van Christus is in de Christelijke traditie een van de belangrijkste feesten, in de middeleeuwen zelfs het allerbelangrijkste. De muziek die voor het Kerstfeest werd geschreven was daarom in vergelijking met ander repertoire ook vaker meerstemmig, had vaker mooie versieringen (melismen, 'trillers', etc.) en werd volgens de overlevering vaker begeleid door instrumenten. Het repertoire voor deze workshop is gekozen uit middeleeuwse handschriften uit de Nederlanden, die het Kerstverhaal rijk illustreren. 
 

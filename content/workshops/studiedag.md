@@ -4,7 +4,7 @@ menu:
     main:
         parent: workshops
         weight: 25
-date: 2024-01-20
+date: 2024-11-17
 ---
 ### Maandelijkse Studiedag Hildegard von Bingen: 
 Samen met andere vrouwen zingen van composities van Hildegard von Bingen.
@@ -16,9 +16,9 @@ Liefhebbers van ieder niveau, alleen vrouwen (sorry heren)
 #### Aantal deelnemers:
 Minimaal 2 (dan werken we korter), maximaal 15, uiterlijk de woensdag tevoren aanmelden via [Marsja](mailto:info@marsjamudde.nl) 
 #### Datum:
-Elke derde zaterdag van de maand werken we van 10:30 tot uiterlijk 13:30 uur, met een korte koffiepauze.
+Elke maand werken we een zondagmiddag van circa 13:30 tot uiterlijk 16:30 uur, met een korte koffiepauze.
 #### Kosten: 
-We delen de kosten met een minimum van 15 en een maximum van 45 Euro per persoon
+We delen de kosten met een minimum van 15 en een maximum van 45 Euro per persoon. U krijgt een digitaal betaalverzoek of een factuur achteraf.
 #### Omschrijving:
 Hildegard von Bingen (1098-1179) was een abdis met vele kwaliteiten, waarvan componeren er een was. Haar muziek wordt gekenmerkt door een grotere vrijheid en omvang in de melodieën dan het gregoriaans van haar tijd. Ook de teksten van haar liederen vertonen een enorme rijkdom in beelden en betekenislagen. Die combinatie maakt haar oevre zo fascinerend dat er een maandelijkse studiedag aan wordt gewijd. 
 
