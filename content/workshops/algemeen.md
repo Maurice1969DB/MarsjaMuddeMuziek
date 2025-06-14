@@ -20,7 +20,7 @@ De meeste themaworkshops vinden plaats in 's-Hertogenbosch of directe omgeving, 
 #### Hoe laat? 
 Om kwart voor 10 staan de koffie en thee klaar. Er wordt telkens gewerkt van 10 tot 13 en van 14 tot 17 uur, eventueel (op de laatste dag) eindigend met een kort informeel 'toonmoment', waarbij geïnteresseerden mogen komen luisteren.
 #### Wat kost het? 
-De kosten worden vermeld bij de informatie over de individuele themaworkshops. Dit bedrag is altijd inclusief BTW, koffie en thee, een soep of salade voor bij de lunch (verder neemt u zelf lunch mee), eenmalige telefonische of online voorbereidingscoaching en studiemateriaal. 
+De kosten worden vermeld bij de informatie over de individuele themaworkshops. Dit bedrag is altijd inclusief BTW en studiemateriaal. 
  
 #### Inschrijven:
 Stuur een e-mail naar info apenstaartje marsjamudde.nl met daarin de volgende gegevens:

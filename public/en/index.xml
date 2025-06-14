@@ -5,29 +5,20 @@
     <link>https://marsjamudde.nl/en/</link>
     <description>Recent content in News / Home on Marsja Mudde Muziek</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://marsjamudde.nl/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://marsjamudde.nl/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Franciscus&#39; Ode to the Animals</title>
-      <link>https://marsjamudde.nl/en/workshops/franciscus/</link>
-      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      <title>Die Minne mint ende singt</title>
+      <link>https://marsjamudde.nl/en/workshops/minne/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://marsjamudde.nl/en/workshops/franciscus/</guid>
-      <description>Franciscus&amp;rsquo; Ode to the Animals: Songs about Creation and Animal Kingdom from Italian Medieval and Renaissance Music Manuscripts</description>
-    </item>
-    
-    <item>
-      <title>Study-day Hildegard von Bingen</title>
-      <link>https://marsjamudde.nl/en/workshops/studiedag2/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://marsjamudde.nl/en/workshops/studiedag2/</guid>
-      <description>Monthly Study-day Hildegard von Bingen: Singing compositions by Hildegard von Bingen, together with other women.</description>
+      <guid>https://marsjamudde.nl/en/workshops/minne/</guid>
+      <description>Die Minne mint ende singt: Medieval Sung Love Poetry from the Netherlands and Germany</description>
     </item>
     
     <item>
       <title>A medieval Christmas</title>
       <link>https://marsjamudde.nl/en/workshops/kerst/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://marsjamudde.nl/en/workshops/kerst/</guid>
       <description>A Medieval Christmas: Medieval Christmas carols from the Netherlands
@@ -36,8 +27,44 @@ Target audience: Enthusiasts of all levels</description>
     
     <item>
       <title>Study-day Hildegard von Bingen</title>
+      <link>https://marsjamudde.nl/en/workshops/studiedag2/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsjamudde.nl/en/workshops/studiedag2/</guid>
+      <description>Monthly Study-day Hildegard von Bingen: Singing compositions by Hildegard von Bingen, together with other women.</description>
+    </item>
+    
+    <item>
+      <title>Francis and his Cantico del Sole</title>
+      <link>https://marsjamudde.nl/en/workshops/franciscusenzonnelied/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsjamudde.nl/en/workshops/franciscusenzonnelied/</guid>
+      <description>Francis and his Cantico del Sole: Songs about Saint Francis and his exacly 800 year old Cantico del Sole from Italian manuscripts from the medieval and renaissance periods</description>
+    </item>
+    
+    <item>
+      <title>On the way to Santiago</title>
+      <link>https://marsjamudde.nl/en/workshops/santiago/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsjamudde.nl/en/workshops/santiago/</guid>
+      <description>On the way to Santiago da Compostella: Medieval Pilgrim Songs from mainly Spanish Music Manuscripts</description>
+    </item>
+    
+    <item>
+      <title>Cantico del Sole Concert at Kloosterkerk Megen 15:00</title>
+      <link>https://marsjamudde.nl/en/events/29juni2025/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsjamudde.nl/en/events/29juni2025/</guid>
+      <description>Canticle of the Sun Concert at Kloosterkerk Megen In a double concert with the Herz Ensemble, which presents modern musical settings of the Canticle of the Sun by Francis of Assisi, the ensemble Anime Beatitudinis Cantando performs the lively program Sia Laudato, San Francesco!</description>
+    </item>
+    
+    <item>
+      <title>Study-day Hildegard von Bingen</title>
       <link>https://marsjamudde.nl/en/workshops/studiedag/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>https://marsjamudde.nl/en/workshops/studiedag/</guid>
       <description>Monthly Study-day Hildegard von Bingen: Singing compositions by Hildegard von Bingen, together with other women.</description>
@@ -130,7 +157,7 @@ Target audience: Enthusiasts of all levels</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://marsjamudde.nl/en/programmas/civitas/</guid>
-      <description>Civitas Civitas is a project of Marsja Mudde Muziek. Civitas means city and refers to the heavenly city of Jerusalem, the city of peace with a dazzling beauty, but also to the earthly Jerusalem and the many other pilgrimage cities in Europe.</description>
+      <description>Civitas Civitas is a project of Marsja Mudde Muziek. Civitas means civilization or city and refers to the heavenly city of Jerusalem, the city of peace with a dazzling beauty, but also to the earthly Jerusalem and the many other pilgrimage cities in Europe.</description>
     </item>
     
     <item>
@@ -149,15 +176,6 @@ Target audience: Enthusiasts of all levels</description>
       
       <guid>https://marsjamudde.nl/en/about/cv/</guid>
       <description>Medieval and Renaissance specialist and soprano Marsja Mudde (Ridderkerk, 1976) was fascinated from an early age by increasingly older classical vocal music.</description>
-    </item>
-    
-    <item>
-      <title>Die Minne mint ende singt</title>
-      <link>https://marsjamudde.nl/en/workshops/minne/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marsjamudde.nl/en/workshops/minne/</guid>
-      <description>Die Minne mint ende singt: Medieval Sung Love Poetry from the Netherlands and Germany</description>
     </item>
     
     <item>
@@ -197,15 +215,6 @@ Target audience: Enthusiasts of all levels</description>
     </item>
     
     <item>
-      <title>On the way to Santiago</title>
-      <link>https://marsjamudde.nl/en/workshops/santiago/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marsjamudde.nl/en/workshops/santiago/</guid>
-      <description>On the way to Santiago da Compostella: Medieval Pilgrim Songs from mainly Spanish Music Manuscripts</description>
-    </item>
-    
-    <item>
       <title>Prices and Conditions</title>
       <link>https://marsjamudde.nl/en/zangles/prijzen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -224,6 +233,15 @@ Target audience: Enthusiasts of all levels</description>
     </item>
     
     <item>
+      <title>Sia laudato, San Francesco</title>
+      <link>https://marsjamudde.nl/en/programmas/sialaudato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsjamudde.nl/en/programmas/sialaudato/</guid>
+      <description>Sia laudato, San Francesco Imagine this: a medieval troubadour, a street preacher, and a circle of devoted brothers and sisters around him—all with songs on their lips.</description>
+    </item>
+    
+    <item>
       <title>Tailor-made workshops</title>
       <link>https://marsjamudde.nl/en/workshops/opmaat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -238,7 +256,7 @@ Target audience: Enthusiasts of all levels</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://marsjamudde.nl/en/programmas/vita/</guid>
-      <description>Vita Hildegardis Bingensis Vita Hildegardis Bingensis is a concert series with the new ensemble Anime Beatitudinis Cantando with the singers Agnieszka Chabowska, Cora Schmeiser and Marsja Mudde.</description>
+      <description>Vita Hildegardis Bingensis Vita Hildegardis Bingensis is a concert series with the ensemble Anime Beatitudinis Cantando with the singers Agnieszka Chabowska, Cora Schmeiser and Marsja Mudde.</description>
     </item>
     
   </channel>

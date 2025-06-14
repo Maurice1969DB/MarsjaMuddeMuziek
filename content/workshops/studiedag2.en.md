@@ -4,7 +4,7 @@ menu:
     main:
         parent: workshops
         weight: 25
-date: 2024-12-15
+date: 2025-09-21
 ---
 ### Monthly Study-day Hildegard von Bingen: 
 Singing compositions by Hildegard von Bingen, together with other women.
@@ -16,9 +16,9 @@ Enthusiasts of any level, only women (sorry gentlemen)
 #### Number of participants:
 Minimum 2 (we work less hours), maximum 15, register until the Wednesday before, via [Marsja](mailto:info@marsjamudde.nl) 
 #### Planning:
-Every month we will work a Sunday afternoon from 13:30 to 16:30 h (or shorter with fewer participants), with a short coffeebreak.
+Every month we will work a Sunday afternoon from 13:30 to 16:30 h (or shorter with fewer participants), with a short break.
 #### Costs: 
-We share the costs with a minimum of 15 and a maximum of 45 Euro per person. You can pay via a digital link or you will receive a bill afterwards.
+We share the costs with a minimum of 15 and a maximum of 50 Euro per person. You can pay via a digital link or you will receive a bill afterwards.
 #### Description:
 Hildegard von Bingen (1098-1179) was an abbess with many qualities, one of which was composing. Her music is characterized by greater freedom and scope in the melodies than the Gregorian chant of her time. The lyrics of her songs also show an enormous wealth of images and layers of meaning. This combination makes her oevre so fascinating that a monthly study day is devoted to it.
 

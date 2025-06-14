@@ -19,7 +19,7 @@ Most theme workshops take place in 's-Hertogenbosch or the immediate vicinity, a
 #### What time?
 Coffee and tea are ready at a quarter to 10. Work is always from 10 a.m. to 1 p.m. and from 2 p.m. to 5 p.m., ending (on the last day) with a short informal 'show moment', where interested parties may come and listen.
 #### What does it cost?
-The costs are stated in the information about the individual themed workshops. This amount always includes VAT, coffee and tea, a soup or salad for lunch (you should also bring your own lunch), one-off telephone preparation coaching and study material.
+The costs are stated in the information about the individual themed workshops. This amount always includes VAT and study materials.
 #### Stack discount
 If you want to participate in several workshops, you receive a "stack discount": with two workshops you receive a 5% discount on the total bill, with three workshops 7.5%, with four or more workshops 10%.
 

@@ -4,7 +4,7 @@ menu:
      main:
          parent: workshops
          weight: 40
-date: 2024-12-01
+date: 2025-12-01
 ---
 ### A Medieval Christmas:
 Medieval Christmas carols from the Netherlands
@@ -15,8 +15,8 @@ Medieval Christmas carols from the Netherlands
 Enthusiasts of all levels
 #### Date:
 This workshop can be booked for a minimum of 2 participants, during the period of Advent until a few days after Christmas, with exception of Christmas Day and Boxing Day.
-#### Cost:
-97 euros per person
+#### Costs:
+117 euros per person
 #### Definition:
 The feast of the birth of Christ is one of the most important feasts in the Christian tradition, even the most important in the Middle Ages. The music written for Christmas was therefore more often polyphonic in comparison with other repertoire, often had beautiful decorations (melisms, 'trills', etc.) and, according to tradition, was more often accompanied by instruments. The repertoire for this workshop has been chosen from medieval manuscripts from the Netherlands, and richly illustrates the Christmas story.
 
