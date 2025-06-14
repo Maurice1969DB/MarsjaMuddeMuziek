@@ -9,8 +9,9 @@ menu:
 
 <img src="../../../images/SiaMiniatuur.jpeg" style="width: 13rem; float: right; margin:1rem">
 
-Imagine this: a medieval troubadour, a street preacher, and a circle of devoted brothers and sisters around him—all with songs on their lips. What did the world of Francis of Assisi sound like? In the concert program Sia laudato, San Francesco, vocal ensemble Anime Beatitudinis Cantando weaves a musical narrative tapestry. Ancient musical gems, vivid visuals, and a joyful spirit form the warp and weft of this rich fabric.
-Sia laudato, San Francesco is an animated concert program by Anime Beatitudinis Cantando, in collaboration with animator Cristina Garcia Martin.
+Imagine this: a medieval troubadour, a street preacher, and a circle of devoted brothers and sisters around him — all with songs on their lips. What did the world of Francis of Assisi sound like?
+
+In the animated concert program Sia laudato, San Francesco, vocal ensemble Anime Beatitudinis Cantando weaves a musical narrative tapestry. Ancient musical gems, vivid visuals, and a joyful spirit form the warp and weft of this rich fabric. This program, celebrating the 800th anniversary of the Cantico del Sole, was developed in collaboration with animator Cristina Garcia Martin.
 
 ### A Jubilant Jubilee
 The year 2025 has been declared a Jubilee Year by the late Pope Francis, with a special focus on the Christian pilgrimage to Rome. But there’s more: it also marks 800 years since Saint Francis of Assisi (Assisi, 1181/1182 – October 3, 1226) — patron saint of Italy, animals, and the environmental movement — composed his famous Canticle of the Sun. And in 2026, we commemorate 800 years since Francis’s passing.
