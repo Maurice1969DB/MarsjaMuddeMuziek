@@ -173,30 +173,6 @@
                 href="https://marsjamudde.nl/news/home/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/news/kerstdagen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://marsjamudde.nl/en/news/kerstdagen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://marsjamudde.nl/news/kerstdagen/"
-                />
-  </url><url>
-    <loc>https://marsjamudde.nl/news/website/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://marsjamudde.nl/en/news/website/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://marsjamudde.nl/news/website/"
-                />
-  </url><url>
     <loc>https://marsjamudde.nl/workshops/algemeen/</loc>
     <xhtml:link
                 rel="alternate"
