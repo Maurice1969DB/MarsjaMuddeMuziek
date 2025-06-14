@@ -16,7 +16,7 @@ Singing amateurs of every level
 #### Date:
 Saturday 20 September 2025 from 10 to 17. Location close to 's-Hertogenbosch will be announced soon.
 #### Costs: 
-150 Euro per person, study materials, jubilee lunch, coffee and tea included
+160 Euro per person, study materials, jubilee lunch, coffee and tea included
 #### Register:
 Send an e-mail to [Marsja](mailto:info@marsjamudde.nl) (Click here)
 #### Definition:
