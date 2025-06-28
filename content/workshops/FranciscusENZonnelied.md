@@ -6,7 +6,7 @@ menu:
         weight: 30
 date: 2025-09-20
 ---
-### Franciscus en zijn jubilerende Zonnelied: 
+### Workshop Franciscus en zijn jubilerende Zonnelied: 
 Liederen over Sint Franciscus en zijn precies 800 jaar oude Zonnelied uit Italiaanse Middeleeuwse en Renaissance Muziek Handschriften
 
 <img src="../images/Altissimu.png" style="width: 13rem; float: right; margin:1rem">
@@ -16,7 +16,7 @@ Zingende liefhebbers van ieder niveau
 #### Datum:
 Zaterdag 20 september 2025 van 10 tot 17 uur. Locatie in de buurt van 's-Hertogenbosch wordt nader bekend gemaakt.
 #### Kosten: 
-160 Euro per persoon, lesmaterialen, jubileumlunch, koffie en thee inbegrepen 
+160 Euro per persoon, inclusief lesmaterialen, jubileumlunch, koffie en thee
 #### Inschrijven:
 Aanmelden via [Marsja](mailto:info@marsjamudde.nl) (Klik om mail te sturen)
 #### Omschrijving:
