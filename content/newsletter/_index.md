@@ -1,5 +1,5 @@
 ---
-title: Newsletter
+title: Nieuwsbrief
 menu:
   main:
     identifier: newsletter
