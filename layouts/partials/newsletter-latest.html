@@ -1,0 +1,36 @@
+{{ $json := or site.Data.nieuwsbrief (getJSON "data/nieuwsbrief.json") }}
+{{ $s := newScratch }}
+{{ if or (isset $json "web") (isset $json "raw") }}
+  {{ $s.Set "camp" (or $json.raw $json) }}
+  {{ $s.Set "web"  (or $json.web $json.webversion_url $json.web_url) }}
+  {{ $s.Set "title" (or $json.subject $json.title) }}
+{{ else }}
+  {{ $campaigns := apply $json.data "index" "." "campaign" }}
+  {{ $sorted := sort $campaigns "delivery_requested" "desc" }}
+  {{ $camp := index $sorted 0 }}
+  {{ $s.Set "camp" $camp }}
+  {{ $s.Set "web"  (or $camp.web $camp.webversion_url $camp.web_url) }}
+  {{ $s.Set "title" (or $camp.subject $camp.name) }}
+{{ end }}
+{{ $camp := $s.Get "camp" }}
+{{ $web  := $s.Get "web" }}
+{{ $title := $s.Get "title" }}
+{{ if and $camp $web }}
+  <section class="newsletter" style="margin-top: 2rem;">
+    <h3>{{ i18n "latestNewsletter" }}</h3>
+    <p><strong>{{ $title }}</strong></p>
+    <div class="newsletter-embed" style="margin-top: 0.5rem;">
+      <iframe
+        src="{{ $web }}"
+        title="{{ i18n "latestNewsletter" }}"
+        width="100%"
+        height="900"
+        style="border:0;"
+        loading="lazy"></iframe>
+    </div>
+    <p style="margin-top: 0.5rem;">
+      {{ i18n "newsletterEmbedIssue" }}
+      <a href="{{ $web }}" target="_blank" rel="noopener">{{ i18n "newsletterOpenInNewWindow" }}</a>.
+    </p>
+  </section>
+{{ end }}

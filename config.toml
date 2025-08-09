@@ -76,10 +76,16 @@ weight = 2
         url = "/products"
 
         [[languages.nl.menu.main]]
-        name = "Contact / Nieuwsbrief"
+        name = "Contact"
         identifier = "contact"
-        weight = 110
+        weight = 120
         url = "/contact"
+
+         [[languages.nl.menu.main]]
+        name = "Nieuwsbrief"
+        identifier = "newsletter"
+        weight = 110
+        url = "/newsletter"
 
     [languages.nl.params.translations]
         date = "Datum"
@@ -152,10 +158,17 @@ weight = 2
         url = "/en/products/"
 
         [[languages.en.menu.main]]
-        name = "Contact & Newsletter"
+        name = "Contact"
         identifier = "contact"
-        weight = 110
+        weight = 120
         url = "/en/contact"
+
+        [[languages.en.menu.main]]
+        name = "Newsletter"
+        identifier = "newsletter"
+        weight = 110
+        url = "/en/newsletter"
+
 
      [languages.en.params.translations]
         date = "Date"

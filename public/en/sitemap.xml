@@ -398,6 +398,18 @@
                 href="https://marsjamudde.nl/en/tags/news/"
                 />
   </url><url>
+    <loc>https://marsjamudde.nl/en/newsletter/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/newsletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/newsletter/"
+                />
+  </url><url>
     <loc>https://marsjamudde.nl/en/news/</loc>
     <xhtml:link
                 rel="alternate"
