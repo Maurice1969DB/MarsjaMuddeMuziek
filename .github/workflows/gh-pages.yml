@@ -4,8 +4,7 @@ on:
   push:
     branches: [ master ]
   schedule:
-    # 06:00 UTC = 08:00 in NL (zomertijd).
-    - cron: "0 6 * * *"
+    - cron: "0 8 * * *"
   workflow_dispatch:
 
 jobs:
