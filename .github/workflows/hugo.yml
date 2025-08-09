@@ -6,6 +6,10 @@ on:
   push:
     branches: ["master"]
 
+  # Cronjob elke dag om 08:00 UTC (09:00 NL in winter, 10:00 in zomer)
+  schedule:
+    - cron: "0 8 * * *"
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -48,6 +52,13 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+
+      # Fetch latest Laposta newsletter JSON vóór Hugo build
+      - name: Fetch latest Laposta newsletter
+        env:
+          LAPOSTA_API_KEY: ${{ secrets.LAPOSTA_API_KEY }}
+        run: node scripts/fetchLaposta.mjs
+
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
