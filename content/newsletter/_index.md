@@ -3,7 +3,7 @@ title: Newsletter
 menu:
   main:
     identifier: newsletter
-    name: Newsletter
+    name: Nieuwsbrief
     weight: 20
 ---
 
