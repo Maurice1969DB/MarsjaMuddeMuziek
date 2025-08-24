@@ -25,7 +25,7 @@ Tegen het einde van de les wordt de zojuist behandelde techniek in een repertoir
 - ook mensen met lichamelijke of geestelijke klachten zijn van harte welkom
 
 #### Waar?
-- zanglessen vinden plaats bij mij aan huis of op verzoek ergens anders (tegen meerprijs)
+- zanglessen vinden plaats bij mij aan huis of op verzoek ergens anders of online (tegen meerprijs)
 - cursussen en workshops vinden zo mogelijk plaats op een locatie met een mooie akoestiek
 
 #### Wanneer?
@@ -33,11 +33,11 @@ Tegen het einde van de les wordt de zojuist behandelde techniek in een repertoir
 - cursussen en workshops worden aangekondigd via de Nieuwsbrief en in de Agenda
 
 #### Wat kost het?
-- zangles individueel 1 uur: 62,50 Euro (2023), inclusief thee en BTW, exclusief reiskosten en bladmuziek.
+- zangles individueel 1 uur: 67,50 Euro (2025), inclusief thee en BTW, exclusief reiskosten en bladmuziek.
 - de overige lesprijzen zijn hiervan afgeleid, en vindt u onder Prijzen en voorwaarden. Bij afspreken van 5 of meer lessen vooruit (lespakket) krijgt u een aantrekkelijke korting.
-- introductieles 1 1/4 uur: 75 Euro (2023). Indien u aansluitend een lespakket afsluit, ontvangt u het bedrag van de introductieles geheel of gedeeltelijk terug.
+- introductieles 1 1/4 uur: 80 Euro (2025). Indien u aansluitend een lespakket afsluit, ontvangt u het bedrag van de introductieles geheel of gedeeltelijk terug.
 - de prijzen van cursussen en workshops zijn variabel en worden vermeld bij de aankondigingen hiervan of in de offerte.
 - voor de overige voorwaarden, zie Prijzen en voorwaarden.
 
 #### Hoe maak ik een afspraak?
-- maak een afspraak via de lesagenda of telefonisch of per mail
+- maak een afspraak telefonisch, via WhatsApp of Signal, of per mail.

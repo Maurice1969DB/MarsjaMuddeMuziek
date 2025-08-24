@@ -54,6 +54,45 @@
                 href="https://marsjamudde.nl/workshops/kerst/"
                 />
   </url><url>
+    <loc>https://marsjamudde.nl/events/</loc>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/events/"
+                />
+  </url><url>
+    <loc>https://marsjamudde.nl/events/17nov2025/</loc>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/events/17nov2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/events/17nov2025/"
+                />
+  </url><url>
+    <loc>https://marsjamudde.nl/events/01nov2025/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/events/01nov2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/events/01nov2025/"
+                />
+  </url><url>
     <loc>https://marsjamudde.nl/workshops/studiedag2/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -80,6 +119,19 @@
                 href="https://marsjamudde.nl/workshops/franciscusenzonnelied/"
                 />
   </url><url>
+    <loc>https://marsjamudde.nl/events/05sept2025/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/events/05sept2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/events/05sept2025/"
+                />
+  </url><url>
     <loc>https://marsjamudde.nl/workshops/santiago/</loc>
     <lastmod>2025-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -91,19 +143,6 @@
                 rel="alternate"
                 hreflang="nl"
                 href="https://marsjamudde.nl/workshops/santiago/"
-                />
-  </url><url>
-    <loc>https://marsjamudde.nl/events/</loc>
-    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://marsjamudde.nl/en/events/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://marsjamudde.nl/events/"
                 />
   </url><url>
     <loc>https://marsjamudde.nl/events/29juni2025/</loc>
@@ -160,6 +199,18 @@
   </url><url>
     <loc>https://marsjamudde.nl/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marsjamudde.nl/news/deicasamenwerking/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/news/deicasamenwerking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/news/deicasamenwerking/"
+                />
   </url><url>
     <loc>https://marsjamudde.nl/news/franciscusworkshop/</loc>
   </url><url>

@@ -18,7 +18,7 @@ Saturday 20 September 2025 from 10 to 17. Location close to 's-Hertogenbosch wil
 #### Costs: 
 160 Euro per person, study materials, jubilee lunch, coffee and tea included
 #### Register:
-Send an e-mail to [Marsja](mailto:info@marsjamudde.nl) (Click here)
+Send an e-mail to [Marsja](mailto:info@marsjamudde.nl) (Click here). Register before September 1st, 2025.
 #### Definition:
 In 2025 it is exactly 800 years ago that Saint Francis finished his famous Cantico del Sole, the song that inspired the late pope Francis to call for more care for the Creation and for each other. Vocal ensemble Anime Beatitudinis Cantando developed a concert program with music around this Cantico del Sole and the life history of its maker. The repertoire amongst others consists of gregorian chant (the chant for the office of the feast of Saint Francis on the 4th of October) and Italian laude. Polyphonic music by Landini and Ciconia are also sung in this concert program called [Sia Laudato, San Francesco!](/programmas/sialaudato) (click for more information).
 

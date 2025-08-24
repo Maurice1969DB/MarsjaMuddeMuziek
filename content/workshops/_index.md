@@ -5,25 +5,29 @@ title: Workshops
 Bij Marsja Mudde Muziek kunt u terecht voor bijzondere workshops rond middeleeuwse en renaissance muziek. Er staan in de agenda meestal meerdere workshops voor zangers en zangeressen die geinteresseerd zijn in dit repertoire. Bij voldoende belangstelling kunnen deze workshops in overleg op andere dagen worden gegeven, of bij voorbeeld speciaal voor uw ensemble of koor. 
 Marsja geeft niet alleen workshops voor mensen die al zingen, maar ook voor scholen, musea en bedrijven. Hierin staat soms het zingen of de muziekgeschiedenis voorop, soms andere thema’s. Op verzoek ontwikkelt Marsja tevens workshops op maat voor allerlei doelgroepen.
 
-#### Workshops voor zingende liefhebbers van ieder niveau:
+#### Workshops voor zingende liefhebbers vanaf halfgevorderd niveau:
 Deze workshops focussen op kennismaking met het repertoire en met vroege notatie. Elke deelnemer wordt op haar of zijn niveau geholpen om het repertoire te kunnen zingen. Meer gevorderden worden individueel verder uitgedaagd. Als groep wordt gewerkt aan de interpretatie. Bij voldoende belangstelling is er een splitsing naar niveau in meer groepen mogelijk.
 - Maandelijkse studiedag Hildegard von Bingen (halve dag, alleen vrouwen)
 - Die Minne mint ende singt: Middeleeuwse Gezongen Liefdespoëzie uit Nederland en Duitsland
-Datum nader te bepalen, half februari 2024
+Datum nader te bepalen, half februari 2026
 - Franciscus' Ode aan de Dieren: Liederen over Schepping en Dierenrijk uit Italiaanse Middeleeuwse en Renaissance Muziek Handschriften
-Datum nader te bepalen, ergens in oktober 2024
+Datum nader te bepalen, ergens in oktober 2026
 - Een Middeleeuwse Kerst: Middeleeuwse Kerstliederen uit de Nederlanden
-Op verzoek nog te boeken voor december 2023, vanaf 2 personen. U kunt tot uiterlijk 12 december laten weten dat en wanneer u deze workshop wilt doen
+Op verzoek nog te boeken voor december 2025, vanaf 2 personen. U kunt tot uiterlijk 12 december laten weten dat en wanneer u deze workshop wilt doen
 - workshop op maat voor uw koor of een andere context
 
 #### Workshops voor gevorderden en (pre)professionals:
 Bij deze workshops wordt verwacht dat de deelnemers voldoende ervaring hebben om de uitdaging van het volledig lezen uit de originele notatie aan te gaan. Er wordt zowel individueel als in groepjes gewerkt aan het repertoire. De workshop wordt afgesloten met een openbaar toonmoment.
-- Mastering Modal Methods and Manners for Modal Music: 20-22 februari 2024
 - Op weg naar Santiago da Compostella: Middeleeuwse Pelgrimsliederen uit voornamelijk Spaanse Muziek Handschriften
-Datum nader te bepalen, zomer 2024, ook op verzoek boekbaar vanaf 2 personen.
-- Hildegard von Bingen: verdieping in de liederen van Hildegard von Bingen vanuit de Dendermonde Codex en de Riesencodex
-Datum nader te bepalen, ook op verzoek boekbaar vanaf 4 personen.
+Datum nader te bepalen, zomer 2026, ook op verzoek boekbaar vanaf 2 personen.
+- Hildegard von Bingen: meerdaagse verdieping in de liederen van Hildegard von Bingen vanuit de Dendermonde Codex en de Riesencodex. Datum nader te bepalen, ook op verzoek boekbaar vanaf 4 personen.
+- Mastering Modal Methods and Manners for Modal Music: datum nader te bepalen, ook op verzoek boekbaar vanaf 4 personen.
 - workshop op maat voor uw ensemble of koor
+
+#### Workshops voor bedrijven, koren, verenigingen, etcetera:
+Informeert u vrijblijvend naar de prijzen en voorwaarden van onderstaande workshop of een workshop op maat.
+- Held of antiheld? Een workshop rond het troubadourslied ‘Ja nuns hons pris’ van de 12e eeuwse koning van Engeland, Richard Leeuwenhart, waarin thema’s aan bod komen zoals verbinding, leiden en volgen, balans en ervaren door te doen.
+- workshop op maat voor uw bedrijf of organisatie
 
 #### Workshops voor basisscholen:
 Deze workshops verbinden muziek aan andere basisschoolvakken. Prijzen en andere voorwaarden zijn afhankelijk van de duur van de workshop en van andere afspraken.
@@ -41,7 +45,3 @@ De beschreven workshops zijn geschikt voor een "blokuur" of een dagdeel. De prij
 - workshop op maat voor uw klas
 - workshop op maat voor uw docenten en praktijkbegeleiders
 
-#### Workshops voor bedrijven:
-Informeert u vrijblijvend naar de prijzen en voorwaarden van deze workshop of een workshop op maat.
-- Held of antiheld? Een workshop rond het troubadourslied ‘Ja nuns hons pris’ van de 12e eeuwse koning van Engeland, Richard Leeuwenhart, waarin thema’s aan bod komen zoals verbinding, leiden en volgen, balans en ervaren door te doen.
-- workshop op maat voor uw bedrijf of organisatie
