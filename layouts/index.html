@@ -1,6 +1,6 @@
 {{ define "main" -}}
 
-  <div class="posts">
+  <div class="posts home-posts">
     {{- $pages := where .Site.RegularPages "Type" "in" .Site.Params.MainSections -}}
     {{- $paginator := .Paginate $pages -}}
 

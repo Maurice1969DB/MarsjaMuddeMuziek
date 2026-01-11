@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Marsja Mudde on Marsja Mudde Muziek</title>
-    <link>http://localhost:1313/en/about/</link>
+    <link>https://marsjamudde.nl/en/about/</link>
     <description>Recent content in About Marsja Mudde on Marsja Mudde Muziek</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marsjamudde.nl/en/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitae</title>
-      <link>http://localhost:1313/en/about/cv/</link>
+      <link>https://marsjamudde.nl/en/about/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/about/cv/</guid>
+      <guid>https://marsjamudde.nl/en/about/cv/</guid>
       <description>&lt;p&gt;Medieval and Renaissance specialist and soprano Marsja Mudde (Ridderkerk, 1976) was fascinated from an early age by increasingly older classical vocal music. From the start of her singing studies at the Fontys Conservatory in Tilburg, she specialized in the Middle Ages and Renaissance with Dr. Rebecca Stewart, head of the Early Vocal Ensemble Music department. After her extraordinarily successful graduation concert on Saint Michael and All Angels, she followed many more specialization courses at master level. She immersed herself in, among other things, the Paris Notre Dame repertoire, Hildegard von Bingen, Modern Devotion and Gregorian chant music from all European regions.&lt;/p&gt;</description>
     </item>
   </channel>

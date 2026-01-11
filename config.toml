@@ -178,6 +178,7 @@ weight = 2
 [params]
 title = "Soho Theme"
 description = "Ervaren in laten ervaren"
+customCss = ["css/modern.css"]
 # gravatar = "soho@example.com"
 images = ["images/profile.png"]
 profilePicture = "images/profile.png"

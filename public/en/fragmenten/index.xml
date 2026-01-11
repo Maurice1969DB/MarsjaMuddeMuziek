@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fragments on Marsja Mudde Muziek</title>
-    <link>http://localhost:1313/en/fragmenten/</link>
+    <link>https://marsjamudde.nl/en/fragmenten/</link>
     <description>Recent content in Fragments on Marsja Mudde Muziek</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/en/fragmenten/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marsjamudde.nl/en/fragmenten/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

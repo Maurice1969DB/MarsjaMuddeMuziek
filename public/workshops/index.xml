@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshops on Marsja Mudde Muziek</title>
-    <link>http://localhost:1313/workshops/</link>
+    <link>https://marsjamudde.nl/workshops/</link>
     <description>Recent content in Workshops on Marsja Mudde Muziek</description>
     <generator>Hugo</generator>
     <language>nl</language>
     <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marsjamudde.nl/workshops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Die Minne mint ende singt</title>
-      <link>http://localhost:1313/workshops/minne/</link>
+      <link>https://marsjamudde.nl/workshops/minne/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workshops/minne/</guid>
+      <guid>https://marsjamudde.nl/workshops/minne/</guid>
       <description>&lt;h3 id=&#34;die-minne-mint-ende-singt&#34;&gt;Die Minne mint ende singt:&lt;/h3&gt;&#xA;&lt;p&gt;Middeleeuwse Gezongen Liefdespoëzie uit Nederland en Duitsland&lt;/p&gt;</description>
     </item>
     <item>
       <title>Een Middeleeuwse Kerst</title>
-      <link>http://localhost:1313/workshops/kerst/</link>
+      <link>https://marsjamudde.nl/workshops/kerst/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workshops/kerst/</guid>
+      <guid>https://marsjamudde.nl/workshops/kerst/</guid>
       <description>&lt;h3 id=&#34;een-middeleeuwse-kerst&#34;&gt;Een Middeleeuwse Kerst:&lt;/h3&gt;&#xA;&lt;p&gt;Middeleeuwse Kerstliederen uit de Nederlanden&lt;/p&gt;&#xA;&lt;img src=&#34;../images/Bazuinen.jpeg&#34; style=&#34;width: 13rem; float: right; margin:1rem&#34; loading=&#34;lazy&#34;&gt;&#xA;&lt;h4 id=&#34;doelgroep&#34;&gt;Doelgroep:&lt;/h4&gt;&#xA;&lt;p&gt;Liefhebbers van ieder niveau&lt;/p&gt;</description>
     </item>
     <item>
       <title>Studiedag Hildegard von Bingen</title>
-      <link>http://localhost:1313/workshops/studiedag2/</link>
+      <link>https://marsjamudde.nl/workshops/studiedag2/</link>
       <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workshops/studiedag2/</guid>
+      <guid>https://marsjamudde.nl/workshops/studiedag2/</guid>
       <description>&lt;h3 id=&#34;maandelijkse-studiedag-hildegard-von-bingen&#34;&gt;Maandelijkse Studiedag Hildegard von Bingen:&lt;/h3&gt;&#xA;&lt;p&gt;Samen met andere vrouwen zingen van composities van Hildegard von Bingen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Franciscus en zijn jubilerende Zonnelied</title>
-      <link>http://localhost:1313/workshops/franciscusenzonnelied/</link>
+      <link>https://marsjamudde.nl/workshops/franciscusenzonnelied/</link>
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workshops/franciscusenzonnelied/</guid>
+      <guid>https://marsjamudde.nl/workshops/franciscusenzonnelied/</guid>
       <description>&lt;h3 id=&#34;workshop-franciscus-en-zijn-jubilerende-zonnelied&#34;&gt;Workshop Franciscus en zijn jubilerende Zonnelied:&lt;/h3&gt;&#xA;&lt;p&gt;Liederen over Sint Franciscus en zijn precies 800 jaar oude Zonnelied uit Italiaanse Middeleeuwse en Renaissance Muziek Handschriften&lt;/p&gt;</description>
     </item>
     <item>
       <title>Op weg naar Santiago</title>
-      <link>http://localhost:1313/workshops/santiago/</link>
+      <link>https://marsjamudde.nl/workshops/santiago/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workshops/santiago/</guid>
+      <guid>https://marsjamudde.nl/workshops/santiago/</guid>
       <description>&lt;h3 id=&#34;op-weg-naar-santiago-da-compostella&#34;&gt;Op weg naar Santiago da Compostella:&lt;/h3&gt;&#xA;&lt;p&gt;Middeleeuwse Pelgrimsliederen uit voornamelijk Spaanse Muziek Handschriften&lt;/p&gt;</description>
     </item>
     <item>
       <title>Studiedag Hildegard von Bingen</title>
-      <link>http://localhost:1313/workshops/studiedag/</link>
+      <link>https://marsjamudde.nl/workshops/studiedag/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workshops/studiedag/</guid>
+      <guid>https://marsjamudde.nl/workshops/studiedag/</guid>
       <description>&lt;h3 id=&#34;maandelijkse-studiedag-hildegard-von-bingen&#34;&gt;Maandelijkse Studiedag Hildegard von Bingen:&lt;/h3&gt;&#xA;&lt;p&gt;Samen met andere vrouwen zingen en bestuderen van composities van Hildegard von Bingen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mastering Modal Methods and Manners for Modal Music</title>
-      <link>http://localhost:1313/workshops/mmmmmm/</link>
+      <link>https://marsjamudde.nl/workshops/mmmmmm/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workshops/mmmmmm/</guid>
+      <guid>https://marsjamudde.nl/workshops/mmmmmm/</guid>
       <description>&lt;h3 id=&#34;mastering-modal-methods-and-manners-for-modal-music&#34;&gt;Mastering Modal Methods and Manners for Modal Music:&lt;/h3&gt;&#xA;&lt;p&gt;A medium-advanced to advanced course by Center Cantus Modalis. Language of instruction: English.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Algemene Informatie</title>
-      <link>http://localhost:1313/workshops/algemeen/</link>
+      <link>https://marsjamudde.nl/workshops/algemeen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workshops/algemeen/</guid>
+      <guid>https://marsjamudde.nl/workshops/algemeen/</guid>
       <description>&lt;h3 id=&#34;algemene-informatie-themaworkshops-voor-liefhebbers-gevorderden-en-pre-professionals&#34;&gt;Algemene informatie themaworkshops voor liefhebbers, gevorderden en (pre-)professionals&lt;/h3&gt;&#xA;&lt;p&gt;Onderstaand vindt u de algemene informatie en voorwaarden voor de themaworkshops. De voorwaarden voor workshops voor scholen en bedrijven worden in de offerte verwerkt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hildegard von Bingen</title>
-      <link>http://localhost:1313/workshops/hildegard/</link>
+      <link>https://marsjamudde.nl/workshops/hildegard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workshops/hildegard/</guid>
+      <guid>https://marsjamudde.nl/workshops/hildegard/</guid>
       <description>&lt;h3 id=&#34;hildegard-von-bingen&#34;&gt;Hildegard von Bingen:&lt;/h3&gt;&#xA;&lt;p&gt;Verdieping in de liederen van Hildegard von Bingen vanuit de Dendermonde Codex en de Riesencodex&lt;/p&gt;</description>
     </item>
     <item>
       <title>Workshops op maat</title>
-      <link>http://localhost:1313/workshops/opmaat/</link>
+      <link>https://marsjamudde.nl/workshops/opmaat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workshops/opmaat/</guid>
+      <guid>https://marsjamudde.nl/workshops/opmaat/</guid>
       <description>&lt;h3 id=&#34;workshops-op-maat&#34;&gt;Workshops op maat&lt;/h3&gt;&#xA;&lt;p&gt;Marsja Mudde Muziek verzorgt workshops op maat voor allerlei gelegenheden en doelgroepen.&lt;/p&gt;</description>
     </item>
   </channel>

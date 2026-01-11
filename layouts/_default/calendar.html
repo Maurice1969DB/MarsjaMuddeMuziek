@@ -1,36 +1,34 @@
 {{ define "main" }}
 <div class="calendar">
-    {{ $upcomingEvents := slice }}
-    {{ range .Site.RegularPages }}
-    {{ if and (or (eq .Type "events") (eq .Type "workshops")) (ge .Date.Unix now.Unix) }}
-        {{ $upcomingEvents = $upcomingEvents | append . }}
-      {{ end }}
-    {{ end }}
+    {{ $events := where .Site.RegularPages "Type" "events" }}
+    {{ $workshops := where .Site.RegularPages "Type" "workshops" }}
+    {{ $all := union $events $workshops }}
+    {{ $upcomingEvents := where $all "Date" "ge" now }}
     {{ $sortedUpcomingEvents := sort $upcomingEvents "Date" "asc" }}
 
     {{ if $sortedUpcomingEvents }}
-    <table>
-        <thead>
-            <tr>
-                <th>{{ .Site.Params.translations.date }}</th>
-                <th>{{ .Site.Params.translations.event }}</th>
-            </tr>
-        </thead>
-        <tbody>
+    <div class="events-grid">
         {{ range $sortedUpcomingEvents }}
-        <tr>
-            <td class="{{ if eq .Type "events" }}table-row-events{{ else if eq .Type "workshops" }}table-row-workshops{{ end }}">{{ .Date.Format "02-01-2006" }}</td>
-            <td class="{{ if eq .Type "events" }}table-row-events{{ else if eq .Type "workshops" }}table-row-workshops{{ end }}"><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
-        </tr>
+        <a href="{{ .RelPermalink }}" class="event-card {{ if eq .Type "events" }}event-card--concert{{ else }}event-card--workshop{{ end }}">
+            <div class="event-card__date">
+                <span class="event-card__day">{{ .Date.Format "02" }}</span>
+                <span class="event-card__month">{{ if eq $.Lang "nl" }}{{ index (split "jan|feb|mrt|apr|mei|jun|jul|aug|sep|okt|nov|dec" "|") (sub (int (.Date.Format "1")) 1) }}{{ else }}{{ .Date.Format "Jan" }}{{ end }}</span>
+                <span class="event-card__year">{{ .Date.Format "2006" }}</span>
+            </div>
+            <div class="event-card__content">
+                <span class="event-card__type">{{ if eq .Type "events" }}{{ if eq $.Lang "nl" }}Concert{{ else }}Concert{{ end }}{{ else }}Workshop{{ end }}</span>
+                <h3 class="event-card__title">{{ .Title }}</h3>
+                {{ with .Description }}<p class="event-card__description">{{ . }}</p>{{ end }}
+            </div>
+            <div class="event-card__arrow">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </div>
+        </a>
         {{ end }}
-        </tbody>
-    </table>
-
-    <!-- Legenda -->
-    <div class="calendar-legend">
-        <span class="legend-item legend-events">{{ if eq .Lang "nl" }}Concerten{{ else }}Concerts{{ end }}</span>
-        <span class="legend-item legend-workshops">Workshops</span>
     </div>
+
     {{ else }}
     <p class="no-events">{{ if eq .Lang "nl" }}Er zijn momenteel geen geplande evenementen.{{ else }}There are currently no scheduled events.{{ end }}</p>
     {{ end }}
