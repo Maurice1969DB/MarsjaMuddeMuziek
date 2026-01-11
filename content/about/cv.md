@@ -6,7 +6,7 @@ menu:
 ---
 Middeleeuwen- en renaissancespecialist en sopraan Marsja Mudde (Ridderkerk, 1976) was van jongs af aan al gefascineerd door steeds oudere klassieke vocale muziek. Vanaf het begin van haar zangstudie aan het Fontys Conservatorium in Tilburg specialiseerde zij zich in de middeleeuwen en renaissance bij dr. Rebecca Stewart, hoofd van de afdeling Oude Vocale Ensemble Muziek. Na haar buitengewoon succesvolle eindexamenconcert over Sint Michael en Alle Engelen volgde zij nog vele specialisatiecursussen op masterniveau. Zo verdiepte zij zich in onder anderen het Parijse Notre Dame repertoire, Hildegard von Bingen, Moderne Devotie en gregoriaanse muziek uit alle Europese gebieden.
 
-<img src="../images/MarsjaRidderkerk.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../images/MarsjaRidderkerk.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 Al tijdens haar studie en sindsdien trad zij in binnen- en buitenland veelvuldig op met Ensemble Trigon, Ensemble Cantus Modalis, Ensemble Per Sonorem Vocis, haar eigen Ensemble Anime Beatitudinis Cantanti en anderen. Zo gaf zij concerten en workshops in Zuid Korea, Georgie, Duitsland, Portugal, Frankrijk en Belgie.
 

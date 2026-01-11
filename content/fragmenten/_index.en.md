@@ -5,7 +5,7 @@ description: "Listen to music fragments by Marsja Mudde on Soundcloud."
 ---
 Maybe you have become curious after the sound of Marsja Mudde? On Soundcloud you can find some fragments, to which is referred here. Of the piece you want to listen to, click on the play-icon you find there, looking like this:
 
-<img src="../../fragmenten/images/soundcloud.jpeg" style="width: 5rem; margin:rem">
+<img src="../../fragmenten/images/soundcloud.jpeg" style="width: 5rem; margin:rem" loading="lazy">
 
 Have fun listening!
 

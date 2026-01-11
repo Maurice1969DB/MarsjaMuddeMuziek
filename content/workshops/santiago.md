@@ -9,7 +9,7 @@ date: 2025-07-15
 ### Op weg naar Santiago da Compostella: 
 Middeleeuwse Pelgrimsliederen uit voornamelijk Spaanse Muziek Handschriften
 
-<img src="../images/Congaudeant.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../images/Congaudeant.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Doelgroep:
 Gevorderde amateurs en (pre-)professionals

@@ -3,7 +3,7 @@
 
 ### Marsja Mudde Muziek: ervaren in laten ervaren
 
-<img src="news/images/MarsjaPieterskerkAltaar.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="news/images/MarsjaPieterskerkAltaar.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 Ervaren in laten ervaren is het motto van Marsja Mudde Muziek en waar Marsja als mens en musicus voor staat. Musiceren is volgens haar namelijk echt een ervarings-vak. Als musicus word je getraind op basis van wat de docent ervaart terwijl die naar je luistert. En door veel herhaling en oefenen met de feedback van de docent, ofwel na veel ervaring, maak je je het vak eigen.
 

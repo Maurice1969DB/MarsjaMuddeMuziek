@@ -7,6 +7,15 @@
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="
+    default-src 'self';
+    script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com;
+    style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com;
+    font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com;
+    img-src 'self' data: https:;
+    frame-src https://www.youtube-nocookie.com https://w.soundcloud.com;
+    connect-src 'self';
+  ">
   <meta name="generator" content="Hugo 0.154.4">
 
   <title>Project Devotio Moderna &middot; Marsja Mudde Muziek</title>
@@ -50,28 +59,29 @@
   
   </head>
 <body>
+  <a href="#main-content" class="skip-link">Ga naar inhoud</a>
 
-  <aside class="sidebar">
-    <a href="javascript:void(0);" class="toggle">
-        <i class="fa fa-bars"></i>
-    </a>
-    <section style="font-size: 1.5rem" class="social-icons">
+  <aside class="sidebar" role="complementary">
+    <button type="button" class="toggle" aria-label="Menu openen" aria-expanded="false">
+        <i class="fa fa-bars" aria-hidden="true"></i>
+    </button>
+    <section style="font-size: 1.5rem" class="social-icons" aria-label="Taal en sociale links">
       
           
                   
-                      <a class="lang-switch" title="English" href="/en/products/gremode/"><img src="/images/flag-gb.svg" alt="English" width="24" height="18"></a>
+                      <a class="lang-switch" title="English" href="/en/products/gremode/" aria-label="Switch to English"><img src="/images/flag-gb.svg" alt="English" width="24" height="18"></a>
                   
           
       
       
-      <a href="https://nl.linkedin.com/in/marsjamudde" rel="me" title="Linkedin" target="_blank">
+      <a href="https://nl.linkedin.com/in/marsjamudde" rel="me" title="Linkedin" target="_blank" aria-label="Linkedin">
         <i class="fab fa-linkedin" aria-hidden="true"></i>
       </a>
       
     </section>
   <div class="container">
     <div class="sidebar-about"></div>
-    <nav>
+    <nav aria-label="Hoofdnavigatie">
       <ul class="sidebar-nav">
         
         
@@ -166,7 +176,7 @@
 </aside>
 
 
-  <main class="content container">
+  <main class="content container" id="main-content">
     <header id="header" class="header">
     <img src="/images/marsja-mudde-muziek.png" alt="Marsja Mudde Muziek logo">
 
@@ -204,10 +214,10 @@
       <h3 id="boek-en-cd-gregoriaans-en-liederen-uit-de-moderne-devotie-door-ensemble-trigon">Boek en cd Gregoriaans en liederen uit de Moderne Devotie door ensemble Trigon</h3>
 <p>De stichting Key2Singing heeft als afsluiting van het project Gregoriaans en Moderne Devotie- Schatgraven in ons cultureel erfgoed een cd en boek uitgegeven.
 Afgelopen jaar heeft ensemble Trigon in opdracht van de stichting Key2Singing onderzoek gedaan naar de muziek van het Gregoriaans en de Moderne Devotie in de Lage Landen in de periode 1350-1550. In het kader van dit project zijn, naast een studie naar de historie van deze muziek en de originele muzieknotatie, diverse workshops en concerten georganiseerd. Dit heeft geresulteerd in de in 2012/2013 verschenen cd met bijbehorend boek.</p>
-<img src="../images/BoekGreMoDe.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../images/BoekGreMoDe.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 <h4 id="inhoud-boek">Inhoud boek</h4>
 <p>Het boek Liederen van Licht en Troost, Gregoriaans en Moderne Devotie in de Lage Landen bevat een selectie van gregoriaanse liederen en liederen uit de Moderne Devotie, inclusief transcriptie en vertaling van de teksten. Bovendien bevat het een inleiding in deze religieuze stroming en een handleiding hoe de unieke handschriften met muziek gelezen moeten worden. Het is voor het eerst dat kleurenafbeeldingen van muziekhandschriften in een uitgave worden gecombineerd met een voor leken begrijpelijke handleiding voor het lezen ervan.</p>
-<img src="../images/CDGreMoDe.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../images/CDGreMoDe.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 <h4 id="inhoud-cd">Inhoud CD</h4>
 <p>Op de cd Songs of Peace and Consolation, uitgebracht bij Aliud Records, zijn opnames te horen van de gezangen, uitgevoerd door ensemble Trigon. De teksten van de Nederlandse en Latijnse liederen staan in het cd-boekje afgedrukt, met een Engelse vertaling. Bijna alle liederen van de cd kunnen, in de originele notatie, worden meegelezen in het bovenbeschreven boek. Zo vormen boek en cd ook een educatief geheel.</p>
 <h4 id="multidisciplinaire-benadering">Multidisciplinaire benadering</h4>
@@ -216,8 +226,7 @@ Afgelopen jaar heeft ensemble Trigon in opdracht van de stichting Key2Singing on
 <p>ISBN 978-90-9027297-9 / Aliud Records ACD BE 064-2</p>
 <h4 id="bestellen">Bestellen</h4>
 <p>Zowel boek als CD zijn nog te bestellen bij Marsja Mudde Muziek door een telefoontje of bericht naar 06-18277792.</p>
-<p>Meer informatie over de stichting Key2Singing en het project Gregoriaans en Moderne Devotie in de Lage Landen, kunt u vinden op <a href="http://www.key2singing.nl/boekcd.html" target="_blank" rel="noopener noreferrer">http://www.key2singing.nl/boekcd.html</a>.
-Over Trigon en Margot Kalse kunt u verder lezen op <a href="http://www.margotkalsevocaal.nl/trigon.html" target="_blank" rel="noopener noreferrer">http://www.margotkalsevocaal.nl/trigon.html</a>.</p>
+<p>Meer informatie over de stichting Key2Singing en het project Gregoriaans en Moderne Devotie in de Lage Landen, kunt u vinden op <a href="http://www.key2singing.nl/boekcd.html" target="_blank" rel="noopener noreferrer">http://www.key2singing.nl/boekcd.html</a>.</p>
 
     </div>
   

@@ -1,4 +1,4 @@
 {{/* get file that matches the filename as specified as src="" in shortcode */}}
 {{ $src := (.Get "src") }}
 
-<img src="{{$src}}" {{ with .Get "alt" }}alt="{{.}}"{{ else }}alt=""{{ end }}>
+<img src="{{$src}}" {{ with .Get "alt" }}alt="{{.}}"{{ else }}alt=""{{ end }} loading="lazy" decoding="async">

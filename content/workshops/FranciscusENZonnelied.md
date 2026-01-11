@@ -9,7 +9,7 @@ date: 2025-09-20
 ### Workshop Franciscus en zijn jubilerende Zonnelied: 
 Liederen over Sint Franciscus en zijn precies 800 jaar oude Zonnelied uit Italiaanse Middeleeuwse en Renaissance Muziek Handschriften
 
-<img src="../images/Altissimu.png" style="width: 13rem; float: right; margin:1rem">
+<img src="../images/Altissimu.jpg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Doelgroep:
 Zingende liefhebbers van ieder niveau

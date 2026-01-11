@@ -9,7 +9,7 @@ date: 2025-12-01
 ### A Medieval Christmas:
 Medieval Christmas carols from the Netherlands
 
-<img src="../../../images/Bazuinen.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../../../images/Bazuinen.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Target audience:
 Enthusiasts of all levels

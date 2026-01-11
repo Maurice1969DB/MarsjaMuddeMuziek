@@ -7,12 +7,12 @@ menu:
 ---
 Cantus Modalis wordt gevormd door zangers die zijn opgeleid aan het Fontys Conservatorium, in de toenmalige Schola Cantorum Brabantiae, en / of in het Centrum Cantus Modalis, waar zij zich op masterniveau specialiseerden in uitvoering en interpretatie van middeleeuwse en renaissance muziek. Het ensemble onderscheidt zich doordat er altijd wordt gezongen uit facsimile van de originele manuscripten, of reconstructies daarvan. De gebruikte boeken hebben dus losstaande partijen voor iedere stem, zoals in de periode waarin de muziek gecomponeerd werd gebruikelijk was, en niet de hedendaagse partituur layout. Dit beïnvloedt de manier van zingen positief, weet Dr. Rebecca Stewart, artistiek leider. Het ensemble geeft vaak concerten met adembenemend mooie programma's in Nederland, Duitsland en in andere landen (o.a. Zuid-Korea, Tsjechië, Italië).
 
-<img src="../images/isaac.jpg" style="width: 13rem; float: right; margin:1rem">
+<img src="../images/isaac.jpg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Missie
 Ensemble Cantus Modalis onderzoekt de veelal mondeling overgeleverde modale (dwz pre-tonale) principen en esthetiek van componisten uit de late Middeleeuwen en vroege Renaissance. Geheimen die appelleren aan een spiegeling van de muzikale esthaetica uit deze perioden (tot in de 15e eeuw) aan de kosmische gelaagdheid van het Goddelijke. Cantus Modalis is ervan overtuigd dat de boodschap van deze zeer sterke maar zeer onbegrepen muziek vandaag de dag nog even relevant is als 500 jaar geleden.
 
- <img src="../images/CD.bmp" style="width: 13rem; float: left; margin:1rem">
+ <img src="../images/CD.bmp" style="width: 13rem; float: left; margin:1rem" loading="lazy">
 
 #### Klank van het Ensemble
 De klinkende resultaten hiervan zijn duidelijk hoorbaar en worden omschreven als 'uitstekende intonatie' (Barbara Haggh), 'levendig, doorzichtig en elastisch' (…), 'direct tot het hart gaand' (…) en 'sonoor en helder' (Anthony Fiumara). Het is de hoop van Cantus Modalis dat hedendaagse luisteraars, net zoals hun middeleeuwse voorgangers, niet alleen in de ban van deze magische muziek mogen komen, maar dat ze ook de onderliggende waarden ervan mogen voelen.

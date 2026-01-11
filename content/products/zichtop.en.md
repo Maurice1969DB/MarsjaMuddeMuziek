@@ -8,7 +8,7 @@ menu:
 ### Book "Zicht op Hildegard; leven, visioenen, geneeskunst, muziek" (in Dutch)
 Hildegard van Bingen was a strong woman with versatile talents, according to the book "Zicht op Hildegard", which appeared at the end of 2020. This book is an accessible introduction to the life and work of these twelfth-century Benedictines, after which you will definitely want to go on a pilgrimage to her monastery in Eibingen, Germany. In "Zicht op Hildegard", nine specialists shed their light on a sub-area of her life and work. All in all, this results in a versatile and penetrating portrait.
 
-<img src="../images/BoekHildegard.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../images/BoekHildegard.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Authors
 Social scientist Dr Hans Wilbrink pays attention to the social influence of Hildegard then and now. Sister Philippa Rath o.s.b. of Hildegard Abbey in Eibingen shows that she is an inspiring example for our time. Theologian Kitty Bouwman discusses visions in Hildegard's work. Art connoisseur Felicia Dekkers sheds light on two manuscripts. And classicist and philosopher Mieke Kock-Rademakers discusses Hildegard's first book of visions Know the roads. Many know Hildegard for her extraordinary herbal knowledge or through her beautiful music. These aspects are also discussed in articles by physician Dr. Lutgart Gillis, and musicologists Dr. Hanna Rijken, Dr. Rebecca Stewart and Drs. Marsja Mudde.

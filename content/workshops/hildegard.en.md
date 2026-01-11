@@ -8,7 +8,7 @@ menu:
 ### Hildegard von Bingen:
 An in-depth look at the songs of Hildegard von Bingen from the Dendermonde Codex and the Riesencodex
 
-<img src="../../../images/O_filie.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../../../images/O_filie.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Target audience:
 Advanced amateurs and (pre-)professionals

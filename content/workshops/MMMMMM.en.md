@@ -9,7 +9,7 @@ date: 2024-02-20
 ### Mastering Modal Methods and Manners for Modal Music: 
 A medium-advanced to advanced course by Center Cantus Modalis.
 
-<img src="../../../images/Logo CCM.jpg" style="width: 13rem; float: right; margin:1rem">
+<img src="../../../images/Logo CCM.jpg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Description:
 Center Cantus Modalis is organizing a three-day course on mastering modal methods and manners for modal music. Teachers will be Dr. Rebecca Stewart, drs. Bram Verheijen and drs. Marsja Mudde. The aim of the course is to give interested singers and instrumentalists concrete tools to perform modal music according to the ten principles outlined in the article "A Modal Mentality for Modal Music" (Stewart, 2002, most recent version 2021, to be found on the CCM website). The principles described in this summary will be explored practically in their spiritual, physical and musical context and methodology. 

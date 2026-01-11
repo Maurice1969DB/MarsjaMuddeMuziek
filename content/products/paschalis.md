@@ -8,7 +8,7 @@ menu:
 ### Missa Paschalis ‘ad organum’, een cd van Cantus Modalis
 In september 2012 maakte het oudemuziekensemble Cantus Modalis een wel heel bijzondere opname in Ostönnen (Westfalen). Naast een praeambulum van Adam Ileborgh van Stendhal en muziek voor Pasen van Guillaume Dufay, Josquin des Prez en Fridolin Sicher, was het pièce de résistance de zesstemmige Missa Paschalis van Heinrich Isaac (ca. 1450–1517). In deze zogenaamde 'alternatim'-mis wordt Isaacs polyfone zetting van delen van de Gregoriaanse gewone gezangen uit de Graduale Pataviense voor de paastijd antifoon gehoord met orgelintabulaties van de aangrenzende frasen van Hans Buchner (1483–1538).
 
-<img src="../images/CD.bmp" style="width: 13rem; float: right; margin:1rem">
+<img src="../images/CD.bmp" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 Het orgel dat voor deze opname is gekozen, is het gotische orgel, oorspronkelijk in de oude St. Thomaskerk in Soest (Westfalen). Dit orgel, nu in de kleine protestantse kerk van St. Andreas in het dorp Ostönnen, is een van de drie oudste gerestaureerde orgels ter wereld, waarvan meer dan de helft van de pijpen, de balg en een deel van de kast uit de eerste periode in de geschiedenis van het orgel, 1425–1500.
 

@@ -8,7 +8,7 @@ menu:
 ### Hildegard von Bingen: 
 Verdieping in de liederen van Hildegard von Bingen vanuit de Dendermonde Codex en de Riesencodex
 
-<img src="../images/O_filie.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../images/O_filie.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Doelgroep:
 Gevorderde amateurs en (pre-)professionals

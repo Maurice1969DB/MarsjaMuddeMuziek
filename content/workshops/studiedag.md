@@ -9,7 +9,7 @@ date: 2025-06-22
 ### Maandelijkse Studiedag Hildegard von Bingen: 
 Samen met andere vrouwen zingen en bestuderen van composities van Hildegard von Bingen.
 
-<img src="../images/KerkjeEngelen.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../images/KerkjeEngelen.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Doelgroep:
 Liefhebbers vanaf halfgevorderd niveau tot en met professionals, alleen vrouwen (sorry heren).

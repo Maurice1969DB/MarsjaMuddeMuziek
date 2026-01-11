@@ -1,0 +1,38 @@
+{{ define "main" -}}
+{{/* JSON-LD Structured Data for Event */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "{{ .Title }}",
+  "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}",
+  "startDate": "{{ .Date.Format "2006-01-02" }}",
+  "url": "{{ .Permalink }}",
+  "organizer": {
+    "@type": "Person",
+    "name": "Marsja Mudde",
+    "url": "https://marsjamudde.nl"
+  },
+  "performer": {
+    "@type": "Person",
+    "name": "Marsja Mudde"
+  },
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+  "image": "{{ `images/profile.png` | absURL }}"
+}
+</script>
+
+<div class="post">
+  {{ with .Params.tagline }}<span class="tagline">{{ . }}</span>{{ end }}
+  {{ if in (substr (.Content | plainify) 0 1) "M" }}
+    <div class="capital-m">
+      {{ .Content }}
+    </div>
+  {{ else }}
+    <div>
+      {{ .Content }}
+    </div>
+  {{ end }}
+</div>
+{{- end }}

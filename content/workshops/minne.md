@@ -10,7 +10,7 @@ date: 2026-02-01
 
 Middeleeuwse Gezongen Liefdespoëzie uit Nederland en Duitsland
 
-<img src="../images/ManesseCodex.jpg" style="width: 9rem; float: right; margin:1rem">
+<img src="../images/ManesseCodex.jpg" style="width: 9rem; float: right; margin:1rem" loading="lazy">
 
 #### Doelgroep:
 Liefhebbers van ieder niveau; individuen en duo's

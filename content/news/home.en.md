@@ -3,7 +3,7 @@
 
 ### Marsja Mudde Muziek: experienced in giving experience ###
 
-<img src="../news/images/MarsjaPieterskerkAltaar.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../news/images/MarsjaPieterskerkAltaar.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 Experienced in giving experience is the motto of Marsja Mudde Muziek and what Marsja stands for as a person and musician. According to her, making music is really an experience profession. As a musician you are trained based on what the teacher experiences while listening to you. And through a lot of repetition and practice with the teacher's feedback, or after a lot of experience, you master the subject.
 

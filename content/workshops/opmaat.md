@@ -8,7 +8,7 @@ menu:
 ### Workshops op maat
 Marsja Mudde Muziek verzorgt workshops op maat voor allerlei gelegenheden en doelgroepen. 
 
-<img src="../images/JaNuns.jpg" style="width: 13rem; float: right; margin:1rem">
+<img src="../images/JaNuns.jpg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Mogelijkheden
 Er kan op verzoek iets veranderd worden aan een bestaande workshop, zoals bij voorbeeld de locatie, planning of duur van de workshop, het aantal deelnemers, de precieze inhoud of leerdoelen, of de doelgroep. Maar het kan ook voorkomen, dat u speciaal voor u of uw koor, ensemble, school of werk een nieuwe workshop wilt laten ontwikkelen. 

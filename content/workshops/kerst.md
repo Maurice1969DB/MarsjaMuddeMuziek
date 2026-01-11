@@ -9,7 +9,7 @@ date: 2025-12-01
 ### Een Middeleeuwse Kerst: 
 Middeleeuwse Kerstliederen uit de Nederlanden
 
-<img src="../images/Bazuinen.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../images/Bazuinen.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Doelgroep:
 Liefhebbers van ieder niveau

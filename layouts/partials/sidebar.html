@@ -1,26 +1,26 @@
-<aside class="sidebar">
-    <a href="javascript:void(0);" class="toggle">
-        <i class="fa fa-bars"></i>
-    </a>
-    <section style="font-size: 1.5rem" class="social-icons">
+<aside class="sidebar" role="complementary">
+    <button type="button" class="toggle" aria-label="{{ if eq .Lang "nl" }}Menu openen{{ else }}Open menu{{ end }}" aria-expanded="false">
+        <i class="fa fa-bars" aria-hidden="true"></i>
+    </button>
+    <section style="font-size: 1.5rem" class="social-icons" aria-label="{{ if eq .Lang "nl" }}Taal en sociale links{{ else }}Language and social links{{ end }}">
       {{ if .IsTranslated }}
           {{ range .Translations }}
                   {{ if eq .Site.Language.Lang "en" }}
-                      <a class="lang-switch" title="English" href="{{ .RelPermalink }}"><img src="/images/flag-gb.svg" alt="English" width="24" height="18"></a>
+                      <a class="lang-switch" title="English" href="{{ .RelPermalink }}" aria-label="Switch to English"><img src="/images/flag-gb.svg" alt="English" width="24" height="18"></a>
                   {{ else }}
-                      <a class="lang-switch" title="Nederlands" href="{{ .RelPermalink }}"><img src="/images/flag-nl.svg" alt="Nederlands" width="24" height="18"></a>
+                      <a class="lang-switch" title="Nederlands" href="{{ .RelPermalink }}" aria-label="Schakel naar Nederlands"><img src="/images/flag-nl.svg" alt="Nederlands" width="24" height="18"></a>
                   {{ end }}
           {{ end }}
       {{ end }}
       {{ range $item := .Site.Params.socialIcons }}
-      <a href="{{ $item.url }}" rel="me" title="{{ $item.title }}" target="_blank">
+      <a href="{{ $item.url }}" rel="me" title="{{ $item.title }}" target="_blank" aria-label="{{ $item.title }}">
         <i class="fab {{ $item.icon }}" aria-hidden="true"></i>
       </a>
       {{ end }}
     </section>
   <div class="container">
     <div class="sidebar-about"></div>
-    <nav>
+    <nav aria-label="{{ if eq $.Lang "nl" }}Hoofdnavigatie{{ else }}Main navigation{{ end }}">
       <ul class="sidebar-nav">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}

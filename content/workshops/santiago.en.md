@@ -9,7 +9,7 @@ date: 2025-07-15
 ### On the way to Santiago da Compostella:
 Medieval Pilgrim Songs from mainly Spanish Music Manuscripts
 
-<img src="../../../images/Congaudeant.jpeg" style="width: 13rem; float: right; margin:1rem">
+<img src="../../../images/Congaudeant.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Target audience:
 Advanced amateurs and (pre-)professionals
