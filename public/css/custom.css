@@ -500,18 +500,24 @@ nav {
     border-radius: 4px;
 }
 
-/* Accessibility - Focus styles */
-a:focus,
-button:focus,
-input:focus,
-select:focus,
-textarea:focus {
+/* Accessibility - Focus styles (only for keyboard navigation) */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
     outline: 3px solid #41b3e3;
     outline-offset: 2px;
 }
 
-.sidebar a:focus {
+.sidebar a:focus-visible {
     outline-color: #00CCFF;
+}
+
+/* Remove outline on mouse click */
+a:focus:not(:focus-visible),
+button:focus:not(:focus-visible) {
+    outline: none;
 }
 
 /* Skip to content link - hidden until focused */
