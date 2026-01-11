@@ -1,6 +1,7 @@
 ---
 author: "Marsja Mudde"
 title: About Marsja Mudde
+description: "Marsja Mudde is a singer and singing teacher, specialized in medieval, renaissance and early baroque vocal music."
 ---
 ### My name is Marsja Mudde, singer and singing teacher 
 Singing ensemblemusic and solorepertoire from the medieval, renaissance and baroque periods I see as my vocation. In order to beautifully perform this music, stylespecific vocal techniques are needed, and one must pay extra attention to what else is sounding in your surroundings. This music often is not available in modern musicnotation and therefore has to be read from the original manuscripts or early prints, or has to be transcribed expertly. Performance directly from these sources to my opinion has much added value as compared to using a transcription, since the singer more or less is forced to listen to what the others do and because the fluency of his own part with the old neumes or ligatures comes to its own much better. This artisanal work I like so much, that I also enjoy very much passing it on to others. This I do in the singing classes and courses I give, but also in the blog I write and in the book and book chapter I have published.

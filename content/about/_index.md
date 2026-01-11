@@ -1,6 +1,7 @@
 ---
 author: "Marsja Mudde"
 title: Over Marsja Mudde
+description: "Marsja Mudde is zangeres en zangpedagoge, gespecialiseerd in middeleeuwse, renaissance en vroeg-barokke vocale muziek."
 ---
 ### Mijn naam is Marsja Mudde, zangeres en zangpedagoge ###
 Het zingen van ensemblemuziek en solorepertoire uit de Middeleeuwen, Renaissance en de vroege Barok zie ik als mijn roeping. Om deze muziek mooi uit te voeren heb je stijlspecifieke vocale technieken nodig en moet je op een bepaalde manier 'luisterend zingen'. Veel van deze muziek is niet in moderne notatie beschikbaar en moet dus uit de originele handschriften of vroege drukken worden gelezen, of vakkundig worden getranscribeerd. De uitvoering vanuit de originele notatie heeft mijns inziens ook duidelijk meerwaarde boven het uitvoeren van een transcriptie, omdat de zanger min of meer gedwongen wordt om te luisteren naar wat de anderen doen en omdat de vloeiendheid van de eigen partij met de oude neumen of ligaturen veel meer tot zijn recht komt. Dit ambachtelijke werken vind ik zo leuk, dat ik er ook erg van geniet om het aan anderen door te geven. Dit doe ik in de zanglessen en cursussen die ik geef, maar ook in de blog die ik schrijf en in het boek dat ik heb uitgegeven.

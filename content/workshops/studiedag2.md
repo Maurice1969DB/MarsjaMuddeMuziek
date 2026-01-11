@@ -1,9 +1,5 @@
 ---
 title: Studiedag Hildegard von Bingen
-menu:
-    main:
-        parent: workshops
-        weight: 25
 date: 2025-09-21
 ---
 ### Maandelijkse Studiedag Hildegard von Bingen: 

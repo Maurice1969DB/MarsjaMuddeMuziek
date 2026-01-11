@@ -6,11 +6,10 @@
       {{ if .IsTranslated }}
           {{ range .Translations }}
                   {{ if eq .Site.Language.Lang "en" }}
-                      <a  title="English" href="{{ .RelPermalink }}">&#x1F1EC;&#x1F1E7;</a>
+                      <a class="lang-switch" title="English" href="{{ .RelPermalink }}"><img src="/images/flag-gb.svg" alt="English" width="24" height="18"></a>
                   {{ else }}
-                      <a  title="Nederlands" href="{{ .RelPermalink }}">&#127475;&#127473;</a>
+                      <a class="lang-switch" title="Nederlands" href="{{ .RelPermalink }}"><img src="/images/flag-nl.svg" alt="Nederlands" width="24" height="18"></a>
                   {{ end }}
-
           {{ end }}
       {{ end }}
       {{ range $item := .Site.Params.socialIcons }}

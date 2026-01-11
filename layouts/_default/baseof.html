@@ -66,7 +66,7 @@
     <script src="{{ . | relURL }}"></script>
   {{- end}}
 
-  {{ if not .Site.IsServer }}
+  {{ if not hugo.IsServer }}
     {{ template "_internal/google_analytics.html" . }}
   {{ end }}
 </body>

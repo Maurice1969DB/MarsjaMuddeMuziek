@@ -1,5 +1,6 @@
 ---
 title: Workshops
+description: "Workshops middeleeuwse en renaissance muziek voor zangers, koren, scholen en bedrijven."
 ---
 ### Workshops
 Bij Marsja Mudde Muziek kunt u terecht voor bijzondere workshops rond middeleeuwse en renaissance muziek. Er staan in de agenda meestal meerdere workshops voor zangers en zangeressen die geinteresseerd zijn in dit repertoire. Bij voldoende belangstelling kunnen deze workshops in overleg op andere dagen worden gegeven, of bij voorbeeld speciaal voor uw ensemble of koor. 

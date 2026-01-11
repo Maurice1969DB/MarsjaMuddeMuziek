@@ -1,5 +1,6 @@
 ---
 title: Contact
+description: "Neem contact op met Marsja Mudde Muziek voor optredens, zanglessen of workshops."
 ---
  
 Marsja Mudde Muziek is bereikbaar op het volgende postadres, telefoonnummer en e-mailadres: 

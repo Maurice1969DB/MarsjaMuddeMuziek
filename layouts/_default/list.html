@@ -19,7 +19,7 @@
           {{ if .Truncated }}
           <!-- This <div> includes a read more link, but only if the summary is truncated... -->
           <div class="readmore">
-            <a href="{{ .RelPermalink }}">{{ .Param "readMore" }}</a>
+            <a href="{{ .RelPermalink }}">{{ if eq .Lang "nl" }}Lees meer...{{ else }}Read more...{{ end }}</a>
           </div>
           {{ end }}
       </li>

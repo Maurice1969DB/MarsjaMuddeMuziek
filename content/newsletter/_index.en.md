@@ -1,10 +1,6 @@
 ---
 title: Newsletter
-menu:
-  main:
-    identifier: newsletter
-    name: Newsletter
-    weight: 20
+description: "Subscribe to the Marsja Mudde Muziek newsletter."
 ---
 
 #### Latest newsletter

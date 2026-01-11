@@ -1,6 +1,7 @@
 ---
 author: "Marsja Mudde"
 title: Zangles Praktijk
+description: "Zanglessen voor individuele leerlingen en groepen, met focus op oude muziek en vocale techniek."
 ---
 ### Zanglessen voor individuele leerlingen en groepen
 Al sinds jaren geef ik met plezier zanglessen (techniek en interpretatie) aan individuele leerlingen en aan groepen. De inhoud van de lessen wordt afgestemd op de vraag van de leerling. De een komt met vooral technische vragen, de ander met vragen rond uitspraak of tempi, een derde vraagt zich af hoe je in een ensemble met elkaar moet samenzingen. Soms is er ook geen vraag, alleen de behoefte aan lekker samen zingen. Er is heel veel mogelijke leerstof, en iedere vraag is het waard om te stellen. Dus kom eens langs voor een introductieles, dan bekijken we samen hoe we jouw lestraject vorm gaan geven richting antwoorden en een nieuwe ervaring!

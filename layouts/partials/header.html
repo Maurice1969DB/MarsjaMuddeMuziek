@@ -1,11 +1,11 @@
 <header id="header" class="header">
-    <img src="{{ `images/marsja-mudde-muziek.png` | relURL }}" alt="">
+    <img src="{{ `images/marsja-mudde-muziek.png` | relURL }}" alt="Marsja Mudde Muziek logo">
 
 
     {{ if eq .Site.Language.Lang "nl" }}
-    <img style="padding-left: 11em; padding-top: 0.5em" src="{{ `images/ervaren-in-laten-ervaren.png` | relURL }}" alt="">
+    <img style="padding-left: 11em; padding-top: 0.5em" src="{{ `images/ervaren-in-laten-ervaren.png` | relURL }}" alt="Ervaren in laten ervaren">
     {{ else }}
-        <img style="padding-left: 11em; padding-top: 0.5em" src="{{ `images/experienced.png` | relURL }}" alt="">
+        <img style="padding-left: 11em; padding-top: 0.5em" src="{{ `images/experienced.png` | relURL }}" alt="Experienced in giving experience">
     {{ end }}
     {{ partial "label.html" . }}
 </header>

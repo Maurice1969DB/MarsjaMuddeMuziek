@@ -4,6 +4,8 @@
     <title>Nieuwsbrief on Marsja Mudde Muziek</title>
     <link>https://marsjamudde.nl/newsletter/</link>
     <description>Recent content in Nieuwsbrief on Marsja Mudde Muziek</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://marsjamudde.nl/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>nl</language>
+    <atom:link href="https://marsjamudde.nl/newsletter/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

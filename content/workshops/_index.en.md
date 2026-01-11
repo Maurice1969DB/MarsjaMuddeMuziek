@@ -1,5 +1,6 @@
 ---
 title: Workshops
+description: "Workshops on medieval and renaissance music for singers, choirs, schools and companies."
 ---
 ### Workshops
 

@@ -1,6 +1,7 @@
 ---
 author: "Marsja Mudde"
 title: Fragmenten
+description: "Luister naar muziekfragmenten van Marsja Mudde op Soundcloud."
 ---
 Misschien bent u nieuwsgierig geworden naar de klank van Marsja Mudde? Op Soundcloud vindt u enkele fragmenten, waarnaar ik hier verwijs. Klik bij het stuk dat u wilt luisteren op het play-icoontje, dat er uitziet als op dit plaatje:
 

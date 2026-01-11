@@ -209,6 +209,18 @@
                 href="https://marsjamudde.nl/en/news/deicasamenwerking/"
                 />
   </url><url>
+    <loc>https://marsjamudde.nl/en/news/franciscusworkshop/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/news/franciscusworkshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/news/franciscusworkshop/"
+                />
+  </url><url>
     <loc>https://marsjamudde.nl/en/news/home/</loc>
     <xhtml:link
                 rel="alternate"

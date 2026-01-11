@@ -1,9 +1,5 @@
 ---
 title: Study-day Hildegard von Bingen
-menu:
-    main:
-        parent: workshops
-        weight: 25
 date: 2025-09-21
 ---
 ### Monthly Study-day Hildegard von Bingen: 

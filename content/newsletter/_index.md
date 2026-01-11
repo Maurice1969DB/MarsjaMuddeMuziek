@@ -1,10 +1,6 @@
 ---
 title: Nieuwsbrief
-menu:
-  main:
-    identifier: newsletter
-    name: Nieuwsbrief
-    weight: 20
+description: "Schrijf je in voor de nieuwsbrief van Marsja Mudde Muziek."
 ---
 
 #### Laatste nieuwsbrief

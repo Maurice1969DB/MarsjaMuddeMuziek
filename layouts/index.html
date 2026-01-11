@@ -6,9 +6,11 @@
 
     {{ range $paginator.Pages }}
       <article class="post">
+        {{ with .Title }}
         <h1 class="post-title">
-          <a href="{{ .Permalink }}">{{ .Title | humanize}}</a>
+          <a href="{{ $.Permalink }}">{{ . | humanize}}</a>
         </h1>
+        {{ end }}
           {{ if eq (substr .RawContent 5 1) "M" }}
             <div class="capital-m">
                 {{ .Content }}

@@ -7,6 +7,8 @@
       {{ end }}
     {{ end }}
     {{ $sortedUpcomingEvents := sort $upcomingEvents "Date" "asc" }}
+
+    {{ if $sortedUpcomingEvents }}
     <table>
         <thead>
             <tr>
@@ -17,11 +19,20 @@
         <tbody>
         {{ range $sortedUpcomingEvents }}
         <tr>
-            <td class="{{ if eq .Type "events" }}table-row-events{{ else if eq .Type "workshops" }}table-row-workshops{{ end }}">  {{ .Date.Format "02-01-2006" }}</td>
-            <td class="{{ if eq .Type "events" }}table-row-events{{ else if eq .Type "workshops" }}table-row-workshops{{ end }}"><a href="{{ .RelPermalink }}">{{ .Title }} ({{.Type}})</a></td>
+            <td class="{{ if eq .Type "events" }}table-row-events{{ else if eq .Type "workshops" }}table-row-workshops{{ end }}">{{ .Date.Format "02-01-2006" }}</td>
+            <td class="{{ if eq .Type "events" }}table-row-events{{ else if eq .Type "workshops" }}table-row-workshops{{ end }}"><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
         </tr>
         {{ end }}
         </tbody>
     </table>
+
+    <!-- Legenda -->
+    <div class="calendar-legend">
+        <span class="legend-item legend-events">{{ if eq .Lang "nl" }}Concerten{{ else }}Concerts{{ end }}</span>
+        <span class="legend-item legend-workshops">Workshops</span>
+    </div>
+    {{ else }}
+    <p class="no-events">{{ if eq .Lang "nl" }}Er zijn momenteel geen geplande evenementen.{{ else }}There are currently no scheduled events.{{ end }}</p>
+    {{ end }}
 </div>
 {{ end }}
