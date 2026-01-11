@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Newsletter on Marsja Mudde Muziek</title>
-    <link>https://marsjamudde.nl/en/newsletter/</link>
+    <link>http://localhost:1313/en/newsletter/</link>
     <description>Recent content in Newsletter on Marsja Mudde Muziek</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://marsjamudde.nl/en/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/newsletter/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

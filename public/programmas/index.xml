@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programma&#39;s on Marsja Mudde Muziek</title>
-    <link>https://marsjamudde.nl/programmas/</link>
+    <link>http://localhost:1313/programmas/</link>
     <description>Recent content in Programma&#39;s on Marsja Mudde Muziek</description>
     <generator>Hugo</generator>
     <language>nl</language>
-    <atom:link href="https://marsjamudde.nl/programmas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/programmas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Civitas</title>
-      <link>https://marsjamudde.nl/programmas/civitas/</link>
+      <link>http://localhost:1313/programmas/civitas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/programmas/civitas/</guid>
+      <guid>http://localhost:1313/programmas/civitas/</guid>
       <description>&lt;h3 id=&#34;civitas&#34;&gt;Civitas&lt;/h3&gt;&#xA;&lt;img src=&#34;../images/Hierusalem_Celestis.jpeg&#34; style=&#34;width: 13rem; float: right; margin:1rem&#34;&gt;&#xA;&lt;p&gt;Civitas is een project van Marsja Mudde Muziek. Civitas betekent samenleving of stad en verwijst naar de hemelse stad Jeruzalem, de vredesstad met een oogverblindende schoonheid, maar ook naar het aardse Jeruzalem en de vele andere pelgrimssteden in Europa. In deze voorstelling zijn de verhalen van een middeleeuwse en een moderne vrouw, beiden op pelgrimstocht, met elkaar verweven. De middeleeuwse vrouw reist incognito langs belangrijke pelgrimsbestemmingen in heel Europa en verwerkt op die manier het grote verlies van haar echtgenoot en haar zoon. Ze vindt troost in de muziek die ze overal hoort en zingt en in teksten van wijze tijdgenoten, die zij onderweg leest. De moderne vrouw reist haar achterna, eeuwen later, met een fascinatie voor diezelfde muziek en de cultuur waarin deze is ontstaan en ontwikkeld. Haar “heilige graal” is uit te vinden waarom deze muziek zo troostrijk is en in staat is vrede te brengen in een (haar?) verscheurd hart. Vanaf heden te boeken.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sia laudato, San Francesco</title>
-      <link>https://marsjamudde.nl/programmas/sialaudato/</link>
+      <link>http://localhost:1313/programmas/sialaudato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/programmas/sialaudato/</guid>
+      <guid>http://localhost:1313/programmas/sialaudato/</guid>
       <description>&lt;h3 id=&#34;sia-laudato-san-francesco&#34;&gt;Sia laudato, San Francesco&lt;/h3&gt;&#xA;&lt;img src=&#34;../images/SiaMiniatuur.jpeg&#34; style=&#34;width: 13rem; float: right; margin:1rem&#34;&gt;&#xA;&lt;p&gt;Stel je voor: een middeleeuwse troubadour, een straatprediker en een devotionele broederschap en zusterschap om hem heen, allen met een lied op de lippen. Hoe klonk Franciscus’ tijd?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vita Hildegardis Bingenis</title>
-      <link>https://marsjamudde.nl/programmas/vita/</link>
+      <link>http://localhost:1313/programmas/vita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/programmas/vita/</guid>
+      <guid>http://localhost:1313/programmas/vita/</guid>
       <description>&lt;h3 id=&#34;vita-hildegardis-bingensis&#34;&gt;Vita Hildegardis Bingensis&lt;/h3&gt;&#xA;&lt;img src=&#34;../images/Die Seherin.png&#34; style=&#34;width: 13rem; float: right; margin:1rem&#34;&gt;&#xA;&lt;p&gt;Vita Hildegardis Bingensis is een concertserie met het ensemble Anime Beatitudinis Cantando met de zangeressen Agnieszka Chabowska, Cora Schmeiser en Marsja Mudde. Het programma gaat over het leven van Hildegard von Bingen met vooral muziek van deze beroemde abdis zelf. In zeven scenes leven de zangeressen zich in in de belevingswereld van de nonnen onder leiding van Hildegard in het 12e eeuwse klooster op de Rupertsberg. Het publiek wordt getracteerd op zinnenprikkelende zang en komt zintuigen tekort om alles in zich op te kunnen nemen. Al genietend steekt men nog iets op over de levensgeschiedenis van deze Sybille van de Rijn en haar tijd. Te boeken voor heel 2027.&lt;/p&gt;</description>
     </item>
   </channel>

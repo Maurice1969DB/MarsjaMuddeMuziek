@@ -1,7 +1,17 @@
 {{ define "main" -}}
-<h1>Page not found</h1>
-<p class="lead">
+<div class="post">
+  {{ if eq .Lang "nl" }}
+  <h1>Pagina niet gevonden</h1>
+  <p class="lead">
+    Sorry, deze pagina bestaat niet of is verplaatst.
+    <a href="{{ .Site.BaseURL }}">Ga terug naar de homepage</a> om verder te zoeken.
+  </p>
+  {{ else }}
+  <h1>Page not found</h1>
+  <p class="lead">
     Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
     <a href="{{ .Site.BaseURL }}">Head back home</a> to try finding it again.
-</p>
+  </p>
+  {{ end }}
+</div>
 {{- end }}

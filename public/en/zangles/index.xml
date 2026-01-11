@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching Practice on Marsja Mudde Muziek</title>
-    <link>https://marsjamudde.nl/en/zangles/</link>
+    <link>http://localhost:1313/en/zangles/</link>
     <description>Recent content in Teaching Practice on Marsja Mudde Muziek</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://marsjamudde.nl/en/zangles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/zangles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Appointments</title>
-      <link>https://marsjamudde.nl/en/zangles/lesagenda/</link>
+      <link>http://localhost:1313/en/zangles/lesagenda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/zangles/lesagenda/</guid>
+      <guid>http://localhost:1313/en/zangles/lesagenda/</guid>
       <description>&lt;h3 id=&#34;making-lesson-appointments&#34;&gt;Making lesson appointments&lt;/h3&gt;&#xA;&lt;p&gt;Lessons can take place by appointment at my home in Den Bosch, at an additional cost at your home or at another location, or online at a normal rate if desired.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Methodology in early music</title>
-      <link>https://marsjamudde.nl/en/zangles/methodiek/</link>
+      <link>http://localhost:1313/en/zangles/methodiek/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/zangles/methodiek/</guid>
+      <guid>http://localhost:1313/en/zangles/methodiek/</guid>
       <description>&lt;h3 id=&#34;methodology-in-early-music&#34;&gt;Methodology in early music&lt;/h3&gt;&#xA;&lt;h4 id=&#34;methodology-of-my-teachers&#34;&gt;Methodology of my teachers&lt;/h4&gt;&#xA;&lt;p&gt;In my own training Early Vocal Ensemble Music I received input from various angles from my two teachers, dr. Rebecca Stewart and Margot Kalse. I was given directions for interpretation and technical directions to support that interpretation. Gradually it became more and more clear to me how closely interpretation and technique are connected. In fact, in my view, they can no longer be approached separately. You can have an interpretation in mind, but if your body isn&amp;rsquo;t willing to do the right things to support it, the interpretation will be virtually lost to the public. Some styles even call for specific techniques to allow interpretation consistent with the notation. In addition, there are of course technical aspects that can be applied in every style, including those outside my specialism of early music.&#xA;I cannot express in words how grateful I am for the input of my teachers, which I still receive on a regular basis. After all, after completing a professional music course, the development of the voice as well as other skills does not stand still.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prices and Conditions</title>
-      <link>https://marsjamudde.nl/en/zangles/prijzen/</link>
+      <link>http://localhost:1313/en/zangles/prijzen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/zangles/prijzen/</guid>
+      <guid>http://localhost:1313/en/zangles/prijzen/</guid>
       <description>&lt;h3 id=&#34;prices-and-conditions-singing-lessons-at-marsja-mudde-music-from-september-2025&#34;&gt;Prices and conditions Singing lessons at Marsja Mudde Music from September 2025&lt;/h3&gt;&#xA;&lt;p&gt;An &lt;strong&gt;introductory lesson&lt;/strong&gt; of 5 minutes costs 80 Euros. When a lesson package is subsequently taken out, it will be refunded in part (50% in case of a 5 lesson package) or in full (in case of a 10 or 20 lesson package). When you take out a package of 20 lessons, you will also receive a nice gift.&lt;/p&gt;</description>
     </item>
   </channel>

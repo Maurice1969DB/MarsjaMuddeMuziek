@@ -2,598 +2,598 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marsjamudde.nl/workshops/minne/</loc>
+    <loc>http://localhost:1313/workshops/minne/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/workshops/minne/"
+                href="http://localhost:1313/en/workshops/minne/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/workshops/minne/"
+                href="http://localhost:1313/workshops/minne/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/workshops/</loc>
+    <loc>http://localhost:1313/workshops/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/workshops/"
+                href="http://localhost:1313/en/workshops/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/workshops/"
+                href="http://localhost:1313/workshops/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/workshops/kerst/</loc>
+    <loc>http://localhost:1313/workshops/kerst/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/workshops/kerst/"
+                href="http://localhost:1313/en/workshops/kerst/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/workshops/kerst/"
+                href="http://localhost:1313/workshops/kerst/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/events/</loc>
+    <loc>http://localhost:1313/events/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/events/"
+                href="http://localhost:1313/en/events/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/events/"
+                href="http://localhost:1313/events/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/events/17nov2025/</loc>
+    <loc>http://localhost:1313/events/17nov2025/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/events/17nov2025/"
+                href="http://localhost:1313/en/events/17nov2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/events/17nov2025/"
+                href="http://localhost:1313/events/17nov2025/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/events/01nov2025/</loc>
+    <loc>http://localhost:1313/events/01nov2025/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/events/01nov2025/"
+                href="http://localhost:1313/en/events/01nov2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/events/01nov2025/"
+                href="http://localhost:1313/events/01nov2025/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/workshops/studiedag2/</loc>
+    <loc>http://localhost:1313/workshops/studiedag2/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/workshops/studiedag2/"
+                href="http://localhost:1313/en/workshops/studiedag2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/workshops/studiedag2/"
+                href="http://localhost:1313/workshops/studiedag2/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/workshops/franciscusenzonnelied/</loc>
+    <loc>http://localhost:1313/workshops/franciscusenzonnelied/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/workshops/franciscusenzonnelied/"
+                href="http://localhost:1313/en/workshops/franciscusenzonnelied/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/workshops/franciscusenzonnelied/"
+                href="http://localhost:1313/workshops/franciscusenzonnelied/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/events/05sept2025/</loc>
+    <loc>http://localhost:1313/events/05sept2025/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/events/05sept2025/"
+                href="http://localhost:1313/en/events/05sept2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/events/05sept2025/"
+                href="http://localhost:1313/events/05sept2025/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/workshops/santiago/</loc>
+    <loc>http://localhost:1313/workshops/santiago/</loc>
     <lastmod>2025-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/workshops/santiago/"
+                href="http://localhost:1313/en/workshops/santiago/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/workshops/santiago/"
+                href="http://localhost:1313/workshops/santiago/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/events/29juni2025/</loc>
+    <loc>http://localhost:1313/events/29juni2025/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/events/29juni2025/"
+                href="http://localhost:1313/en/events/29juni2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/events/29juni2025/"
+                href="http://localhost:1313/events/29juni2025/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/workshops/studiedag/</loc>
+    <loc>http://localhost:1313/workshops/studiedag/</loc>
     <lastmod>2025-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/workshops/studiedag/"
+                href="http://localhost:1313/en/workshops/studiedag/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/workshops/studiedag/"
+                href="http://localhost:1313/workshops/studiedag/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/events/demonstratiemmmm/</loc>
+    <loc>http://localhost:1313/events/demonstratiemmmm/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/events/demonstratiemmmm/"
+                href="http://localhost:1313/en/events/demonstratiemmmm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/events/demonstratiemmmm/"
+                href="http://localhost:1313/events/demonstratiemmmm/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/workshops/mmmmmm/</loc>
+    <loc>http://localhost:1313/workshops/mmmmmm/</loc>
     <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/workshops/mmmmmm/"
+                href="http://localhost:1313/en/workshops/mmmmmm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/workshops/mmmmmm/"
+                href="http://localhost:1313/workshops/mmmmmm/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marsjamudde.nl/news/deicasamenwerking/</loc>
+    <loc>http://localhost:1313/news/deicasamenwerking/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/news/deicasamenwerking/"
+                href="http://localhost:1313/en/news/deicasamenwerking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/news/deicasamenwerking/"
+                href="http://localhost:1313/news/deicasamenwerking/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/news/franciscusworkshop/</loc>
+    <loc>http://localhost:1313/news/franciscusworkshop/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/news/franciscusworkshop/"
+                href="http://localhost:1313/en/news/franciscusworkshop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/news/franciscusworkshop/"
+                href="http://localhost:1313/news/franciscusworkshop/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/news/home/</loc>
+    <loc>http://localhost:1313/news/home/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/news/home/"
+                href="http://localhost:1313/en/news/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/news/home/"
+                href="http://localhost:1313/news/home/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/workshops/algemeen/</loc>
+    <loc>http://localhost:1313/workshops/algemeen/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/workshops/algemeen/"
+                href="http://localhost:1313/en/workshops/algemeen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/workshops/algemeen/"
+                href="http://localhost:1313/workshops/algemeen/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/ensembles/anime/</loc>
+    <loc>http://localhost:1313/ensembles/anime/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/ensembles/anime/"
+                href="http://localhost:1313/en/ensembles/anime/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/ensembles/anime/"
+                href="http://localhost:1313/ensembles/anime/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/products/zichtop/</loc>
+    <loc>http://localhost:1313/products/zichtop/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/products/zichtop/"
+                href="http://localhost:1313/en/products/zichtop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/products/zichtop/"
+                href="http://localhost:1313/products/zichtop/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/ensembles/cantus/</loc>
+    <loc>http://localhost:1313/ensembles/cantus/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/ensembles/cantus/"
+                href="http://localhost:1313/en/ensembles/cantus/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/ensembles/cantus/"
+                href="http://localhost:1313/ensembles/cantus/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/products/</loc>
+    <loc>http://localhost:1313/products/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/products/"
+                href="http://localhost:1313/en/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/products/"
+                href="http://localhost:1313/products/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/programmas/civitas/</loc>
+    <loc>http://localhost:1313/programmas/civitas/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/programmas/civitas/"
+                href="http://localhost:1313/en/programmas/civitas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/programmas/civitas/"
+                href="http://localhost:1313/programmas/civitas/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/blog/civitasblog01/</loc>
+    <loc>http://localhost:1313/blog/civitasblog01/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/blog/civitasblog01/"
+                href="http://localhost:1313/en/blog/civitasblog01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/blog/civitasblog01/"
+                href="http://localhost:1313/blog/civitasblog01/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/contact/"
+                href="http://localhost:1313/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/contact/"
+                href="http://localhost:1313/contact/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/about/cv/</loc>
+    <loc>http://localhost:1313/about/cv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/about/cv/"
+                href="http://localhost:1313/en/about/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/about/cv/"
+                href="http://localhost:1313/about/cv/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/ensembles/</loc>
+    <loc>http://localhost:1313/ensembles/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/ensembles/"
+                href="http://localhost:1313/en/ensembles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/ensembles/"
+                href="http://localhost:1313/ensembles/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/fragmenten/</loc>
+    <loc>http://localhost:1313/fragmenten/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/fragmenten/"
+                href="http://localhost:1313/en/fragmenten/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/fragmenten/"
+                href="http://localhost:1313/fragmenten/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/workshops/hildegard/</loc>
+    <loc>http://localhost:1313/workshops/hildegard/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/workshops/hildegard/"
+                href="http://localhost:1313/en/workshops/hildegard/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/workshops/hildegard/"
+                href="http://localhost:1313/workshops/hildegard/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/zangles/lesagenda/</loc>
+    <loc>http://localhost:1313/zangles/lesagenda/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/zangles/lesagenda/"
+                href="http://localhost:1313/en/zangles/lesagenda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/zangles/lesagenda/"
+                href="http://localhost:1313/zangles/lesagenda/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/zangles/methodiek/</loc>
+    <loc>http://localhost:1313/zangles/methodiek/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/zangles/methodiek/"
+                href="http://localhost:1313/en/zangles/methodiek/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/zangles/methodiek/"
+                href="http://localhost:1313/zangles/methodiek/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/products/paschalis/</loc>
+    <loc>http://localhost:1313/products/paschalis/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/products/paschalis/"
+                href="http://localhost:1313/en/products/paschalis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/products/paschalis/"
+                href="http://localhost:1313/products/paschalis/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/tags/news/</loc>
+    <loc>http://localhost:1313/tags/news/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/tags/news/"
+                href="http://localhost:1313/en/tags/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/tags/news/"
+                href="http://localhost:1313/tags/news/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/newsletter/</loc>
+    <loc>http://localhost:1313/newsletter/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/newsletter/"
+                href="http://localhost:1313/en/newsletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/newsletter/"
+                href="http://localhost:1313/newsletter/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/blog/"
+                href="http://localhost:1313/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/blog/"
+                href="http://localhost:1313/blog/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/about/"
+                href="http://localhost:1313/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/about/"
+                href="http://localhost:1313/about/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/news/</loc>
+    <loc>http://localhost:1313/news/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/news/"
+                href="http://localhost:1313/en/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/news/"
+                href="http://localhost:1313/news/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/zangles/prijzen/</loc>
+    <loc>http://localhost:1313/zangles/prijzen/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/zangles/prijzen/"
+                href="http://localhost:1313/en/zangles/prijzen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/zangles/prijzen/"
+                href="http://localhost:1313/zangles/prijzen/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/programmas/</loc>
+    <loc>http://localhost:1313/programmas/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/programmas/"
+                href="http://localhost:1313/en/programmas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/programmas/"
+                href="http://localhost:1313/programmas/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/products/gremode/</loc>
+    <loc>http://localhost:1313/products/gremode/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/products/gremode/"
+                href="http://localhost:1313/en/products/gremode/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/products/gremode/"
+                href="http://localhost:1313/products/gremode/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/series/"
+                href="http://localhost:1313/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/series/"
+                href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/programmas/sialaudato/</loc>
+    <loc>http://localhost:1313/programmas/sialaudato/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/programmas/sialaudato/"
+                href="http://localhost:1313/en/programmas/sialaudato/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/programmas/sialaudato/"
+                href="http://localhost:1313/programmas/sialaudato/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/programmas/vita/</loc>
+    <loc>http://localhost:1313/programmas/vita/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/programmas/vita/"
+                href="http://localhost:1313/en/programmas/vita/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/programmas/vita/"
+                href="http://localhost:1313/programmas/vita/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/workshops/opmaat/</loc>
+    <loc>http://localhost:1313/workshops/opmaat/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/workshops/opmaat/"
+                href="http://localhost:1313/en/workshops/opmaat/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/workshops/opmaat/"
+                href="http://localhost:1313/workshops/opmaat/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/zangles/</loc>
+    <loc>http://localhost:1313/zangles/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/zangles/"
+                href="http://localhost:1313/en/zangles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/zangles/"
+                href="http://localhost:1313/zangles/"
                 />
   </url>
 </urlset>

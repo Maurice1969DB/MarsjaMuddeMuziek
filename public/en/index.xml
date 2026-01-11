@@ -2,227 +2,227 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News / Home on Marsja Mudde Muziek</title>
-    <link>https://marsjamudde.nl/en/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content in News / Home on Marsja Mudde Muziek</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marsjamudde.nl/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Die Minne mint ende singt</title>
-      <link>https://marsjamudde.nl/en/workshops/minne/</link>
+      <link>http://localhost:1313/en/workshops/minne/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/workshops/minne/</guid>
+      <guid>http://localhost:1313/en/workshops/minne/</guid>
       <description>&lt;h3 id=&#34;die-minne-mint-ende-singt&#34;&gt;Die Minne mint ende singt:&lt;/h3&gt;&#xA;&lt;p&gt;Medieval Sung Love Poetry from the Netherlands and Germany&lt;/p&gt;</description>
     </item>
     <item>
       <title>A medieval Christmas</title>
-      <link>https://marsjamudde.nl/en/workshops/kerst/</link>
+      <link>http://localhost:1313/en/workshops/kerst/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/workshops/kerst/</guid>
+      <guid>http://localhost:1313/en/workshops/kerst/</guid>
       <description>&lt;h3 id=&#34;a-medieval-christmas&#34;&gt;A Medieval Christmas:&lt;/h3&gt;&#xA;&lt;p&gt;Medieval Christmas carols from the Netherlands&lt;/p&gt;&#xA;&lt;img src=&#34;../../../images/Bazuinen.jpeg&#34; style=&#34;width: 13rem; float: right; margin:1rem&#34;&gt;&#xA;&lt;h4 id=&#34;target-audience&#34;&gt;Target audience:&lt;/h4&gt;&#xA;&lt;p&gt;Enthusiasts of all levels&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hildegard StudyDay Online via ICA</title>
-      <link>https://marsjamudde.nl/en/events/17nov2025/</link>
+      <link>http://localhost:1313/en/events/17nov2025/</link>
       <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/events/17nov2025/</guid>
-      <description>&lt;h3 id=&#34;hildegard-studyday-online-via-international-chant-academy&#34;&gt;Hildegard StudyDay Online via International Chant Academy&lt;/h3&gt;&#xA;&lt;p&gt;In May, Marsja successfully collaborated with the International Chant Academy in the USA, giving an online lecture and two practical sessions as part of their Hands on With Hildegard lecture series. The feedback was overwhelmingly positive, with the depth and interdisciplinary approach particularly appreciated.&#xA;By popular demand, the collaboration will continue with three more practical online sessions (via Zoom), the third of which is scheduled for November 17th. This is ideal for those who are unable to attend the monthly Hildegard Study Days in the Den Bosch area due to distance or time constraints. Click &lt;a href=&#34;https://www.chantacademy.com/hildegard-study-days&#34;&gt;here&lt;/a&gt; for more information and registration.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/events/17nov2025/</guid>
+      <description>&lt;h3 id=&#34;hildegard-studyday-online-via-international-chant-academy&#34;&gt;Hildegard StudyDay Online via International Chant Academy&lt;/h3&gt;&#xA;&lt;p&gt;In May, Marsja successfully collaborated with the International Chant Academy in the USA, giving an online lecture and two practical sessions as part of their Hands on With Hildegard lecture series. The feedback was overwhelmingly positive, with the depth and interdisciplinary approach particularly appreciated.&#xA;By popular demand, the collaboration will continue with three more practical online sessions (via Zoom), the third of which is scheduled for November 17th. This is ideal for those who are unable to attend the monthly Hildegard Study Days in the Den Bosch area due to distance or time constraints. Click &lt;a href=&#34;https://www.chantacademy.com/hildegard-study-days&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;here&lt;/a&gt; for more information and registration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hildegard StudyDay Online via ICA</title>
-      <link>https://marsjamudde.nl/en/events/01nov2025/</link>
+      <link>http://localhost:1313/en/events/01nov2025/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/events/01nov2025/</guid>
-      <description>&lt;h3 id=&#34;hildegard-studyday-online-via-international-chant-academy&#34;&gt;Hildegard StudyDay Online via International Chant Academy&lt;/h3&gt;&#xA;&lt;p&gt;In May, Marsja successfully collaborated with the International Chant Academy in the USA, giving an online lecture and two practical sessions as part of their Hands on With Hildegard lecture series. The feedback was overwhelmingly positive, with the depth and interdisciplinary approach particularly appreciated.&#xA;By popular demand, the collaboration will continue with three more practical online sessions (via Zoom), the second of which is scheduled for November 1st. This is ideal for those who are unable to attend the monthly Hildegard Study Days in the Den Bosch area due to distance or time constraints. Click &lt;a href=&#34;https://www.chantacademy.com/hildegard-study-days&#34;&gt;here&lt;/a&gt; for more information and registration.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/events/01nov2025/</guid>
+      <description>&lt;h3 id=&#34;hildegard-studyday-online-via-international-chant-academy&#34;&gt;Hildegard StudyDay Online via International Chant Academy&lt;/h3&gt;&#xA;&lt;p&gt;In May, Marsja successfully collaborated with the International Chant Academy in the USA, giving an online lecture and two practical sessions as part of their Hands on With Hildegard lecture series. The feedback was overwhelmingly positive, with the depth and interdisciplinary approach particularly appreciated.&#xA;By popular demand, the collaboration will continue with three more practical online sessions (via Zoom), the second of which is scheduled for November 1st. This is ideal for those who are unable to attend the monthly Hildegard Study Days in the Den Bosch area due to distance or time constraints. Click &lt;a href=&#34;https://www.chantacademy.com/hildegard-study-days&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;here&lt;/a&gt; for more information and registration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Study-day Hildegard von Bingen</title>
-      <link>https://marsjamudde.nl/en/workshops/studiedag2/</link>
+      <link>http://localhost:1313/en/workshops/studiedag2/</link>
       <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/workshops/studiedag2/</guid>
+      <guid>http://localhost:1313/en/workshops/studiedag2/</guid>
       <description>&lt;h3 id=&#34;monthly-study-day-hildegard-von-bingen&#34;&gt;Monthly Study-day Hildegard von Bingen:&lt;/h3&gt;&#xA;&lt;p&gt;Singing compositions by Hildegard von Bingen, together with other women.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Francis and his Cantico del Sole</title>
-      <link>https://marsjamudde.nl/en/workshops/franciscusenzonnelied/</link>
+      <link>http://localhost:1313/en/workshops/franciscusenzonnelied/</link>
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/workshops/franciscusenzonnelied/</guid>
+      <guid>http://localhost:1313/en/workshops/franciscusenzonnelied/</guid>
       <description>&lt;h3 id=&#34;francis-and-his-cantico-del-sole&#34;&gt;Francis and his Cantico del Sole:&lt;/h3&gt;&#xA;&lt;p&gt;Songs about Saint Francis and his exacly 800 year old Cantico del Sole from Italian manuscripts from the medieval and renaissance periods&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hildegard StudyDay Online via ICA</title>
-      <link>https://marsjamudde.nl/en/events/05sept2025/</link>
+      <link>http://localhost:1313/en/events/05sept2025/</link>
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/events/05sept2025/</guid>
-      <description>&lt;h3 id=&#34;hildegard-studyday-online-via-international-chant-academy&#34;&gt;Hildegard StudyDay Online via International Chant Academy&lt;/h3&gt;&#xA;&lt;p&gt;In May, Marsja successfully collaborated with the International Chant Academy in the USA, giving an online lecture and two practical sessions as part of their Hands on With Hildegard lecture series. The feedback was overwhelmingly positive, with the depth and interdisciplinary approach particularly appreciated.&#xA;By popular demand, the collaboration will continue with three more practical online sessions (via Zoom), the first of which is scheduled for September 5th. This is ideal for those who are unable to attend the monthly Hildegard Study Days in the Den Bosch area due to distance or time constraints. Click &lt;a href=&#34;https://www.chantacademy.com/hildegard-study-days&#34;&gt;here&lt;/a&gt; for more information and registration.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/events/05sept2025/</guid>
+      <description>&lt;h3 id=&#34;hildegard-studyday-online-via-international-chant-academy&#34;&gt;Hildegard StudyDay Online via International Chant Academy&lt;/h3&gt;&#xA;&lt;p&gt;In May, Marsja successfully collaborated with the International Chant Academy in the USA, giving an online lecture and two practical sessions as part of their Hands on With Hildegard lecture series. The feedback was overwhelmingly positive, with the depth and interdisciplinary approach particularly appreciated.&#xA;By popular demand, the collaboration will continue with three more practical online sessions (via Zoom), the first of which is scheduled for September 5th. This is ideal for those who are unable to attend the monthly Hildegard Study Days in the Den Bosch area due to distance or time constraints. Click &lt;a href=&#34;https://www.chantacademy.com/hildegard-study-days&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;here&lt;/a&gt; for more information and registration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On the way to Santiago</title>
-      <link>https://marsjamudde.nl/en/workshops/santiago/</link>
+      <link>http://localhost:1313/en/workshops/santiago/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/workshops/santiago/</guid>
+      <guid>http://localhost:1313/en/workshops/santiago/</guid>
       <description>&lt;h3 id=&#34;on-the-way-to-santiago-da-compostella&#34;&gt;On the way to Santiago da Compostella:&lt;/h3&gt;&#xA;&lt;p&gt;Medieval Pilgrim Songs from mainly Spanish Music Manuscripts&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cantico del Sole Concert at Kloosterkerk Megen 15:00</title>
-      <link>https://marsjamudde.nl/en/events/29juni2025/</link>
+      <link>http://localhost:1313/en/events/29juni2025/</link>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/events/29juni2025/</guid>
-      <description>&lt;h3 id=&#34;canticle-of-the-sun-concert-at-kloosterkerk-megen&#34;&gt;Canticle of the Sun Concert at Kloosterkerk Megen&lt;/h3&gt;&#xA;&lt;p&gt;In a double concert with the Herz Ensemble, which presents modern musical settings of the Canticle of the Sun by Francis of Assisi, the ensemble Anime Beatitudinis Cantando performs the lively program &lt;a href=&#34;https://marsjamudde.nl/en/programmas/sialaudato/&#34;&gt;Sia Laudato, San Francesco!&lt;/a&gt;, also inspired by the anniversary of the Canticle and the life of Francis. Especially for this program, Cristina Garcia Martin created stunning modern animations, drawing inspiration from the frescoes Giotto painted in the church above Francis’s tomb in Assisi.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/events/29juni2025/</guid>
+      <description>&lt;h3 id=&#34;canticle-of-the-sun-concert-at-kloosterkerk-megen&#34;&gt;Canticle of the Sun Concert at Kloosterkerk Megen&lt;/h3&gt;&#xA;&lt;p&gt;In a double concert with the Herz Ensemble, which presents modern musical settings of the Canticle of the Sun by Francis of Assisi, the ensemble Anime Beatitudinis Cantando performs the lively program &lt;a href=&#34;http://localhost:1313/programmas/sialaudato&#34;&gt;Sia Laudato, San Francesco!&lt;/a&gt;, also inspired by the anniversary of the Canticle and the life of Francis. Especially for this program, Cristina Garcia Martin created stunning modern animations, drawing inspiration from the frescoes Giotto painted in the church above Francis’s tomb in Assisi.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Study-day Hildegard von Bingen</title>
-      <link>https://marsjamudde.nl/en/workshops/studiedag/</link>
+      <link>http://localhost:1313/en/workshops/studiedag/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/workshops/studiedag/</guid>
+      <guid>http://localhost:1313/en/workshops/studiedag/</guid>
       <description>&lt;h3 id=&#34;monthly-study-day-hildegard-von-bingen&#34;&gt;Monthly Study-day Hildegard von Bingen:&lt;/h3&gt;&#xA;&lt;p&gt;Singing compositions by Hildegard von Bingen, together with other women.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mastering Modal Methods and Manners for Modal Music, Public Demonstration</title>
-      <link>https://marsjamudde.nl/en/events/demonstratiemmmm/</link>
+      <link>http://localhost:1313/en/events/demonstratiemmmm/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/events/demonstratiemmmm/</guid>
+      <guid>http://localhost:1313/en/events/demonstratiemmmm/</guid>
       <description>&lt;h3 id=&#34;mastering-modal-methods-and-manners-for-modal-music-public-demonstration&#34;&gt;Mastering Modal Methods and Manners for Modal Music: Public Demonstration&lt;/h3&gt;&#xA;&lt;p&gt;Students of the course Mastering Modal Methods and Manners for Modal Music and their teachers, dr. Rebecca Stewart, drs. Bram Verheijen and drs. Marsja Mudde, will demonstrate what they have learned these past 3 days. They will sing the chant they studied and share their &amp;ldquo;aha-moments&amp;rdquo; with the public.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mastering Modal Methods and Manners for Modal Music</title>
-      <link>https://marsjamudde.nl/en/workshops/mmmmmm/</link>
+      <link>http://localhost:1313/en/workshops/mmmmmm/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/workshops/mmmmmm/</guid>
+      <guid>http://localhost:1313/en/workshops/mmmmmm/</guid>
       <description>&lt;h3 id=&#34;mastering-modal-methods-and-manners-for-modal-music&#34;&gt;Mastering Modal Methods and Manners for Modal Music:&lt;/h3&gt;&#xA;&lt;p&gt;A medium-advanced to advanced course by Center Cantus Modalis.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://marsjamudde.nl/en/news/deicasamenwerking/</link>
+      <link>http://localhost:1313/en/news/deicasamenwerking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/news/deicasamenwerking/</guid>
-      <description>&lt;h3 id=&#34;collaboration-with-the-international-chant-academy&#34;&gt;Collaboration with the International Chant Academy&lt;/h3&gt;&#xA;&lt;p&gt;In May, Marsja successfully collaborated with the International Chant Academy in the USA, giving an online lecture and two practical sessions as part of their Hands on With Hildegard lecture series. The feedback was overwhelmingly positive, and the depth and interdisciplinary approach were particularly appreciated.&#xA;By popular demand, the collaboration will continue with three more practical online sessions (via Zoom), the first of which is scheduled for September 5th. This is ideal for those who are unable to reach the monthly Hildegard Study Days near &amp;rsquo;s-Hertogenbosch due to distance or time constraints. Click &lt;a href=&#34;https://www.chantacademy.com/hildegard-study-days&#34;&gt;here&lt;/a&gt; for more information and registration.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/news/deicasamenwerking/</guid>
+      <description>&lt;h3 id=&#34;collaboration-with-the-international-chant-academy&#34;&gt;Collaboration with the International Chant Academy&lt;/h3&gt;&#xA;&lt;p&gt;In May, Marsja successfully collaborated with the International Chant Academy in the USA, giving an online lecture and two practical sessions as part of their Hands on With Hildegard lecture series. The feedback was overwhelmingly positive, and the depth and interdisciplinary approach were particularly appreciated.&#xA;By popular demand, the collaboration will continue with three more practical online sessions (via Zoom), the first of which is scheduled for September 5th. This is ideal for those who are unable to reach the monthly Hildegard Study Days near &amp;rsquo;s-Hertogenbosch due to distance or time constraints. Click &lt;a href=&#34;https://www.chantacademy.com/hildegard-study-days&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;here&lt;/a&gt; for more information and registration.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://marsjamudde.nl/en/news/franciscusworkshop/</link>
+      <link>http://localhost:1313/en/news/franciscusworkshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/news/franciscusworkshop/</guid>
-      <description>&lt;h3 id=&#34;workshop-francis-and-his-jubilant-canticle-of-the-sun&#34;&gt;Workshop Francis and his jubilant Canticle of the Sun&lt;/h3&gt;&#xA;&lt;p&gt;You can register until September 1, 2025 for the workshop about Francis of Assisi and his Canticle of the Sun, completed exactly 800 years ago, which takes place on September 20. Click &lt;a href=&#34;https://marsjamudde.nl/en/workshops/FranciscusENZonnelied&#34;&gt;here&lt;/a&gt; for more information and registration.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/news/franciscusworkshop/</guid>
+      <description>&lt;h3 id=&#34;workshop-francis-and-his-jubilant-canticle-of-the-sun&#34;&gt;Workshop Francis and his jubilant Canticle of the Sun&lt;/h3&gt;&#xA;&lt;p&gt;You can register until September 1, 2025 for the workshop about Francis of Assisi and his Canticle of the Sun, completed exactly 800 years ago, which takes place on September 20. Click &lt;a href=&#34;http://localhost:1313/en/workshops/FranciscusENZonnelied&#34;&gt;here&lt;/a&gt; for more information and registration.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://marsjamudde.nl/en/news/home/</link>
+      <link>http://localhost:1313/en/news/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/news/home/</guid>
+      <guid>http://localhost:1313/en/news/home/</guid>
       <description>&lt;h3 id=&#34;marsja-mudde-muziek-experienced-in-giving-experience&#34;&gt;Marsja Mudde Muziek: experienced in giving experience&lt;/h3&gt;&#xA;&lt;img src=&#34;../news/images/MarsjaPieterskerkAltaar.jpeg&#34; style=&#34;width: 13rem; float: right; margin:1rem&#34;&gt;&#xA;&lt;p&gt;Experienced in giving experience is the motto of Marsja Mudde Muziek and what Marsja stands for as a person and musician. According to her, making music is really an experience profession. As a musician you are trained based on what the teacher experiences while listening to you. And through a lot of repetition and practice with the teacher&amp;rsquo;s feedback, or after a lot of experience, you master the subject.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anime Beatitudinis Cantando</title>
-      <link>https://marsjamudde.nl/en/ensembles/anime/</link>
+      <link>http://localhost:1313/en/ensembles/anime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/ensembles/anime/</guid>
+      <guid>http://localhost:1313/en/ensembles/anime/</guid>
       <description>&lt;p&gt;Anime Beatitudinis Cantando is a professional vocal women&amp;rsquo;s ensemble that breathes new life into the music of the Middle Ages and early Renaissance in a titillating way. The programs are distinguished by idiosyncratic, creative and interdisciplinary total concepts, in which the visible and audible love for this music is combined with texts and images, sometimes also other sensory resources, that together tell a story.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Appointments</title>
-      <link>https://marsjamudde.nl/en/zangles/lesagenda/</link>
+      <link>http://localhost:1313/en/zangles/lesagenda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/zangles/lesagenda/</guid>
+      <guid>http://localhost:1313/en/zangles/lesagenda/</guid>
       <description>&lt;h3 id=&#34;making-lesson-appointments&#34;&gt;Making lesson appointments&lt;/h3&gt;&#xA;&lt;p&gt;Lessons can take place by appointment at my home in Den Bosch, at an additional cost at your home or at another location, or online at a normal rate if desired.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Book &#34;Zicht op Hildegard&#34;</title>
-      <link>https://marsjamudde.nl/en/products/zichtop/</link>
+      <link>http://localhost:1313/en/products/zichtop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/products/zichtop/</guid>
+      <guid>http://localhost:1313/en/products/zichtop/</guid>
       <description>&lt;h3 id=&#34;book-zicht-op-hildegard-leven-visioenen-geneeskunst-muziek-in-dutch&#34;&gt;Book &amp;ldquo;Zicht op Hildegard; leven, visioenen, geneeskunst, muziek&amp;rdquo; (in Dutch)&lt;/h3&gt;&#xA;&lt;p&gt;Hildegard van Bingen was a strong woman with versatile talents, according to the book &amp;ldquo;Zicht op Hildegard&amp;rdquo;, which appeared at the end of 2020. This book is an accessible introduction to the life and work of these twelfth-century Benedictines, after which you will definitely want to go on a pilgrimage to her monastery in Eibingen, Germany. In &amp;ldquo;Zicht op Hildegard&amp;rdquo;, nine specialists shed their light on a sub-area of her life and work. All in all, this results in a versatile and penetrating portrait.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cantus Modalis</title>
-      <link>https://marsjamudde.nl/en/ensembles/cantus/</link>
+      <link>http://localhost:1313/en/ensembles/cantus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/ensembles/cantus/</guid>
+      <guid>http://localhost:1313/en/ensembles/cantus/</guid>
       <description>&lt;h3 id=&#34;cantus-modalis&#34;&gt;Cantus Modalis&lt;/h3&gt;&#xA;&lt;p&gt;After her pension in 2007, Rebecca Stewart founded Cantus Modalis, which has both an educational and a performing branch. The main purpose of the educational Center Cantus Modalis is to study and teach the underlying principles of the living modal traditions of the non-Western world in conjunction with the long-dead modal traditions of the Western world, this with the intention of reanimating the Western sense of identification with its modal roots. From this perspective Cantus Modalis investigates the oral/modal roots of medieval and early Renaissance music which are ‘hidden’ within the written traditions. These ‘secrets’ often mirror important aspects of the musical esthetics of these periods which reflect, for lack of a better term ‘the cosmic layering of the divine. Cantus Modalis is convinced that the message of this very strong but often misunderstood music is as relevant today as it was 500 years ago.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Civitas</title>
-      <link>https://marsjamudde.nl/en/programmas/civitas/</link>
+      <link>http://localhost:1313/en/programmas/civitas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/programmas/civitas/</guid>
+      <guid>http://localhost:1313/en/programmas/civitas/</guid>
       <description>&lt;h3 id=&#34;civitas&#34;&gt;Civitas&lt;/h3&gt;&#xA;&lt;img src=&#34;../../../images/Hierusalem_Celestis.jpeg&#34; style=&#34;width: 13rem; float: right; margin:1rem&#34;&gt;&#xA;&lt;p&gt;Civitas is a project of Marsja Mudde Muziek. Civitas means civilization or city and refers to the heavenly city of Jerusalem, the city of peace with a dazzling beauty, but also to the earthly Jerusalem and the many other pilgrimage cities in Europe. In this performance, the stories of a medieval and a modern woman, both on pilgrimage, are intertwined. The medieval woman travels incognito to important pilgrimage destinations throughout Europe and in this way comes to terms with the great loss of her husband and her son. She finds comfort in the music she hears and sings everywhere and in the texts of wise contemporaries, which she reads along the way. The modern woman follows her, centuries later, with a fascination for the same music and the culture in which it originated and developed. Her &amp;ldquo;holy grail&amp;rdquo; is to find out why this music is so comforting and able to bring peace to a (her?) broken heart. Can be booked from now on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Civitas blog 01</title>
-      <link>https://marsjamudde.nl/en/blog/civitasblog01/</link>
+      <link>http://localhost:1313/en/blog/civitasblog01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/blog/civitasblog01/</guid>
+      <guid>http://localhost:1313/en/blog/civitasblog01/</guid>
       <description>&lt;h3 id=&#34;invitation-received&#34;&gt;Invitation received!&lt;/h3&gt;&#xA;&lt;p&gt;Letterbox clatter. A soft thud. Mail! A letter from Portugal&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://marsjamudde.nl/en/about/cv/</link>
+      <link>http://localhost:1313/en/about/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/about/cv/</guid>
+      <guid>http://localhost:1313/en/about/cv/</guid>
       <description>&lt;p&gt;Medieval and Renaissance specialist and soprano Marsja Mudde (Ridderkerk, 1976) was fascinated from an early age by increasingly older classical vocal music. From the start of her singing studies at the Fontys Conservatory in Tilburg, she specialized in the Middle Ages and Renaissance with Dr. Rebecca Stewart, head of the Early Vocal Ensemble Music department. After her extraordinarily successful graduation concert on Saint Michael and All Angels, she followed many more specialization courses at master level. She immersed herself in, among other things, the Paris Notre Dame repertoire, Hildegard von Bingen, Modern Devotion and Gregorian chant music from all European regions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>General Information</title>
-      <link>https://marsjamudde.nl/en/workshops/algemeen/</link>
+      <link>http://localhost:1313/en/workshops/algemeen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/workshops/algemeen/</guid>
+      <guid>http://localhost:1313/en/workshops/algemeen/</guid>
       <description>&lt;h3 id=&#34;general-information-theme-workshops-for-enthusiasts-advanced-and-pre--professionals&#34;&gt;General information theme workshops for enthusiasts, advanced and (pre-) professionals&lt;/h3&gt;&#xA;&lt;p&gt;Below you will find the general information and conditions for the themed workshops. The conditions for workshops for schools and companies are incorporated in the offer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hildegard von Bingen</title>
-      <link>https://marsjamudde.nl/en/workshops/hildegard/</link>
+      <link>http://localhost:1313/en/workshops/hildegard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/workshops/hildegard/</guid>
+      <guid>http://localhost:1313/en/workshops/hildegard/</guid>
       <description>&lt;h3 id=&#34;hildegard-von-bingen&#34;&gt;Hildegard von Bingen:&lt;/h3&gt;&#xA;&lt;p&gt;An in-depth look at the songs of Hildegard von Bingen from the Dendermonde Codex and the Riesencodex&lt;/p&gt;</description>
     </item>
     <item>
       <title>Methodology in early music</title>
-      <link>https://marsjamudde.nl/en/zangles/methodiek/</link>
+      <link>http://localhost:1313/en/zangles/methodiek/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/zangles/methodiek/</guid>
+      <guid>http://localhost:1313/en/zangles/methodiek/</guid>
       <description>&lt;h3 id=&#34;methodology-in-early-music&#34;&gt;Methodology in early music&lt;/h3&gt;&#xA;&lt;h4 id=&#34;methodology-of-my-teachers&#34;&gt;Methodology of my teachers&lt;/h4&gt;&#xA;&lt;p&gt;In my own training Early Vocal Ensemble Music I received input from various angles from my two teachers, dr. Rebecca Stewart and Margot Kalse. I was given directions for interpretation and technical directions to support that interpretation. Gradually it became more and more clear to me how closely interpretation and technique are connected. In fact, in my view, they can no longer be approached separately. You can have an interpretation in mind, but if your body isn&amp;rsquo;t willing to do the right things to support it, the interpretation will be virtually lost to the public. Some styles even call for specific techniques to allow interpretation consistent with the notation. In addition, there are of course technical aspects that can be applied in every style, including those outside my specialism of early music.&#xA;I cannot express in words how grateful I am for the input of my teachers, which I still receive on a regular basis. After all, after completing a professional music course, the development of the voice as well as other skills does not stand still.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Missa Paschalis Isaac</title>
-      <link>https://marsjamudde.nl/en/products/paschalis/</link>
+      <link>http://localhost:1313/en/products/paschalis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/products/paschalis/</guid>
+      <guid>http://localhost:1313/en/products/paschalis/</guid>
       <description>&lt;h3 id=&#34;missa-paschalis-ad-organum-a-cd-from-cantus-modalis&#34;&gt;Missa Paschalis ‘ad organum’, a CD from Cantus Modalis&lt;/h3&gt;&#xA;&lt;p&gt;In September 2012 the early music ensemble Cantus Modalis made a most special recording in Ostönnen (Westphalia). In addition to a praeambulum by Adam Ileborgh van Stendhal and music for Easter by Guillaume Dufay, Josquin des Prez and Fridolin Sicher, the pièce de résistance was the six-voice Missa Paschalis by Heinrich Isaac (ca. 1450–1517). In this so-called ‘alternatim’ mass, Isaac’s polyphonic setting of sections of the Gregorian ordinary chants from the Graduale Pataviense for the Easter season is heard antiphonally with organ intabulations of the adjacent phrases by Hans Buchner (1483–1538).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prices and Conditions</title>
-      <link>https://marsjamudde.nl/en/zangles/prijzen/</link>
+      <link>http://localhost:1313/en/zangles/prijzen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/zangles/prijzen/</guid>
+      <guid>http://localhost:1313/en/zangles/prijzen/</guid>
       <description>&lt;h3 id=&#34;prices-and-conditions-singing-lessons-at-marsja-mudde-music-from-september-2025&#34;&gt;Prices and conditions Singing lessons at Marsja Mudde Music from September 2025&lt;/h3&gt;&#xA;&lt;p&gt;An &lt;strong&gt;introductory lesson&lt;/strong&gt; of 5 minutes costs 80 Euros. When a lesson package is subsequently taken out, it will be refunded in part (50% in case of a 5 lesson package) or in full (in case of a 10 or 20 lesson package). When you take out a package of 20 lessons, you will also receive a nice gift.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Devotio Moderna</title>
-      <link>https://marsjamudde.nl/en/products/gremode/</link>
+      <link>http://localhost:1313/en/products/gremode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/products/gremode/</guid>
+      <guid>http://localhost:1313/en/products/gremode/</guid>
       <description>&lt;h3 id=&#34;book-and-cd-gregorian-chant-and-songs-from-the-modern-devotion-by-ensemble-trigon&#34;&gt;Book and cd Gregorian chant and songs from the Modern Devotion by ensemble Trigon&lt;/h3&gt;&#xA;&lt;p&gt;The Key2Singing foundation has released a CD and book to conclude the Gregorian Chant and Modern Devotion - Treasure Digging in Our Cultural Heritage project.&#xA;Last year, ensemble Trigon was commissioned by the Key2Singing foundation to conduct research into the music of Gregorian chant and the Modern Devotion in the Low Countries in the period 1350-1550. In the context of this project, in addition to a study of the history of this music and the original musical notation, various workshops and concerts have been organized. This has resulted in the CD with accompanying book that was released in 2012/2013.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sia laudato, San Francesco</title>
-      <link>https://marsjamudde.nl/en/programmas/sialaudato/</link>
+      <link>http://localhost:1313/en/programmas/sialaudato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/programmas/sialaudato/</guid>
+      <guid>http://localhost:1313/en/programmas/sialaudato/</guid>
       <description>&lt;h3 id=&#34;sia-laudato-san-francesco&#34;&gt;Sia laudato, San Francesco&lt;/h3&gt;&#xA;&lt;img src=&#34;../../../images/SiaMiniatuur.jpeg&#34; style=&#34;width: 13rem; float: right; margin:1rem&#34;&gt;&#xA;&lt;p&gt;Imagine this: a medieval troubadour, a street preacher, and a circle of devoted brothers and sisters around him — all with songs on their lips. What did the world of Francis of Assisi sound like?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tailor-made workshops</title>
-      <link>https://marsjamudde.nl/en/workshops/opmaat/</link>
+      <link>http://localhost:1313/en/workshops/opmaat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/workshops/opmaat/</guid>
+      <guid>http://localhost:1313/en/workshops/opmaat/</guid>
       <description>&lt;h3 id=&#34;tailor-made-workshops&#34;&gt;Tailor-made workshops&lt;/h3&gt;&#xA;&lt;p&gt;Marsja Mudde Muziek provides customized workshops for all kinds of occasions and target groups.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vita Hildegardis Bingenis</title>
-      <link>https://marsjamudde.nl/en/programmas/vita/</link>
+      <link>http://localhost:1313/en/programmas/vita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marsjamudde.nl/en/programmas/vita/</guid>
+      <guid>http://localhost:1313/en/programmas/vita/</guid>
       <description>&lt;h3 id=&#34;vita-hildegardis-bingensis&#34;&gt;Vita Hildegardis Bingensis&lt;/h3&gt;&#xA;&lt;img src=&#34;../../../images/Die Seherin.png&#34; style=&#34;width: 13rem; float: right; margin:1rem&#34;&gt;&#xA;&lt;p&gt;Vita Hildegardis Bingensis is a concert series with the ensemble Anime Beatitudinis Cantando with the singers Agnieszka Chabowska, Cora Schmeiser and Marsja Mudde. The program is about the life of Hildegard von Bingen with music by this famous abbess himself. In seven scenes, the singers immerse themselves in the world of the nuns led by Hildegard in the 12th century monastery on the Rupertsberg. The audience is treated to titillating vocals and lacks senses to take it all in. While enjoying, one learns something about the life history of this Sybille of the Rhine and her time. Can be booked for the whole of 2027.&lt;/p&gt;</description>
     </item>
   </channel>

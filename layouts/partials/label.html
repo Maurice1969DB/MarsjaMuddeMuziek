@@ -1,5 +1,13 @@
 <div class="label">
-  <h2>{{ .Title | upper }}</h2>
+  {{- $title := .Title -}}
+  {{- if eq .Kind "404" -}}
+    {{- if eq .Lang "nl" -}}
+      {{- $title = "Pagina niet gevonden" -}}
+    {{- else -}}
+      {{- $title = "Page not found" -}}
+    {{- end -}}
+  {{- end -}}
+  <h2>{{ $title | upper }}</h2>
 </div>
 
 <script>
