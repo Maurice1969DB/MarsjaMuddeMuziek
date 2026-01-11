@@ -23,23 +23,26 @@
     <nav aria-label="{{ if eq $.Lang "nl" }}Hoofdnavigatie{{ else }}Main navigation{{ end }}">
       <ul class="sidebar-nav">
         {{ $currentPage := . }}
+        {{ $currentURL := $currentPage.RelPermalink | relLangURL | strings.TrimSuffix "/" }}
         {{ range .Site.Menus.main }}
+          {{ $menuURL := .URL | relLangURL | strings.TrimSuffix "/" }}
           {{ if .HasChildren }}
             <li class="menu-item">
-              <a class="{{ if eq ($currentPage.RelPermalink | relLangURL) (.URL | relLangURL) }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+              <a class="{{ if eq $currentURL $menuURL }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
             </li>
-                {{ if in ($currentPage.RelPermalink | relLangURL) (.URL | relLangURL)  }}
+                {{ if in $currentURL $menuURL }}
               <ul>
                 {{ range .Children }}
+                  {{ $childURL := .URL | relLangURL | strings.TrimSuffix "/" }}
                   <li class="menu-item indent">
-                    <a class="{{ if eq ($currentPage.RelPermalink | relLangURL) (.URL | relLangURL) }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+                    <a class="{{ if eq $currentURL $childURL }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
                   </li>
                 {{ end }}
               </ul>
                   {{ end }}
           {{else}}
             <li class="menu-item">
-              <a class="{{ if eq ($currentPage.RelPermalink | relLangURL) (.URL | relLangURL) }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+              <a class="{{ if eq $currentURL $menuURL }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
             </li>
           {{ end }}
         {{- end }}
