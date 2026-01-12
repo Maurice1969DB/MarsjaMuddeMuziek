@@ -53,9 +53,30 @@
 /* ============================================
    Base - Only color and typography updates
    ============================================ */
+html {
+  font-size: 16px;
+}
+
 body {
   background-color: var(--color-bg);
   overscroll-behavior: none;
+  font-size: 1rem;
+}
+
+/* Consistent font size for all content */
+.content,
+.content p,
+.content li,
+.content div:not(.event-card__date),
+.post,
+.post p,
+.post li,
+.posts,
+.posts p,
+.posts li,
+.capital-m,
+.capital-m p {
+  font-size: 1rem !important;
 }
 
 /* Smoother scrolling, disable bounce */
@@ -139,7 +160,7 @@ li {
 /* Lead paragraph - first paragraph after title */
 .post > p:first-of-type,
 .content > .container > p:first-of-type {
-  font-size: 1.02rem;
+  font-size: 1rem;
   line-height: 1.45;
 }
 
@@ -172,7 +193,6 @@ blockquote p {
 
 .content img:hover {
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.22) !important;
-  transform: translateY(-2px);
 }
 
 /* Images with float (already styled inline) */
@@ -233,6 +253,29 @@ blockquote p {
   font-weight: normal; /* Prevent text from jumping */
 }
 
+/* Submenu items - better distinction */
+.sidebar-nav ul {
+  margin-left: 1.5rem;
+  padding-left: 0.75rem;
+  border-left: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.sidebar-nav .indent,
+.sidebar-nav li.indent {
+  margin-left: 0;
+}
+
+.sidebar-nav .indent a,
+.sidebar-nav li.indent a {
+  font-size: 0.8em !important;
+  opacity: 0.85;
+}
+
+.sidebar-nav .indent a:hover,
+.sidebar-nav li.indent a:hover {
+  opacity: 1;
+}
+
 .sidebar .social-icons a {
   transition: all var(--transition-fast);
 }
@@ -247,6 +290,24 @@ blockquote p {
    ============================================ */
 .header {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  background-color: #fffcf3 !important;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+/* Ensure content scrolls under header */
+.content.container {
+  position: relative;
+  z-index: 1;
+}
+
+ul.posts,
+div.posts,
+div.post,
+.home-posts {
+  position: relative;
+  z-index: 1;
 }
 
 
@@ -288,13 +349,35 @@ ul.posts {
   overflow: visible !important;
 }
 
+/* Ensure full decorative M is visible with space around it */
+.content .capital-m p:first-child::first-letter,
+.content .capital-m h3:first-child::first-letter {
+  background-size: contain !important;
+  padding-right: 1rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
 /* Extra space for capital-m pages while keeping border */
-ul.posts:has(> .capital-m:first-child),
-ul.posts:has(> div.capital-m) {
+/* Capital-m with h3 needs more top space */
+ul.posts:has(> .capital-m h3:first-child),
+ul.posts:has(> div.capital-m h3:first-child) {
   border-left: 4px solid #176a99;
   padding-left: 1.5rem;
   margin-left: 0.5rem;
-  padding-top: 2.5rem;
+  padding-top: 4rem !important;
+  margin-top: 0 !important;
+  overflow: visible;
+}
+
+/* Capital-m with p needs less top space */
+ul.posts:has(> .capital-m p:first-child),
+ul.posts:has(> div.capital-m p:first-child) {
+  border-left: 4px solid #176a99;
+  padding-left: 1.5rem;
+  margin-left: 0.5rem;
+  padding-top: 2.5rem !important;
+  margin-top: 0 !important;
   overflow: visible;
 }
 
@@ -316,10 +399,10 @@ main.content > div.post:has(.capital-m) {
 }
 
 /* Consistent top spacing after header - all page types */
-ul.posts,
+ul.posts:not(:has(> .capital-m)),
 div.posts,
 .home-posts,
-main.content > div.post {
+main.content > div.post:not(:has(.capital-m)) {
   margin-top: 1.75rem !important;
   padding-top: 0 !important;
 }
@@ -386,8 +469,8 @@ h3:first-child::first-letter {
    ============================================ */
 .home-posts .post {
   border-bottom: none;
-  padding: 1rem 1.25rem;
-  margin-bottom: 0.35rem;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 0.2rem;
   background: rgba(255, 255, 255, 0.5);
   border-left: 4px solid #b4250c;
   border-radius: 0 6px 6px 0;
@@ -449,7 +532,7 @@ main.content > div.post h3:first-child {
 .readmore a {
   display: inline-block;
   color: var(--color-primary) !important;
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-weight: 500;
   text-decoration: none;
   border-bottom: 1px solid transparent;
@@ -565,7 +648,7 @@ a.event-card:hover {
 }
 
 .event-card__title {
-  font-size: 1.15rem !important;
+  font-size: 1rem !important;
   font-weight: 600 !important;
   margin: 0 !important;
   color: #2d3436 !important;
@@ -580,7 +663,7 @@ a.event-card:hover {
 }
 
 .event-card__description {
-  font-size: 0.9rem !important;
+  font-size: 1rem !important;
   color: #636e72 !important;
   margin: 0.5rem 0 0 0 !important;
   line-height: 1.45 !important;
