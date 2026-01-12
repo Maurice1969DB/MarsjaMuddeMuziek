@@ -195,6 +195,17 @@ blockquote p {
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.22) !important;
 }
 
+/* No hover effects on header images */
+.header img {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  transition: none !important;
+}
+
+.header img:hover {
+  box-shadow: none !important;
+}
+
 /* Images with float (already styled inline) */
 .content img[style*="float"] {
   margin-bottom: 1rem;
