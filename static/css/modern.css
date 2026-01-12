@@ -731,8 +731,23 @@ a.event-card:hover .event-card__arrow {
   color: var(--color-text-light);
 }
 
-/* Mobile responsive */
+/* Mobile responsive - match custom.css breakpoint */
+@media (max-width: 60em) {
+  /* Larger logo on mobile */
+  .header img:first-of-type {
+    max-width: 95% !important;
+    min-width: 250px !important;
+  }
+
+  /* Larger title on mobile */
+  .label h2 {
+    font-size: 1.4em !important;
+  }
+}
+
+/* Smaller mobile */
 @media (max-width: 40em) {
+
   .event-card {
     flex-direction: column;
   }
