@@ -13,17 +13,19 @@ document.querySelector('.toggle').onclick = function () {
 // Shrink header on scroll (mobile only)
 if (window.innerWidth <= 960) {
     const header = document.querySelector('.header');
-    let lastScroll = 0;
+    let ticking = false;
 
     window.addEventListener('scroll', function() {
-        const currentScroll = window.pageYOffset;
-
-        if (currentScroll > 50) {
-            header.classList.add('header-compact');
-        } else {
-            header.classList.remove('header-compact');
+        if (!ticking) {
+            requestAnimationFrame(function() {
+                if (window.pageYOffset > 50) {
+                    header.classList.add('header-compact');
+                } else {
+                    header.classList.remove('header-compact');
+                }
+                ticking = false;
+            });
+            ticking = true;
         }
-
-        lastScroll = currentScroll;
-    });
+    }, { passive: true });
 }

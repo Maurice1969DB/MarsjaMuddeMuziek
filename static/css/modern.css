@@ -770,16 +770,20 @@ a.event-card:hover .event-card__arrow {
 
   /* Compact header on scroll */
   .header {
-    transition: max-height 0.4s ease-out, padding 0.4s ease-out !important;
+    transition: max-height 0.3s ease-out, padding 0.3s ease-out !important;
+    will-change: max-height, padding;
+    transform: translateZ(0);
   }
 
   .header img:first-of-type {
-    transition: max-width 0.4s ease-out, max-height 0.4s ease-out !important;
+    transition: max-width 0.3s ease-out, max-height 0.3s ease-out !important;
+    will-change: max-width, max-height;
   }
 
   .header .label,
   .header img:nth-of-type(2) {
-    transition: opacity 0.3s ease-out !important;
+    transition: opacity 0.2s ease-out !important;
+    will-change: opacity;
   }
 
   .header.header-compact {
