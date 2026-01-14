@@ -1,0 +1,30 @@
+{{- if not .IsHome -}}
+<nav class="breadcrumbs" aria-label="{{ if eq .Lang "nl" }}Kruimelpad{{ else }}Breadcrumb{{ end }}">
+  <ol class="breadcrumbs__list" itemscope itemtype="https://schema.org/BreadcrumbList">
+    {{/* Home */}}
+    <li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a class="breadcrumbs__link" itemprop="item" href="{{ .Site.Home.RelPermalink }}">
+        <span itemprop="name">Home</span>
+      </a>
+      <meta itemprop="position" content="1" />
+    </li>
+
+    {{/* Section (if not a section page itself) */}}
+    {{- if and .Parent (not .Parent.IsHome) -}}
+    <li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a class="breadcrumbs__link" itemprop="item" href="{{ .Parent.RelPermalink }}">
+        <span itemprop="name">{{ .Parent.Title }}</span>
+      </a>
+      <meta itemprop="position" content="2" />
+    </li>
+    {{- end -}}
+
+    {{/* Current page */}}
+    <li class="breadcrumbs__item breadcrumbs__item--current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <span itemprop="name">{{ .Title }}</span>
+      <meta itemprop="item" content="{{ .Permalink }}" />
+      <meta itemprop="position" content="{{ if and .Parent (not .Parent.IsHome) }}3{{ else }}2{{ end }}" />
+    </li>
+  </ol>
+</nav>
+{{- end -}}

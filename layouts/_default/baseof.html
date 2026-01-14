@@ -84,6 +84,7 @@
 
   <main class="content container" id="main-content">
     {{ partial "header.html" . }}
+    {{ partial "breadcrumbs.html" . }}
     {{ block "main" . -}}{{- end }}
   </main>
 

@@ -373,6 +373,18 @@ ul.posts {
   overflow: visible !important;
 }
 
+/* Clear floats after capital-m so list items start fresh */
+.capital-m::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* List items after capital-m should not be indented */
+ul.posts > li {
+  clear: both;
+}
+
 /* Ensure full decorative M is visible with space around it */
 .content .capital-m p:first-child::first-letter,
 .content .capital-m h3:first-child::first-letter {
@@ -389,7 +401,7 @@ ul.posts:has(> div.capital-m h3:first-child) {
   border-left: 4px solid #176a99;
   padding-left: 1.5rem;
   margin-left: 0.5rem;
-  padding-top: 4rem !important;
+  padding-top: 2rem !important;
   margin-top: 0 !important;
   overflow: visible;
 }
@@ -400,7 +412,7 @@ ul.posts:has(> div.capital-m p:first-child) {
   border-left: 4px solid #176a99;
   padding-left: 1.5rem;
   margin-left: 0.5rem;
-  padding-top: 2.5rem !important;
+  padding-top: 1.5rem !important;
   margin-top: 0 !important;
   overflow: visible;
 }
@@ -417,7 +429,7 @@ main.content > div.post:has(.capital-m) {
   border-left: 4px solid #176a99;
   padding-left: 1.5rem;
   margin-left: 0.5rem;
-  padding-top: 2.5rem !important;
+  padding-top: 1.5rem !important;
   margin-top: 0.5rem !important;
   overflow: visible;
 }
@@ -450,12 +462,23 @@ ul.posts > li:first-of-type {
   padding-top: 0 !important;
 }
 
+/* Clearfix for list items with floated images */
+ul.posts > li::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+ul.posts > li {
+  overflow: hidden;
+}
+
 /* Capital-m needs extra top space for the decorative letter */
 .posts > .capital-m:first-child,
 .posts .capital-m:first-child,
 ul.posts > .capital-m {
-  margin-top: 2rem !important;
-  padding-top: 1rem !important;
+  margin-top: 1rem !important;
+  padding-top: 0.5rem !important;
 }
 
 .posts .capital-m h3:first-child,
@@ -525,7 +548,6 @@ main.content > div.post h3:first-child {
 }
 
 .home-posts .post h3::before {
-  content: 'Nieuws';
   display: inline-block;
   font-size: 0.65rem;
   text-transform: uppercase;
@@ -537,6 +559,14 @@ main.content > div.post h3:first-child {
   margin-right: 0.75rem;
   vertical-align: middle;
   font-weight: 700;
+}
+
+:lang(nl) .home-posts .post h3::before {
+  content: 'Nieuws';
+}
+
+:lang(en) .home-posts .post h3::before {
+  content: 'News';
 }
 
 /* Intro text - no news label, different style */
@@ -915,4 +945,67 @@ blockquote {
 
 .content > .container {
   animation: fadeIn 0.4s ease-out;
+}
+
+
+/* ============================================
+   Breadcrumbs - Subtle navigation aid
+   ============================================ */
+nav.breadcrumbs {
+  padding: 0.25rem 0 !important;
+  margin-bottom: 0.25rem !important;
+  font-size: 0.75rem !important;
+  opacity: 0.6;
+  transition: opacity 0.2s ease;
+}
+
+nav.breadcrumbs:hover {
+  opacity: 0.9;
+}
+
+nav.breadcrumbs ol.breadcrumbs__list {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+  align-items: center !important;
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  gap: 0 !important;
+}
+
+nav.breadcrumbs ol.breadcrumbs__list li.breadcrumbs__item {
+  display: inline-flex !important;
+  align-items: center !important;
+  color: var(--color-text-light);
+  float: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+nav.breadcrumbs ol.breadcrumbs__list li.breadcrumbs__item:not(:last-child)::after {
+  content: "/";
+  margin: 0 0.4rem;
+  color: var(--color-text-light);
+  opacity: 0.5;
+}
+
+nav.breadcrumbs .breadcrumbs__link {
+  color: var(--color-text-light);
+  text-decoration: none;
+}
+
+nav.breadcrumbs .breadcrumbs__link:hover {
+  color: var(--color-primary);
+  text-decoration: underline;
+}
+
+nav.breadcrumbs .breadcrumbs__item--current {
+  color: var(--color-text-light);
+}
+
+@media (max-width: 30em) {
+  nav.breadcrumbs {
+    font-size: 0.7rem !important;
+  }
 }
