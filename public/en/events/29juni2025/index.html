@@ -210,22 +210,30 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Event",
+  "@type": "MusicEvent",
   "name": "Cantico del Sole Concert at Kloosterkerk Megen 15:00",
   "description": "Canticle of the Sun Concert at Kloosterkerk Megen In a double concert with the Herz Ensemble, which presents modern musical settings of the Canticle of the Sun …",
-  "startDate": "2025-06-29",
+  "startDate": "2025-06-29T15:00:00",
   "url": "https:\/\/marsjamudde.nl\/en\/events\/29juni2025\/",
+  "location": {
+    "@type": "Place",
+    "name": "Franciscaanse Kloosterkerk Megen",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kloosterstraat 6, 5366 BH Megen"
+    }
+  },
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
   "organizer": {
     "@type": "Person",
     "name": "Marsja Mudde",
-    "url": "https://marsjamudde.nl"
+    "url": "https:\/\/marsjamudde.nl\/"
   },
   "performer": {
-    "@type": "Person",
-    "name": "Marsja Mudde"
+    "@type": "MusicGroup",
+    "name": "Anime Beatitudinis Cantando"
   },
   "eventStatus": "https://schema.org/EventScheduled",
-  "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
   "image": "https:\/\/marsjamudde.nl\/images\/profile.png"
 }
 </script>

@@ -3,22 +3,44 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Event",
+  "@type": "MusicEvent",
   "name": "{{ .Title }}",
   "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}",
+  {{- if .Params.time }}
+  "startDate": "{{ .Date.Format "2006-01-02" }}T{{ .Params.time }}:00",
+  {{- else }}
   "startDate": "{{ .Date.Format "2006-01-02" }}",
+  {{- end }}
   "url": "{{ .Permalink }}",
+  {{- if .Params.online }}
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "{{ with .Params.online_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}"
+  },
+  "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+  {{- else if .Params.location }}
+  "location": {
+    "@type": "Place",
+    "name": "{{ .Params.location }}",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "{{ with .Params.address }}{{ . }}{{ end }}"
+    }
+  },
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  {{- else }}
+  "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+  {{- end }}
   "organizer": {
     "@type": "Person",
     "name": "Marsja Mudde",
-    "url": "https://marsjamudde.nl"
+    "url": "{{ .Site.BaseURL }}"
   },
   "performer": {
-    "@type": "Person",
-    "name": "Marsja Mudde"
+    "@type": "MusicGroup",
+    "name": "{{ with .Params.ensemble }}{{ . }}{{ else }}Marsja Mudde{{ end }}"
   },
   "eventStatus": "https://schema.org/EventScheduled",
-  "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
   "image": "{{ `images/profile.png` | absURL }}"
 }
 </script>
