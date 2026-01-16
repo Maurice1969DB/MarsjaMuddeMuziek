@@ -1014,10 +1014,10 @@ nav.breadcrumbs .breadcrumbs__item--current {
 /* ============================================
    Larger inline images
    ============================================ */
-.content img[style*="float: right"],
-.content img[style*="float: left"],
-.post img[style*="float: right"],
-.post img[style*="float: left"] {
+.content img[style*="float"],
+.posts img[style*="float"],
+.post img[style*="float"],
+.capital-m img[style*="float"] {
   width: 18rem !important;
   max-width: 45% !important;
   height: auto !important;
@@ -1027,20 +1027,20 @@ nav.breadcrumbs .breadcrumbs__item--current {
 }
 
 @media (max-width: 60em) {
-  .content img[style*="float: right"],
-  .content img[style*="float: left"],
-  .post img[style*="float: right"],
-  .post img[style*="float: left"] {
+  .content img[style*="float"],
+  .posts img[style*="float"],
+  .post img[style*="float"],
+  .capital-m img[style*="float"] {
     width: 15rem !important;
     max-width: 40% !important;
   }
 }
 
 @media (max-width: 40em) {
-  .content img[style*="float: right"],
-  .content img[style*="float: left"],
-  .post img[style*="float: right"],
-  .post img[style*="float: left"] {
+  .content img[style*="float"],
+  .posts img[style*="float"],
+  .post img[style*="float"],
+  .capital-m img[style*="float"] {
     float: none !important;
     display: block !important;
     width: 100% !important;
