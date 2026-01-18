@@ -92,6 +92,7 @@
 <body>
   <a href="#main-content" class="skip-link">{{ if eq .Lang "nl" }}Ga naar inhoud{{ else }}Skip to content{{ end }}</a>
 
+  {{ partial "popup.html" . }}
   {{ partial "sidebar.html" . }}
 
   <main class="content container" id="main-content">

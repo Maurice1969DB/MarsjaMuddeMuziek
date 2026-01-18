@@ -1,0 +1,22 @@
+<!-- Workshop Popup for new visitors -->
+<div id="workshop-popup" class="popup-overlay" style="display: none;">
+  <div class="popup-content">
+    <button class="popup-close" aria-label="{{ if eq .Lang "nl" }}Sluiten{{ else }}Close{{ end }}">&times;</button>
+    <div class="popup-image">
+      <img src="/images/ManesseCodex.jpg" alt="Die Minne mint ende singt" loading="lazy">
+    </div>
+    <div class="popup-text">
+      <span class="popup-label">Workshop</span>
+      <h3>Die Minne mint ende singt</h3>
+      {{ if eq .Lang "nl" }}
+      <p>Tweedaagse workshop middeleeuwse gezongen liefdespoëzie uit Nederland en Duitsland.</p>
+      <p class="popup-date"><strong>13 + 14 februari 2026</strong></p>
+      <a href="/workshops/minne/" class="popup-button">Meer informatie</a>
+      {{ else }}
+      <p>Two-day workshop on medieval sung love poetry from the Netherlands and Germany.</p>
+      <p class="popup-date"><strong>February 13 + 14, 2026</strong></p>
+      <a href="/en/workshops/minne/" class="popup-button">More information</a>
+      {{ end }}
+    </div>
+  </div>
+</div>
