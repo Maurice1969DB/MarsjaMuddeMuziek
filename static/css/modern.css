@@ -516,12 +516,27 @@ h3:first-child::first-letter {
    ============================================ */
 .home-posts .post {
   border-bottom: none;
-  padding: 0.75rem 1.25rem;
-  margin-bottom: 0.2rem;
+  padding: 0.5rem 1.25rem;
+  margin-bottom: 0;
   background: rgba(255, 255, 255, 0.5);
   border-left: 4px solid #b4250c;
   border-radius: 0 6px 6px 0;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+/* Subtle but visible links in news */
+.home-posts .post p a {
+  color: var(--color-accent) !important;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 2px;
+  font-weight: 600;
+  transition: all var(--transition-fast);
+}
+
+.home-posts .post p a:hover {
+  color: var(--color-accent-dark) !important;
+  text-decoration-thickness: 3px;
 }
 
 .home-posts .post:last-child {
@@ -530,6 +545,10 @@ h3:first-child::first-letter {
 
 .home-posts .post h3 {
   margin-top: 0 !important;
+}
+
+.home-posts .post p:last-child {
+  margin-bottom: 0 !important;
 }
 
 /* Child pages - clean styling without news card look */
@@ -638,9 +657,12 @@ a.event-card:hover {
   flex-direction: column !important;
   align-items: center !important;
   justify-content: center !important;
-  padding: 1.25rem 1.5rem !important;
+  padding: 1.25rem 1rem !important;
+  width: 6rem !important;
   min-width: 6rem !important;
+  max-width: 6rem !important;
   text-align: center !important;
+  flex-shrink: 0 !important;
 }
 
 .event-card--concert .event-card__date {
@@ -653,11 +675,86 @@ a.event-card:hover {
   color: #ffffff !important;
 }
 
+.event-card--online .event-card__date {
+  background: #6b5b95 !important;
+  color: #ffffff !important;
+}
+
 .event-card__day {
   font-size: 2rem !important;
   font-weight: 700 !important;
   line-height: 1 !important;
   color: #ffffff !important;
+}
+
+.event-card__day--range {
+  font-size: 1.5rem !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  line-height: 1.1 !important;
+}
+
+.event-card__day-separator {
+  font-size: 0.7rem !important;
+  opacity: 0.7;
+  line-height: 1 !important;
+}
+
+
+/* ============================================
+   Contact/Registration Forms
+   ============================================ */
+.contact-form {
+  max-width: 500px;
+  margin: 1.5rem 0;
+}
+
+.contact-form .form-group {
+  margin-bottom: 1rem;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 0.3rem;
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.contact-form input,
+.contact-form select,
+.contact-form textarea {
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius);
+  font-size: 1rem;
+  font-family: inherit;
+  transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.contact-form input:focus,
+.contact-form select:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(26, 95, 122, 0.15);
+}
+
+.contact-form .form-submit {
+  background-color: var(--color-accent);
+  color: #fff;
+  border: none;
+  padding: 0.7rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  transition: background-color var(--transition-fast);
+}
+
+.contact-form .form-submit:hover {
+  background-color: var(--color-accent-dark);
 }
 
 .event-card__month {
@@ -699,6 +796,10 @@ a.event-card:hover {
 
 .event-card--workshop .event-card__type {
   color: #b4250c !important;
+}
+
+.event-card--online .event-card__type {
+  color: #6b5b95 !important;
 }
 
 .event-card__title {
@@ -743,6 +844,10 @@ a.event-card:hover .event-card__arrow {
 
 .event-card--workshop:hover .event-card__arrow {
   color: #b4250c !important;
+}
+
+.event-card--online:hover .event-card__arrow {
+  color: #6b5b95 !important;
 }
 
 /* Legend */

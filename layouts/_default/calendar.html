@@ -9,14 +9,14 @@
     {{ if $sortedUpcomingEvents }}
     <div class="events-grid">
         {{ range $sortedUpcomingEvents }}
-        <a href="{{ .RelPermalink }}" class="event-card {{ if eq .Type "events" }}event-card--concert{{ else }}event-card--workshop{{ end }}">
+        <a href="{{ with .Params.linkTo }}{{ . }}{{ else }}{{ .RelPermalink }}{{ end }}" class="event-card {{ if .Params.online }}event-card--online{{ else if eq .Type "events" }}event-card--concert{{ else }}event-card--workshop{{ end }}">
             <div class="event-card__date">
-                <span class="event-card__day">{{ .Date.Format "02" }}</span>
+                <span class="event-card__day{{ with .Params.endDate }} event-card__day--range{{ end }}">{{ .Date.Format "02" }}{{ with .Params.endDate }}{{ $end := time . }}<span class="event-card__day-separator">+</span>{{ $end.Format "02" }}{{ end }}</span>
                 <span class="event-card__month">{{ if eq $.Lang "nl" }}{{ index (split "jan|feb|mrt|apr|mei|jun|jul|aug|sep|okt|nov|dec" "|") (sub (int (.Date.Format "1")) 1) }}{{ else }}{{ .Date.Format "Jan" }}{{ end }}</span>
                 <span class="event-card__year">{{ .Date.Format "2006" }}</span>
             </div>
             <div class="event-card__content">
-                <span class="event-card__type">{{ if eq .Type "events" }}{{ if eq $.Lang "nl" }}Concert{{ else }}Concert{{ end }}{{ else }}Workshop{{ end }}</span>
+                <span class="event-card__type">{{ if .Params.online }}{{ if eq $.Lang "nl" }}Online Workshop{{ else }}Online Workshop{{ end }}{{ else if eq .Type "events" }}{{ if eq $.Lang "nl" }}Concert{{ else }}Concert{{ end }}{{ else }}Workshop{{ end }}</span>
                 <h3 class="event-card__title">{{ .Title }}</h3>
                 {{ with .Description }}<p class="event-card__description">{{ . }}</p>{{ end }}
             </div>

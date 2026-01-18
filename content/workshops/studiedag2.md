@@ -1,6 +1,7 @@
 ---
 title: Studiedag Hildegard von Bingen
 date: 2025-09-21
+draft: true
 ---
 ### Maandelijkse Studiedag Hildegard von Bingen: 
 Samen met andere vrouwen zingen van composities van Hildegard von Bingen.

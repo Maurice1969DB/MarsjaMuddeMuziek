@@ -1,6 +1,7 @@
 ---
 title: Study-day Hildegard von Bingen
 date: 2025-09-21
+draft: true
 ---
 ### Monthly Study-day Hildegard von Bingen: 
 Singing compositions by Hildegard von Bingen, together with other women.

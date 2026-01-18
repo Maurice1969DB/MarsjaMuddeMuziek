@@ -55,7 +55,7 @@ weight = 2
         [[languages.nl.menu.main]]
         name = "Evenementen overzicht"
         identifier = "events"
-        weight = 70
+        weight = 15
         url = "/events"
 
         [[languages.nl.menu.main]]
@@ -137,7 +137,7 @@ weight = 2
         [[languages.en.menu.main]]
         name = "Events calendar"
         identifier = "events"
-        weight = 70
+        weight = 15
         url = "/en/events/"
 
         [[languages.en.menu.main]]
