@@ -14,7 +14,7 @@ Datum nader te bepalen, half februari 2026
 - Franciscus' Ode aan de Dieren: Liederen over Schepping en Dierenrijk uit Italiaanse Middeleeuwse en Renaissance Muziek Handschriften
 Datum nader te bepalen, ergens in oktober 2026
 - Een Middeleeuwse Kerst: Middeleeuwse Kerstliederen uit de Nederlanden
-Op verzoek nog te boeken voor december 2025, vanaf 2 personen. U kunt tot uiterlijk 12 december laten weten dat en wanneer u deze workshop wilt doen
+Op verzoek te boeken in de adventsperiode, vanaf 2 personen
 - workshop op maat voor uw koor of een andere context
 
 #### Workshops voor gevorderden en (pre)professionals:

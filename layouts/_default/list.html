@@ -10,7 +10,7 @@
       {{ .Content }}
     </div>
   {{ end }}
-  {{ range where .Pages "Type" "!=" "events"  }}
+  {{ range where (where .Pages "Type" "!=" "events") ".Params.linkTo" "==" nil }}
       <li>
         <div class="flex">
           <a href="{{ .RelPermalink }}" class="truncate">{{ .Title }}</a>

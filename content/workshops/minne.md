@@ -1,5 +1,6 @@
 ---
 title: Die Minne mint ende singt
+description: Middeleeuwse gezongen liefdespoëzie uit Nederland en Duitsland
 menu:
     main:
         parent: workshops

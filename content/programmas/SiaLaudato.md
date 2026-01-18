@@ -44,6 +44,4 @@ Kostenindicatie: neem contact op met [Marsja](mailto:info@marsjamudde.nl)
 Nevenactiviteiten (zoals workshop of lezing) in overleg.
 
 ### Speeldata
-29 juni 2025: Franciscaner kloosterkerk Megen, dubbelconcert met het Herz Ensemble, vanaf 15 uur. Kerk open om 14:30 uur.
-
-Overige speeldata worden nader aangekondigd.
+Speeldata worden nader aangekondigd. Neem contact op voor beschikbaarheid.

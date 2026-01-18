@@ -18,16 +18,16 @@ During these three days the students will be led through a – modal – process
 
 The repertoire chosen by the teachers will be the medium, not the goal of the course. Therefore the course will end with a small public demonstration instead of a concert.
 
-#### Date & times: 
-February 20-22, 2024; 10:30 am – 6:00 pm.
-#### Public demonstration: 
-February 22, 2024, at 16 h.
+#### Date & times:
+On request; 10:30 am – 6:00 pm.
+#### Public demonstration:
+Last day of the course, at 16 h.
 #### Eligibility: 
 (Semi-)Professional singers, vocal students, advanced amateurs and instrumentalists, who have at least two years of experience with music from before 1500. In specific cases the teachers can make an exception.
 #### Number of participants: 
 minimum 10, maximum 20, on a first come, first serve basis. By arrangement, there is limited space for auditors.
-#### Registration: 
-before January 20, 2024, info and/or registration through Marsja Mudde, info@marsjamudde.nl, stating name, contact information, musical background and experience and giving a short motivation with learning goals.
+#### Registration:
+Info and/or registration through Marsja Mudde, info@marsjamudde.nl, stating name, contact information, musical background and experience and giving a short motivation with learning goals.
 #### Location rehearsals and presentation: 
 Synagogue Tilburg, Willem II Straat 20.
 #### Course fee: 

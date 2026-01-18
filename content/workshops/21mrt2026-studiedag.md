@@ -1,5 +1,6 @@
 ---
 title: Studiedag Hildegard von Bingen
+description: Zingen en bestuderen van composities van Hildegard von Bingen
 date: 2026-03-21
 linkTo: /workshops/studiedag/
 ---

@@ -14,11 +14,11 @@ Liederen over Sint Franciscus en zijn precies 800 jaar oude Zonnelied uit Italia
 #### Doelgroep:
 Zingende liefhebbers van ieder niveau
 #### Datum:
-Zaterdag 20 september 2025 van 10 tot 17 uur. Locatie in de buurt van 's-Hertogenbosch wordt nader bekend gemaakt.
-#### Kosten: 
-160 Euro per persoon, inclusief lesmaterialen, jubileumlunch, koffie en thee
+Op aanvraag. Locatie in de buurt van 's-Hertogenbosch.
+#### Kosten:
+160 Euro per persoon, inclusief lesmaterialen, lunch, koffie en thee
 #### Inschrijven:
-Aanmelden voor 1 september 2025 via [Marsja](mailto:info@marsjamudde.nl) (Klik om mail te sturen)
+Aanmelden via [Marsja](mailto:info@marsjamudde.nl) (Klik om mail te sturen)
 #### Omschrijving:
 In 2025 is het precies 800 jaar geleden dat Sint Franciscus zijn beroemde Zonnelied voltooide, het lied dat wijlen paus Franciscus inspireerde tot zijn oproep om zorgvuldig met de schepping en met elkaar om te gaan. Vocaal ensemble Anime Beatitudinis Cantando stelde een concertprogramma samen met muziek rondom het Zonnelied en de levensgeschiedenis van haar bedenker. Het repertoire bestaat uit onder andere gregoriaans (de officiegezangen voor de feestdag van Sint Franciscus op 4 oktober) en Italiaanse laude. Ook meerstemmige muziek van Landini en Ciconia staan op het programma genaamd [Sia Laudato, San Francesco!](/programmas/sialaudato) (klik voor meer informatie).
 

@@ -14,7 +14,7 @@ Middeleeuwse Pelgrimsliederen uit voornamelijk Spaanse Muziek Handschriften
 #### Doelgroep:
 Gevorderde amateurs en (pre-)professionals
 #### Datum:
-Datum op aanvraag. Zomer 2025 
+Op aanvraag 
 #### Kosten: 
 307 Euro per persoon
 #### Omschrijving:

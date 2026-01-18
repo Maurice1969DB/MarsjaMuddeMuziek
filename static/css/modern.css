@@ -473,6 +473,11 @@ ul.posts > li {
   overflow: hidden;
 }
 
+/* Reduce gap between link title and h3 in workshop list */
+ul.posts > li > .flex + h3 {
+  margin-top: 0 !important;
+}
+
 /* Capital-m needs extra top space for the decorative letter */
 .posts > .capital-m:first-child,
 .posts .capital-m:first-child,

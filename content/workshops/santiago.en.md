@@ -14,7 +14,7 @@ Medieval Pilgrim Songs from mainly Spanish Music Manuscripts
 #### Target audience:
 Advanced amateurs and (pre-)professionals
 #### Date:
-Summer 2025, on request.
+On request.
 #### Cost:
 307 euros per person
 #### Description:

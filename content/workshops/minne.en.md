@@ -1,5 +1,6 @@
 ---
 title: Die Minne mint ende singt
+description: Medieval sung love poetry from the Netherlands and Germany
 menu:
     main:
         parent: workshops
