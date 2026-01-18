@@ -26,6 +26,58 @@
                 href="https://marsjamudde.nl/en/news/home/"
                 />
   </url><url>
+    <loc>https://marsjamudde.nl/en/workshops/19apr2026-studiedag/</loc>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/workshops/19apr2026-studiedag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/workshops/19apr2026-studiedag/"
+                />
+  </url><url>
+    <loc>https://marsjamudde.nl/en/</loc>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/"
+                />
+  </url><url>
+    <loc>https://marsjamudde.nl/en/workshops/</loc>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/workshops/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/workshops/"
+                />
+  </url><url>
+    <loc>https://marsjamudde.nl/en/workshops/21mrt2026-studiedag/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/workshops/21mrt2026-studiedag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/workshops/21mrt2026-studiedag/"
+                />
+  </url><url>
     <loc>https://marsjamudde.nl/en/events/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -52,17 +104,17 @@
                 href="https://marsjamudde.nl/en/events/18mrt2026-ica/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/en/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
+    <loc>https://marsjamudde.nl/en/workshops/22feb2026-studiedag/</loc>
+    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marsjamudde.nl/"
+                href="https://marsjamudde.nl/workshops/22feb2026-studiedag/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marsjamudde.nl/en/"
+                href="https://marsjamudde.nl/en/workshops/22feb2026-studiedag/"
                 />
   </url><url>
     <loc>https://marsjamudde.nl/en/events/18feb2026-ica/</loc>
@@ -91,19 +143,6 @@
                 href="https://marsjamudde.nl/en/workshops/minne/"
                 />
   </url><url>
-    <loc>https://marsjamudde.nl/en/workshops/</loc>
-    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://marsjamudde.nl/workshops/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://marsjamudde.nl/en/workshops/"
-                />
-  </url><url>
     <loc>https://marsjamudde.nl/en/events/31jan2026-ica/</loc>
     <lastmod>2026-01-31T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -115,6 +154,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://marsjamudde.nl/en/events/31jan2026-ica/"
+                />
+  </url><url>
+    <loc>https://marsjamudde.nl/en/workshops/24jan2026-studiedag/</loc>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/workshops/24jan2026-studiedag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/workshops/24jan2026-studiedag/"
                 />
   </url><url>
     <loc>https://marsjamudde.nl/en/workshops/hildegard-online/</loc>

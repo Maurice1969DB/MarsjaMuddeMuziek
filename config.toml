@@ -189,6 +189,9 @@ licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 builtWith = true
 mainSections = ["news"]
 
+# Google Search Console verification (voeg je code hier toe)
+# googleSiteVerification = "jouw-verificatie-code"
+
   
 
 ## Set custom theme color.

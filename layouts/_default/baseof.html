@@ -38,6 +38,11 @@
   <!-- Canonical URL -->
   <link rel="canonical" href="{{ .Permalink }}">
 
+  <!-- Google Search Console verification -->
+  {{ with .Site.Params.googleSiteVerification }}
+  <meta name="google-site-verification" content="{{ . }}">
+  {{ end }}
+
   <!-- Keywords -->
   <meta name="keywords" content="{{ if .Params.keywords }}{{ delimit .Params.keywords ", " }}{{ else }}{{ if eq .Lang "nl" }}oude muziek, zangles, workshops, Hildegard von Bingen, middeleeuwse muziek, gregoriaans, Marsja Mudde{{ else }}early music, singing lessons, workshops, Hildegard von Bingen, medieval music, gregorian chant, Marsja Mudde{{ end }}{{ end }}">
 

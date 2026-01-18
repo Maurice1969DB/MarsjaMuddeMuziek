@@ -17,8 +17,8 @@ Enthusiasts of any level, only women (sorry gentlemen)
 Minimum 2 (we work less hours), maximum 15, register until the Wednesday before, via [Marsja](mailto:info@marsjamudde.nl) 
 #### Planning:
 Every month we will work a Sunday afternoon from 13:30 to 16:30 h (or shorter with fewer participants), with a short break.
-#### Costs: 
-We share the costs with a minimum of 15 and a maximum of 50 Euro per person. You can pay via a digital link or you will receive a bill afterwards.
+#### Costs:
+The costs for participation depend on the number of participants. In a small group you learn more intensively than in a large group. The amounts vary from a minimum of 30 Euro (large group) to 67.50 Euro (2 or 3 people) per person. You will receive a digital payment request or an invoice afterwards.
 #### Description:
 Hildegard von Bingen (1098-1179) was an abbess with many qualities, one of which was composing. Her music is characterized by greater freedom and scope in the melodies than the Gregorian chant of her time. The lyrics of her songs also show an enormous wealth of images and layers of meaning. This combination makes her oevre so fascinating that a monthly study day is devoted to it.
 
