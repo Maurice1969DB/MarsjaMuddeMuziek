@@ -10,6 +10,24 @@ document.querySelector('.toggle').onclick = function () {
     content.classList.toggle('sidebar_small');
 };
 
+// Hide past dates in workshop forms
+(function() {
+    const checkboxGroup = document.getElementById('datum-checkboxes');
+    if (!checkboxGroup) return;
+
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    const checkboxes = checkboxGroup.querySelectorAll('.checkbox-label[data-date]');
+    checkboxes.forEach(function(label) {
+        const dateStr = label.getAttribute('data-date');
+        const eventDate = new Date(dateStr);
+        if (eventDate < today) {
+            label.style.display = 'none';
+        }
+    });
+})();
+
 // Workshop popup for new visitors
 (function() {
     const popup = document.getElementById('workshop-popup');

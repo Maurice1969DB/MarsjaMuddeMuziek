@@ -883,6 +883,27 @@ a.event-card:hover {
   box-shadow: 0 0 0 3px rgba(26, 95, 122, 0.15);
 }
 
+.contact-form .checkbox-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 0.3rem;
+}
+
+.contact-form .checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: normal;
+  cursor: pointer;
+}
+
+.contact-form .checkbox-label input[type="checkbox"] {
+  width: auto;
+  margin: 0;
+  cursor: pointer;
+}
+
 .contact-form .form-submit {
   background-color: var(--color-accent);
   color: #fff;
