@@ -33,7 +33,16 @@
     <title>{{ $pageTitle }} &middot; {{ .Site.Title }}</title>
   {{- end }}
 
-  <meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Description }}{{ end }}" />
+  <meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ with .Description }}{{ . }}{{ else }}{{ $.Site.Params.description }}{{ end }}{{ end }}" />
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ .Permalink }}">
+
+  <!-- Keywords -->
+  <meta name="keywords" content="{{ if .Params.keywords }}{{ delimit .Params.keywords ", " }}{{ else }}{{ if eq .Lang "nl" }}oude muziek, zangles, workshops, Hildegard von Bingen, middeleeuwse muziek, gregoriaans, Marsja Mudde{{ else }}early music, singing lessons, workshops, Hildegard von Bingen, medieval music, gregorian chant, Marsja Mudde{{ end }}{{ end }}">
+
+  <!-- Author -->
+  <meta name="author" content="Marsja Mudde">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
@@ -76,6 +85,9 @@
   {{ range .AlternativeOutputFormats -}}
     {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
   {{ end -}}
+
+  <!-- Structured Data -->
+  {{ partial "json-ld.html" . }}
 </head>
 <body>
   <a href="#main-content" class="skip-link">{{ if eq .Lang "nl" }}Ga naar inhoud{{ else }}Skip to content{{ end }}</a>

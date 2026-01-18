@@ -176,8 +176,9 @@ weight = 2
         event = "Event"
 
 [params]
-title = "Soho Theme"
-description = "Ervaren in laten ervaren"
+title = "Marsja Mudde Muziek"
+author = "Marsja Mudde"
+description = "Marsja Mudde - zangeres en docent gespecialiseerd in oude muziek, Hildegard von Bingen, middeleeuwse muziek en gregoriaans. Workshops, zangles en concerten."
 customCss = ["css/modern.css"]
 # gravatar = "soho@example.com"
 images = ["images/profile.png"]

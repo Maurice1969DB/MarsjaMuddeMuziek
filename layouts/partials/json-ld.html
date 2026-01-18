@@ -4,20 +4,26 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type":"Person",
+      "@type": ["Person", "MusicGroup"],
       "@id": {{ .Site.BaseURL | printf "%s#author" }},
-      "name": {{ .Site.Params.author }},
+      "name": "Marsja Mudde",
+      "alternateName": "Marsja Mudde Muziek",
       "image": {
-        "@type":"ImageObject",
-        {{ with .Site.Params.gravatar -}}
-        "url": {{ md5 . | printf `"https://www.gravatar.com/avatar/%s?s=400&d=mp"` | safeJS }}
-        {{- else }}
-        {{ with .Site.Params.profilePicture -}}
-        "url": {{ . | absURL | printf `"%s"` | safeJS }}
-        {{ end -}}
-        {{ end }}
+        "@type": "ImageObject",
+        "url": {{ "images/profile.png" | absURL | printf `"%s"` | safeJS }}
       },
-      "description": {{ .Site.Params.description }}
+      "description": {{ if eq .Lang "nl" }}"Ervaren in laten ervaren - Zangeres, docent en specialist in oude muziek, Hildegard von Bingen en middeleeuwse muziek"{{ else }}"Experienced in giving experience - Singer, teacher and specialist in early music, Hildegard von Bingen and medieval music"{{ end }},
+      "url": {{ .Site.BaseURL }},
+      "sameAs": [
+        "https://nl.linkedin.com/in/marsjamudde"
+      ],
+      "genre": ["Early Music", "Medieval Music", "Gregorian Chant"],
+      "knowsAbout": ["Hildegard von Bingen", "Medieval Music", "Gregorian Chant", "Voice Training"],
+      "jobTitle": {{ if eq .Lang "nl" }}"Zangeres en Muziekdocent"{{ else }}"Singer and Music Teacher"{{ end }},
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "NL"
+      }
     },
     {
       "@type": "WebSite",
