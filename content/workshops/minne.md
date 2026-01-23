@@ -27,6 +27,7 @@ In deze workshop werken we twee dagen lang aan het prachtige repertoire van de M
 
 <form class="contact-form" action="https://formspree.io/f/mgooarzj" method="POST">
   <input type="hidden" name="_subject" value="Inschrijving Die Minne mint ende singt">
+  <input type="hidden" name="_next" value="https://marsjamudde.nl/bedankt/">
   <div class="form-group">
     <label for="naam">Naam *</label>
     <input type="text" id="naam" name="naam" required>

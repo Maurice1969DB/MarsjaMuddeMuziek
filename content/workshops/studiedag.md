@@ -30,6 +30,7 @@ Op dit moment is studie het doel. In een later stadium zou uitvoering ook een do
 
 <form class="contact-form" action="https://formspree.io/f/mgooarzj" method="POST">
   <input type="hidden" name="_subject" value="Aanmelding Studiedag Hildegard von Bingen">
+  <input type="hidden" name="_next" value="https://marsjamudde.nl/bedankt/">
   <div class="form-group">
     <label>Datum (meerdere mogelijk) *</label>
     <div class="checkbox-group" id="datum-checkboxes">

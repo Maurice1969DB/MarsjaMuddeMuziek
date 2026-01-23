@@ -339,6 +339,18 @@
                 href="https://marsjamudde.nl/ensembles/anime/"
                 />
   </url><url>
+    <loc>https://marsjamudde.nl/bedankt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/bedankt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/bedankt/"
+                />
+  </url><url>
     <loc>https://marsjamudde.nl/products/zichtop/</loc>
     <xhtml:link
                 rel="alternate"

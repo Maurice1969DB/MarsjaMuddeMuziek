@@ -30,6 +30,7 @@ Right now, the goal is study. At a later stage, performing could also become a g
 
 <form class="contact-form" action="https://formspree.io/f/mgooarzj" method="POST">
   <input type="hidden" name="_subject" value="Registration Hildegard von Bingen Study Day">
+  <input type="hidden" name="_next" value="https://marsjamudde.nl/en/bedankt/">
   <div class="form-group">
     <label>Date (multiple possible) *</label>
     <div class="checkbox-group" id="datum-checkboxes">

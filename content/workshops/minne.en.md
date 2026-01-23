@@ -26,6 +26,7 @@ In this workshop we work for two days on the beautiful repertoire of the Minnesa
 
 <form class="contact-form" action="https://formspree.io/f/mgooarzj" method="POST">
   <input type="hidden" name="_subject" value="Registration Die Minne mint ende singt">
+  <input type="hidden" name="_next" value="https://marsjamudde.nl/en/bedankt/">
   <div class="form-group">
     <label for="naam">Name *</label>
     <input type="text" id="naam" name="naam" required>
