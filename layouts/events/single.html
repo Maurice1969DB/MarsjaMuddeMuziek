@@ -29,7 +29,16 @@
   },
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
   {{- else }}
-  "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+  "location": {
+    "@type": "Place",
+    "name": "Locatie wordt nog bekendgemaakt",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "'s-Hertogenbosch",
+      "addressCountry": "NL"
+    }
+  },
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
   {{- end }}
   "organizer": {
     "@type": "Person",
