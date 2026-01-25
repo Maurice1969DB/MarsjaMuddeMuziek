@@ -82,6 +82,43 @@ document.querySelector('.toggle').onclick = function () {
     }
 })();
 
+// Handle form submissions with redirect to thank you page
+(function() {
+    const forms = document.querySelectorAll('form.contact-form');
+    forms.forEach(function(form) {
+        form.addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const submitBtn = form.querySelector('button[type="submit"]');
+            const originalText = submitBtn.textContent;
+            submitBtn.disabled = true;
+            submitBtn.textContent = 'Verzenden...';
+
+            fetch(form.action, {
+                method: 'POST',
+                body: new FormData(form),
+                headers: {
+                    'Accept': 'application/json'
+                }
+            })
+            .then(function(response) {
+                if (response.ok) {
+                    // Redirect to thank you page based on language
+                    const isEnglish = window.location.pathname.startsWith('/en/');
+                    window.location.href = isEnglish ? '/en/bedankt/' : '/bedankt/';
+                } else {
+                    throw new Error('Form submission failed');
+                }
+            })
+            .catch(function(error) {
+                submitBtn.disabled = false;
+                submitBtn.textContent = originalText;
+                alert('Er ging iets mis bij het verzenden. Probeer het opnieuw of neem contact op via email.');
+            });
+        });
+    });
+})();
+
 // Shrink header on scroll (mobile only)
 // Only enable on pages with enough scrollable content
 if (window.innerWidth <= 960) {
