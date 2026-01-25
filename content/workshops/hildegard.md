@@ -1,5 +1,6 @@
 ---
 title: Hildegard von Bingen
+description: "Workshop Hildegard von Bingen muziek - verdieping in de middeleeuwse liederen en composities vanuit originele handschriften."
 menu:
     main:
         parent: workshops

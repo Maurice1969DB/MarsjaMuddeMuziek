@@ -1,5 +1,6 @@
 ---
 title: Study-day Hildegard von Bingen
+description: "Monthly Hildegard von Bingen music study day - singing and studying medieval compositions together near Den Bosch, Netherlands."
 menu:
     main:
         parent: workshops

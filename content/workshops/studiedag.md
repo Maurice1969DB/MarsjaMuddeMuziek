@@ -1,5 +1,6 @@
 ---
 title: Studiedag Hildegard von Bingen
+description: "Maandelijkse studiedag Hildegard von Bingen muziek - samen zingen en bestuderen van middeleeuwse composities in Den Bosch."
 menu:
     main:
         parent: workshops

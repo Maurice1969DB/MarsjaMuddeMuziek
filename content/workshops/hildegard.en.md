@@ -1,5 +1,6 @@
 ---
 title: Hildegard von Bingen
+description: "Hildegard von Bingen music workshop - in-depth study of medieval songs and compositions from original manuscripts."
 menu:
      main:
          parent: workshops
