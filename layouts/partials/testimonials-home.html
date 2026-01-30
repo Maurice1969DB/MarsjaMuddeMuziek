@@ -1,0 +1,20 @@
+<section class="testimonials-home">
+  <h2>{{ if eq .Lang "nl" }}Wat deelnemers zeggen{{ else }}What participants say{{ end }}</h2>
+  <div class="testimonials-grid">
+    <blockquote>
+      <p>"Her whole being exudes this music! I feel not only like I am becoming a better musician, but also a better person when studying with her."</p>
+      <cite>— Angela Rocchio</cite>
+    </blockquote>
+    <blockquote>
+      <p>"A talk that was equal parts mystical and practical, which was a lovely surprise."</p>
+      <cite>— Eileen C., cathedral cantor</cite>
+    </blockquote>
+    <blockquote>
+      <p>"Your love for this music is sensible and contagious."</p>
+      <cite>— Centrum Cantus Modalis {{ if eq .Lang "nl" }}cursist{{ else }}student{{ end }}</cite>
+    </blockquote>
+  </div>
+  <a href="{{ if eq .Lang "nl" }}/referenties/{{ else }}/en/referenties/{{ end }}" class="testimonials-link">
+    {{ if eq .Lang "nl" }}Bekijk alle referenties →{{ else }}View all testimonials →{{ end }}
+  </a>
+</section>

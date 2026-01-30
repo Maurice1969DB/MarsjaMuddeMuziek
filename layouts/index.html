@@ -4,24 +4,27 @@
     {{- $pages := where .Site.RegularPages "Type" "in" .Site.Params.MainSections -}}
     {{- $paginator := .Paginate $pages -}}
 
-    {{ range $paginator.Pages }}
+    {{ range $index, $page := $paginator.Pages }}
       <article class="post">
-        {{ with .Title }}
+        {{ with $page.Title }}
         <h1 class="post-title">
-          <a href="{{ $.Permalink }}">{{ . | humanize}}</a>
+          <a href="{{ $page.Permalink }}">{{ . | humanize}}</a>
         </h1>
         {{ end }}
-          {{ if eq (substr .RawContent 5 1) "M" }}
+          {{ if eq (substr $page.RawContent 5 1) "M" }}
             <div class="capital-m">
-                {{ .Content }}
+                {{ $page.Content }}
             </div>
           {{ else }}
               <div>
-                  {{ .Content }}
+                  {{ $page.Content }}
               </div>
           {{ end }}
 
       </article>
+      {{- if eq $index 0 }}
+      {{ partial "testimonials-home.html" $ }}
+      {{- end }}
     {{- end }}
   </div>
 

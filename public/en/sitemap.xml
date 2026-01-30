@@ -660,6 +660,18 @@
                 href="https://marsjamudde.nl/en/zangles/"
                 />
   </url><url>
+    <loc>https://marsjamudde.nl/en/referenties/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/referenties/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/referenties/"
+                />
+  </url><url>
     <loc>https://marsjamudde.nl/en/bedankt/</loc>
     <xhtml:link
                 rel="alternate"

@@ -615,6 +615,18 @@
                 href="https://marsjamudde.nl/products/gremode/"
                 />
   </url><url>
+    <loc>https://marsjamudde.nl/referenties/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marsjamudde.nl/en/referenties/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://marsjamudde.nl/referenties/"
+                />
+  </url><url>
     <loc>https://marsjamudde.nl/series/</loc>
     <xhtml:link
                 rel="alternate"

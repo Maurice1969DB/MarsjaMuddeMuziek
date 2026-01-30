@@ -77,6 +77,12 @@ weight = 2
         url = "/products"
 
         [[languages.nl.menu.main]]
+        name = "Referenties"
+        identifier = "referenties"
+        weight = 105
+        url = "/referenties"
+
+        [[languages.nl.menu.main]]
         name = "Contact"
         identifier = "contact"
         weight = 120
@@ -157,6 +163,12 @@ weight = 2
         identifier = "products"
         weight = 100
         url = "/en/products/"
+
+        [[languages.en.menu.main]]
+        name = "Testimonials"
+        identifier = "referenties"
+        weight = 105
+        url = "/en/referenties"
 
         [[languages.en.menu.main]]
         name = "Contact"
