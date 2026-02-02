@@ -2,13 +2,61 @@
 const sidebar = document.querySelector('.sidebar');
 const content = document.querySelector('.content');
 
-sidebar.classList.add('sidebar_small');
+// Check if we should keep menu open (submenu is expanded - indicated by .indent items)
+const hasExpandedSubmenu = document.querySelector('.sidebar-nav .indent') !== null;
+
+if (hasExpandedSubmenu && window.innerWidth <= 960) {
+    // Keep menu open when submenu is visible on mobile
+} else {
+    sidebar.classList.add('sidebar_small');
     content.classList.add('sidebar_small');
+}
 
 document.querySelector('.toggle').onclick = function () {
     sidebar.classList.toggle('sidebar_small');
     content.classList.toggle('sidebar_small');
 };
+
+// Close menu when clicking outside sidebar (on content) on mobile
+if (window.innerWidth <= 960) {
+    content.addEventListener('click', function() {
+        if (!sidebar.classList.contains('sidebar_small')) {
+            sidebar.classList.add('sidebar_small');
+            content.classList.add('sidebar_small');
+        }
+    });
+}
+
+// Close menu when clicking on menu items without children (leaf items)
+document.querySelectorAll('.sidebar-nav .indent a').forEach(function(link) {
+    link.addEventListener('click', function() {
+        sessionStorage.setItem('closeMenu', 'true');
+    });
+});
+
+// Close menu when clicking on active root item (that has expanded submenu)
+document.querySelectorAll('.sidebar-nav > li > a.active').forEach(function(link) {
+    if (document.querySelector('.sidebar-nav .indent')) {
+        link.addEventListener('click', function(e) {
+            // If clicking on the same page, just close the menu
+            if (window.location.pathname === link.getAttribute('href') ||
+                window.location.pathname === link.getAttribute('href') + '/') {
+                e.preventDefault();
+                sidebar.classList.add('sidebar_small');
+                content.classList.add('sidebar_small');
+            } else {
+                sessionStorage.setItem('closeMenu', 'true');
+            }
+        });
+    }
+});
+
+// Check if we should close menu after navigation
+if (sessionStorage.getItem('closeMenu') === 'true') {
+    sessionStorage.removeItem('closeMenu');
+    sidebar.classList.add('sidebar_small');
+    content.classList.add('sidebar_small');
+}
 
 // Hide past dates in workshop forms
 (function() {

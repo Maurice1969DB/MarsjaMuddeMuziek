@@ -120,8 +120,30 @@ h1 {
 
 @media( max-width: 60em ) {
 
+    /* Make sidebar full height and nav scrollable */
+    .sidebar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100vh;
+        width: 15rem;
+    }
+
+    .sidebar .sidebar-nav {
+        max-height: calc(100vh - 5rem);
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 3rem;
+    }
+
+    .sidebar .container {
+        height: calc(100vh - 3rem);
+        overflow-y: auto;
+    }
+
     .sidebar.sidebar_small {
         width: 2em;
+        height: auto;
     }
     .sidebar_small .sidebar-nav
     {
