@@ -7,7 +7,7 @@ menu:
 ---
 ### Sia laudato, San Francesco
 
-<img src="../../../images/SiaMiniatuur.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
+<img src="/programmas/images/SiaMiniatuur.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 Imagine this: a medieval troubadour, a street preacher, and a circle of devoted brothers and sisters around him — all with songs on their lips. What did the world of Francis of Assisi sound like?
 
@@ -18,7 +18,7 @@ The year 2025 has been declared a Jubilee Year by the late Pope Francis, with a 
 
 In his Canticle, Francis addresses various elements of Creation as brothers and sisters. He invokes the sun, moon, and stars, followed by the four classical elements as they were understood in medieval times: air, water, fire, and earth. To these, Francis adds love and peace. Toward the end of his life, he even found room to include sickness, physical death, and eternal life in his poetic vision of Creation. Was he ultimately able to value even these in their service to the Most High?
 
-<img src="../../../images/SiaMiniatuur.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
+<img src="/programmas/images/SiaMiniatuur.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 ### A Tapestry of Interwoven Musical Styles
 The image beside this text shows the Canticle in a 13th-century manuscript. From the layout, it's clear that musical notation is missing — suggesting the Canticle was already both prayed and sung. Music held an important role in Franciscan spirituality. Thomas of Celano describes Francis singing of God the way a troubadour might sing of courtly love. He was known to burst into spontaneous song, and the Franciscan brothers often used music and chant in their devotions and street preaching.
@@ -28,7 +28,7 @@ Many of these devotional songs borrowed melodies from popular music of the time.
 ### An Ode to Francis and His Canticle of the Sun
 From this broad, interconnected repertoire, the singers of Anime Beatitudinis Cantando selected songs about Francis and themes closely related to his life and legacy, to the Franciscans, and to the Canticle of the Sun. They also perform a melody — set to the Umbrian text of the Canticle — in a musical style reminiscent of Francis's own era.
 
-<img src="../../../images/Animatiestills.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
+<img src="/programmas/images/Animatiestills.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 ### Collaboration with Animator Cristina Garcia Martin
 For this project, ensemble ABC teams up for the first time with animator Cristina Garcia Martin. Inspired by Giotto's frescoes in the Basilica of Saint Francis in Assisi, she creates stunning modern animations that accompany the Canticle and key moments from the life of Francis, forming the visual narrative thread of the concert.

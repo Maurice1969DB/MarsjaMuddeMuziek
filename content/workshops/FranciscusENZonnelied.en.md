@@ -9,7 +9,7 @@ date: 2025-09-20
 ### Francis and his Cantico del Sole: 
 Songs about Saint Francis and his exacly 800 year old Cantico del Sole from Italian manuscripts from the medieval and renaissance periods
 
-<img src="../../../images/Altissimu.jpg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
+<img src="/workshops/images/Altissimu.jpg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Target audience:
 Singing amateurs of every level

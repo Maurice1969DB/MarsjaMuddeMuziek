@@ -11,7 +11,7 @@ endDate: 2026-02-14
 ### Die Minne mint ende singt:
 Medieval Sung Love Poetry from the Netherlands and Germany
 
-<img src="../../../images/ManesseCodex.jpg" style="width: 9rem; float: right; margin:1rem" loading="lazy">
+<img src="/workshops/images/ManesseCodex.jpg" style="width: 9rem; float: right; margin:1rem" loading="lazy">
 
 #### Target audience:
 Enthusiasts of every level; individuals and duos

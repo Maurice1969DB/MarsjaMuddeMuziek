@@ -8,7 +8,7 @@ menu:
 ### Tailor-made workshops
 Marsja Mudde Muziek provides customized workshops for all kinds of occasions and target groups.
 
-<img src="../../../images/JaNuns.jpg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
+<img src="/workshops/images/JaNuns.jpg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Possibilities
 On request, changes can be made to an existing workshop, such as the location, schedule or duration of the workshop, the number of participants, the precise content or learning objectives, or the target group. But it can also happen that you want to develop a new workshop especially for you or your choir, ensemble, school or work.

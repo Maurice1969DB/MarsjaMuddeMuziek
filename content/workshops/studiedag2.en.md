@@ -6,7 +6,7 @@ draft: true
 ### Monthly Study-day Hildegard von Bingen: 
 Singing compositions by Hildegard von Bingen, together with other women.
 
-<img src="../../../images/KerkjeEngelen.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
+<img src="/workshops/images/KerkjeEngelen.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 #### Target audience:
 Enthusiasts of any level, only women (sorry gentlemen)
