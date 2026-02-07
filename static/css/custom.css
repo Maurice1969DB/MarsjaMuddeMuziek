@@ -1,22 +1,15 @@
 @font-face {
     font-family: 'cardinal';
-    src: url('../fonts/cardinal-webfont.eot');
-    src: url('../fonts/cardinal-webfont.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/cardinal-webfont.woff') format('woff'),
-    url('../fonts/cardinal-webfont.ttf') format('truetype'),
-    url('../fonts/cardinal-webfont.svg#cardinalregular') format('svg');
+    src: url('../fonts/cardinal-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'jost';
     src: url("../fonts/Jost-VariableFont_wght.ttf") format('truetype');
-}
-
-@font-face {
-    font-family: 'arimo';
-    src: url("../fonts/Arimo-VariableFont_wght.ttf") format('truetype');
+    font-display: swap;
 }
 
 html {
@@ -55,7 +48,6 @@ h1 {
 
 .sidebar a
 {
-    font-size: 0.8em;
     color: white;
 }
 
@@ -106,6 +98,12 @@ h1 {
 .sidebar nav li
 {
     font-size: 19px;
+}
+
+.sidebar nav li a
+{
+    display: block;
+    padding: 0.4rem 0.5rem;
 }
 
 .sidebar a

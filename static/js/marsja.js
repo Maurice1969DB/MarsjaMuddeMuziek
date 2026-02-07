@@ -12,9 +12,11 @@ if (hasExpandedSubmenu && window.innerWidth <= 960) {
     content.classList.add('sidebar_small');
 }
 
-document.querySelector('.toggle').onclick = function () {
+const toggleBtn = document.querySelector('.toggle');
+toggleBtn.onclick = function () {
     sidebar.classList.toggle('sidebar_small');
     content.classList.toggle('sidebar_small');
+    toggleBtn.setAttribute('aria-expanded', !sidebar.classList.contains('sidebar_small'));
 };
 
 // Close menu when clicking outside sidebar (on content) on mobile

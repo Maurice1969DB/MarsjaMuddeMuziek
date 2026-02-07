@@ -291,7 +291,7 @@ blockquote p {
 
 .sidebar-nav .indent a,
 .sidebar-nav li.indent a {
-  font-size: 0.8em !important;
+  font-size: 0.9em;
   opacity: 0.85;
 }
 

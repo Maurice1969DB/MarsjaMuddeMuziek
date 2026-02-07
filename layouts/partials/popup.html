@@ -1,5 +1,5 @@
 <!-- Workshop Popup for new visitors -->
-<div id="workshop-popup" class="popup-overlay" style="display: none;">
+<div id="workshop-popup" class="popup-overlay" style="display: none;" role="dialog" aria-modal="true" aria-labelledby="popup-title">
   <div class="popup-content">
     <button class="popup-close" aria-label="{{ if eq .Lang "nl" }}Sluiten{{ else }}Close{{ end }}">&times;</button>
     <div class="popup-image">
@@ -7,7 +7,7 @@
     </div>
     <div class="popup-text">
       <span class="popup-label">Workshop</span>
-      <h3>Die Minne mint ende singt</h3>
+      <h3 id="popup-title">Die Minne mint ende singt</h3>
       {{ if eq .Lang "nl" }}
       <p>Tweedaagse workshop middeleeuwse gezongen liefdespoëzie uit Nederland en Duitsland.</p>
       <p class="popup-date"><strong>13 + 14 februari 2026</strong></p>
