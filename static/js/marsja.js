@@ -130,38 +130,131 @@ if (sessionStorage.getItem('closeMenu') === 'true') {
     }
 })();
 
-// Handle form submissions with redirect to thank you page
+// Handle form validation and submissions
 (function() {
-    const forms = document.querySelectorAll('form.contact-form');
+    var isEnglish = window.location.pathname.startsWith('/en/');
+
+    var messages = {
+        required: isEnglish ? 'This field is required.' : 'Dit veld is verplicht.',
+        email: isEnglish ? 'Please enter a valid email address.' : 'Vul een geldig e-mailadres in.',
+        datum: isEnglish ? 'Please select at least one date.' : 'Selecteer minstens één datum.',
+        sending: isEnglish ? 'Sending...' : 'Verzenden...',
+        submitError: isEnglish
+            ? 'Something went wrong. Please try again or contact us by email.'
+            : 'Er ging iets mis bij het verzenden. Probeer het opnieuw of neem contact op via email.'
+    };
+
+    function showError(field, errorEl, message) {
+        field.classList.add('invalid');
+        field.setAttribute('aria-invalid', 'true');
+        if (errorEl) {
+            errorEl.textContent = message;
+            errorEl.classList.add('visible');
+        }
+    }
+
+    function clearError(field, errorEl) {
+        field.classList.remove('invalid');
+        field.removeAttribute('aria-invalid');
+        if (errorEl) {
+            errorEl.textContent = '';
+            errorEl.classList.remove('visible');
+        }
+    }
+
+    function validateForm(form) {
+        var valid = true;
+
+        // Validate required text/email inputs
+        form.querySelectorAll('input[required], textarea[required]').forEach(function(input) {
+            var errorEl = input.getAttribute('aria-describedby')
+                ? document.getElementById(input.getAttribute('aria-describedby'))
+                : null;
+
+            if (!input.value.trim()) {
+                showError(input, errorEl, messages.required);
+                valid = false;
+            } else if (input.type === 'email' && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(input.value)) {
+                showError(input, errorEl, messages.email);
+                valid = false;
+            } else {
+                clearError(input, errorEl);
+            }
+        });
+
+        // Validate checkbox group (at least one checked)
+        var checkboxGroup = form.querySelector('.checkbox-group');
+        if (checkboxGroup) {
+            var errorEl = checkboxGroup.getAttribute('aria-describedby')
+                ? document.getElementById(checkboxGroup.getAttribute('aria-describedby'))
+                : null;
+            var checked = checkboxGroup.querySelectorAll('input[type="checkbox"]:checked');
+            // Only count visible checkboxes (past dates are hidden)
+            var visibleCheckboxes = checkboxGroup.querySelectorAll('.checkbox-label:not([style*="display: none"]) input[type="checkbox"]');
+            if (visibleCheckboxes.length > 0 && checked.length === 0) {
+                showError(checkboxGroup, errorEl, messages.datum);
+                valid = false;
+            } else {
+                clearError(checkboxGroup, errorEl);
+            }
+        }
+
+        return valid;
+    }
+
+    // Clear errors on input
+    document.querySelectorAll('.contact-form input, .contact-form textarea').forEach(function(input) {
+        input.addEventListener('input', function() {
+            var errorEl = input.getAttribute('aria-describedby')
+                ? document.getElementById(input.getAttribute('aria-describedby'))
+                : null;
+            clearError(input, errorEl);
+        });
+    });
+
+    // Clear checkbox group error on change
+    document.querySelectorAll('.contact-form .checkbox-group input[type="checkbox"]').forEach(function(cb) {
+        cb.addEventListener('change', function() {
+            var group = cb.closest('.checkbox-group');
+            if (group) {
+                var errorEl = group.getAttribute('aria-describedby')
+                    ? document.getElementById(group.getAttribute('aria-describedby'))
+                    : null;
+                clearError(group, errorEl);
+            }
+        });
+    });
+
+    // Handle form submissions
+    var forms = document.querySelectorAll('form.contact-form');
     forms.forEach(function(form) {
+        form.setAttribute('novalidate', '');
         form.addEventListener('submit', function(e) {
             e.preventDefault();
 
-            const submitBtn = form.querySelector('button[type="submit"]');
-            const originalText = submitBtn.textContent;
+            if (!validateForm(form)) return;
+
+            var submitBtn = form.querySelector('button[type="submit"]');
+            var originalText = submitBtn.textContent;
             submitBtn.disabled = true;
-            submitBtn.textContent = 'Verzenden...';
+            submitBtn.textContent = messages.sending;
 
             fetch(form.action, {
                 method: 'POST',
                 body: new FormData(form),
-                headers: {
-                    'Accept': 'application/json'
-                }
+                headers: { 'Accept': 'application/json' }
             })
             .then(function(response) {
                 if (response.ok) {
-                    // Redirect to thank you page based on language
-                    const isEnglish = window.location.pathname.startsWith('/en/');
                     window.location.href = isEnglish ? '/en/bedankt/' : '/bedankt/';
                 } else {
                     throw new Error('Form submission failed');
                 }
             })
-            .catch(function(error) {
+            .catch(function() {
                 submitBtn.disabled = false;
                 submitBtn.textContent = originalText;
-                alert('Er ging iets mis bij het verzenden. Probeer het opnieuw of neem contact op via email.');
+                alert(messages.submitError);
             });
         });
     });

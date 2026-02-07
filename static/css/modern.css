@@ -25,7 +25,7 @@
   --color-bg-card: #ffffff;
 
   --color-text: #2d3436;
-  --color-text-light: #636e72;
+  --color-text-light: #596266;
 
   --color-border: #e5e7eb;
 
@@ -923,6 +923,29 @@ a.event-card:hover {
 
 .contact-form .form-submit:hover {
   background-color: var(--color-accent-dark);
+}
+
+.contact-form .error-message {
+  display: none;
+  color: #c0392b;
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+.contact-form .error-message.visible {
+  display: block;
+}
+
+.contact-form input.invalid,
+.contact-form textarea.invalid,
+.contact-form .checkbox-group.invalid {
+  border-color: #c0392b;
+  box-shadow: 0 0 0 2px rgba(192, 57, 43, 0.15);
+}
+
+.contact-form .form-submit:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
 }
 
 .event-card__month {

@@ -33,21 +33,24 @@ Right now, the goal is study. At a later stage, performing could also become a g
   <input type="hidden" name="_subject" value="Registration Hildegard von Bingen Study Day">
   <input type="hidden" name="_next" value="https://marsjamudde.nl/en/bedankt/">
   <div class="form-group">
-    <label>Date (multiple possible) *</label>
-    <div class="checkbox-group" id="datum-checkboxes">
+    <label id="datum-label">Date (multiple possible) *</label>
+    <div class="checkbox-group" id="datum-checkboxes" role="group" aria-labelledby="datum-label" aria-describedby="datum-error">
       <label class="checkbox-label" data-date="2026-01-24"><input type="checkbox" name="datum[]" value="January 24, 2026"> January 24, 2026</label>
       <label class="checkbox-label" data-date="2026-02-22"><input type="checkbox" name="datum[]" value="February 22, 2026"> February 22, 2026</label>
       <label class="checkbox-label" data-date="2026-03-21"><input type="checkbox" name="datum[]" value="March 21, 2026"> March 21, 2026</label>
       <label class="checkbox-label" data-date="2026-04-19"><input type="checkbox" name="datum[]" value="April 19, 2026"> April 19, 2026</label>
     </div>
+    <span class="error-message" id="datum-error" role="alert"></span>
   </div>
   <div class="form-group">
     <label for="naam">Name *</label>
-    <input type="text" id="naam" name="naam" required>
+    <input type="text" id="naam" name="naam" required aria-required="true" aria-describedby="naam-error">
+    <span class="error-message" id="naam-error" role="alert"></span>
   </div>
   <div class="form-group">
     <label for="email">Email address *</label>
-    <input type="email" id="email" name="email" required>
+    <input type="email" id="email" name="email" required aria-required="true" aria-describedby="email-error">
+    <span class="error-message" id="email-error" role="alert"></span>
   </div>
   <div class="form-group">
     <label for="telefoon">Phone number</label>

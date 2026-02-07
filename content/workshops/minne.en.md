@@ -29,11 +29,13 @@ In this workshop we work for two days on the beautiful repertoire of the Minnesa
   <input type="hidden" name="_next" value="https://marsjamudde.nl/en/bedankt/">
   <div class="form-group">
     <label for="naam">Name *</label>
-    <input type="text" id="naam" name="naam" required>
+    <input type="text" id="naam" name="naam" required aria-required="true" aria-describedby="naam-error">
+    <span class="error-message" id="naam-error" role="alert"></span>
   </div>
   <div class="form-group">
     <label for="email">Email address *</label>
-    <input type="email" id="email" name="email" required>
+    <input type="email" id="email" name="email" required aria-required="true" aria-describedby="email-error">
+    <span class="error-message" id="email-error" role="alert"></span>
   </div>
   <div class="form-group">
     <label for="telefoon">Phone number</label>

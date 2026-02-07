@@ -30,11 +30,13 @@ In deze workshop werken we twee dagen lang aan het prachtige repertoire van de M
   <input type="hidden" name="_next" value="https://marsjamudde.nl/bedankt/">
   <div class="form-group">
     <label for="naam">Naam *</label>
-    <input type="text" id="naam" name="naam" required>
+    <input type="text" id="naam" name="naam" required aria-required="true" aria-describedby="naam-error">
+    <span class="error-message" id="naam-error" role="alert"></span>
   </div>
   <div class="form-group">
     <label for="email">E-mailadres *</label>
-    <input type="email" id="email" name="email" required>
+    <input type="email" id="email" name="email" required aria-required="true" aria-describedby="email-error">
+    <span class="error-message" id="email-error" role="alert"></span>
   </div>
   <div class="form-group">
     <label for="telefoon">Telefoonnummer</label>
