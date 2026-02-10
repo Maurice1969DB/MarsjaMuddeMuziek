@@ -78,60 +78,6 @@ if (sessionStorage.getItem('closeMenu') === 'true') {
     });
 })();
 
-// Workshop popup for new visitors
-(function() {
-    const popup = document.getElementById('workshop-popup');
-    if (!popup) return;
-
-    const POPUP_KEY = 'minne-popup-shown';
-    const POPUP_DELAY = 3000; // Show after 3 seconds
-
-    // Check if popup was already shown
-    if (localStorage.getItem(POPUP_KEY)) {
-        popup.remove();
-        return;
-    }
-
-    // Show popup after delay
-    setTimeout(function() {
-        popup.style.display = 'flex';
-    }, POPUP_DELAY);
-
-    // Close popup function
-    function closePopup() {
-        popup.style.display = 'none';
-        localStorage.setItem(POPUP_KEY, 'true');
-    }
-
-    // Close on X button
-    const closeBtn = popup.querySelector('.popup-close');
-    if (closeBtn) {
-        closeBtn.addEventListener('click', closePopup);
-    }
-
-    // Close on overlay click (outside popup content)
-    popup.addEventListener('click', function(e) {
-        if (e.target === popup) {
-            closePopup();
-        }
-    });
-
-    // Close on Escape key
-    document.addEventListener('keydown', function(e) {
-        if (e.key === 'Escape' && popup.style.display === 'flex') {
-            closePopup();
-        }
-    });
-
-    // Also close when clicking the button (after navigation)
-    const button = popup.querySelector('.popup-button');
-    if (button) {
-        button.addEventListener('click', function() {
-            localStorage.setItem(POPUP_KEY, 'true');
-        });
-    }
-})();
-
 // Handle form validation and submissions
 (function() {
     var isEnglish = window.location.pathname.startsWith('/en/');

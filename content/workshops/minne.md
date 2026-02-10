@@ -5,10 +5,9 @@ menu:
     main:
         parent: workshops
         weight: 20
-date: 2026-02-13
-endDate: 2026-02-14
+date: 2025-01-01
 ---
-### Die Minne mint ende singt: 
+### Die Minne mint ende singt:
 
 Middeleeuwse Gezongen Liefdespoëzie uit Nederland en Duitsland
 
@@ -16,43 +15,11 @@ Middeleeuwse Gezongen Liefdespoëzie uit Nederland en Duitsland
 
 #### Doelgroep:
 Liefhebbers van ieder niveau; individuen en duo's
-#### Datum:
-13 en 14 februari 2026
-#### Kosten: 
-217 Euro per persoon
+#### Duur:
+Twee dagen
+#### Kosten:
+Op aanvraag
 #### Omschrijving:
 In deze workshop werken we twee dagen lang aan het prachtige repertoire van de Minnesang, een muziekgenre in middeleeuws Duitsland en Nederland, afgeleid van de muziek van de Franse Troubadours en Trouvères. De zogenoemde Hoofse Liefde viert in deze periode hoogtij en inspireert velen tot bloemrijke poëzie, die in deze periode nog onlosmakelijk verbonden is aan de muziek. De deelnemers gaan in tweetallen aan de slag met telkens twee liederen. Daarnaast wordt met de groep als geheel ook aan enkele stukken gewerkt. Bespelers van middeleeuwse instrumenten (b.v. blokfluit, vedel, portatief) die zichzelf of andere deelnemers kunnen en willen begeleiden zijn ook van harte welkom, maar de aandacht gaat vooral uit naar het uitdrukken van de tekst.
 
-#### Inschrijven:
-
-<form class="contact-form" action="https://formspree.io/f/mgooarzj" method="POST">
-  <input type="hidden" name="_subject" value="Inschrijving Die Minne mint ende singt">
-  <input type="hidden" name="_next" value="https://marsjamudde.nl/bedankt/">
-  <div class="form-group">
-    <label for="naam">Naam *</label>
-    <input type="text" id="naam" name="naam" required aria-required="true" aria-describedby="naam-error">
-    <span class="error-message" id="naam-error" role="alert"></span>
-  </div>
-  <div class="form-group">
-    <label for="email">E-mailadres *</label>
-    <input type="email" id="email" name="email" required aria-required="true" aria-describedby="email-error">
-    <span class="error-message" id="email-error" role="alert"></span>
-  </div>
-  <div class="form-group">
-    <label for="telefoon">Telefoonnummer</label>
-    <input type="tel" id="telefoon" name="telefoon">
-  </div>
-  <div class="form-group">
-    <label for="ervaring">Muzikale ervaring</label>
-    <textarea id="ervaring" name="ervaring" rows="3" placeholder="Vertel kort over je muzikale achtergrond..."></textarea>
-  </div>
-  <div class="form-group">
-    <label for="instrument">Bespeel je een middeleeuws instrument?</label>
-    <input type="text" id="instrument" name="instrument" placeholder="Zo ja, welk instrument?">
-  </div>
-  <div class="form-group">
-    <label for="opmerkingen">Overige opmerkingen</label>
-    <textarea id="opmerkingen" name="opmerkingen" rows="3"></textarea>
-  </div>
-  <button type="submit" class="form-submit">Inschrijven</button>
-</form>
+Deze workshop is op aanvraag beschikbaar. Neem contact op via [Marsja](mailto:info@marsjamudde.nl) voor meer informatie.
