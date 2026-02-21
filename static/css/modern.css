@@ -195,6 +195,14 @@ blockquote p {
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.22) !important;
 }
 
+/* No image effects on embedded widgets */
+.content img[src*="email-provider"],
+.content img[src*="laposta"] {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  transition: none !important;
+}
+
 /* No hover effects on header images */
 .header img {
   border-radius: 0 !important;
