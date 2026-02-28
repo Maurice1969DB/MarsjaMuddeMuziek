@@ -128,15 +128,16 @@ h1 {
     }
 
     .sidebar .sidebar-nav {
-        max-height: calc(100vh - 5rem);
+        max-height: calc(100vh - 6rem);
         overflow-y: auto;
         -webkit-overflow-scrolling: touch;
-        padding-bottom: 3rem;
+        padding-bottom: 4rem;
     }
 
     .sidebar .container {
         height: calc(100vh - 3rem);
         overflow-y: auto;
+        padding-bottom: 2rem;
     }
 
     .sidebar.sidebar_small {
