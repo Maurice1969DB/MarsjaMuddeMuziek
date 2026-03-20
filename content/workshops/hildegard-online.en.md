@@ -22,10 +22,8 @@ Each live, unique, online 2-hour session is devoted to unpacking 1-2 of Hildegar
 - **Language:** English
 - **Suitable for:** Singers of all levels with an interest in medieval music
 
-#### Upcoming dates (2026)
-- January 31 - 6:00 PM (Amsterdam time)
-- February 18 - 5:30 PM (Amsterdam time)
-- March 18 - 5:30 PM (Amsterdam time)
+#### New sessions
+The first series of sessions in January-March 2026 was a great success. New dates will be announced soon. Keep an eye on this page for updates, or subscribe to the [newsletter](/en/newsletter) to be the first to know.
 
-#### Registration and more information
-Click [here](https://www.chantacademy.com/hildegard-study-days) for registration and more details about the sessions.
+#### More information
+Visit the [International Chant Academy](https://www.chantacademy.com/hildegard-study-days) website for more details.

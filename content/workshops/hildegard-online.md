@@ -22,10 +22,8 @@ Elke live online sessie van 2 uur is gewijd aan het uitdiepen van 1-2 compositie
 - **Taal:** Engels
 - **Geschikt voor:** Zangers van alle niveaus met interesse in middeleeuwse muziek
 
-#### Aankomende data (2026)
-- 31 januari - 18:00 uur (Amsterdam tijd)
-- 18 februari - 17:30 uur (Amsterdam tijd)
-- 18 maart - 17:30 uur (Amsterdam tijd)
+#### Nieuwe sessies
+De eerste reeks sessies in januari-maart 2026 was een groot succes. Binnenkort worden er nieuwe data gepland. Houd deze pagina in de gaten voor de aankondiging, of schrijf je in voor de [nieuwsbrief](/newsletter) om als eerste op de hoogte te zijn.
 
-#### Inschrijving en meer informatie
-Klik [hier](https://www.chantacademy.com/hildegard-study-days) voor inschrijving en meer details over de sessies.
+#### Meer informatie
+Bezoek de website van de [International Chant Academy](https://www.chantacademy.com/hildegard-study-days) voor meer details.
