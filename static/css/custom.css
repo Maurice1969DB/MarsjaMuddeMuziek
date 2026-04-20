@@ -521,6 +521,16 @@ nav {
     border-radius: 4px;
 }
 
+.content p.no-events::first-letter {
+    font-family: inherit !important;
+    font-size: inherit !important;
+    color: inherit !important;
+    float: none !important;
+    line-height: inherit !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
 /* Accessibility - Focus styles (only for keyboard navigation) */
 a:focus-visible,
 button:focus-visible,

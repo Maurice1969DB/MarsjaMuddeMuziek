@@ -947,6 +947,15 @@ a.event-card:hover .event-card__arrow {
   color: var(--color-text-light);
 }
 
+.content p.no-events::first-letter {
+  font-size: inherit !important;
+  float: none !important;
+  color: inherit !important;
+  line-height: inherit !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 /* Mobile responsive - match custom.css breakpoint */
 @media (max-width: 60em) {
   /* Larger logo on mobile */

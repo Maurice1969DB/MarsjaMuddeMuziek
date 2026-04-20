@@ -76,6 +76,15 @@ if (sessionStorage.getItem('closeMenu') === 'true') {
             label.style.display = 'none';
         }
     });
+
+    // Hide entire Datum form-group if no future dates remain
+    const visibleCheckboxes = checkboxGroup.querySelectorAll('.checkbox-label:not([style*="display: none"])');
+    if (visibleCheckboxes.length === 0) {
+        const datumFormGroup = checkboxGroup.closest('.form-group');
+        if (datumFormGroup) {
+            datumFormGroup.style.display = 'none';
+        }
+    }
 })();
 
 // Handle form validation and submissions
