@@ -512,6 +512,11 @@ nav {
     border: 2px solid #d98282;
 }
 
+.calendar .calendar-legend .legend-courses {
+    background-color: #a1e5c8 !important;
+    border: 2px solid #82d9ab;
+}
+
 /* No events message */
 .no-events {
     font-style: italic;

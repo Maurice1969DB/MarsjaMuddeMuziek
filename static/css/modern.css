@@ -693,6 +693,11 @@ a.event-card:hover {
   color: #ffffff !important;
 }
 
+.event-card--course .event-card__date {
+  background: #2a7f62 !important;
+  color: #ffffff !important;
+}
+
 .event-card__day {
   font-size: 2rem !important;
   font-weight: 700 !important;
@@ -859,6 +864,10 @@ a.event-card:hover {
   color: #6b5b95 !important;
 }
 
+.event-card--course .event-card__type {
+  color: #2a7f62 !important;
+}
+
 .event-card__title {
   font-size: 1rem !important;
   font-weight: 600 !important;
@@ -907,6 +916,10 @@ a.event-card:hover .event-card__arrow {
   color: #6b5b95 !important;
 }
 
+.event-card--course:hover .event-card__arrow {
+  color: #2a7f62 !important;
+}
+
 /* Legend */
 .calendar .calendar-legend {
   display: flex;
@@ -936,6 +949,10 @@ a.event-card:hover .event-card__arrow {
 
 .calendar .calendar-legend .legend-workshops::before {
   background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-accent-light) 100%);
+}
+
+.calendar .calendar-legend .legend-courses::before {
+  background: linear-gradient(135deg, #2a7f62 0%, #3aa87e 100%);
 }
 
 /* No events message */

@@ -18,6 +18,9 @@ Enthusiasts of any level, only women (sorry gentlemen)
 Minimum 2 (we work less hours), maximum 15, register until the Wednesday before, via [Marsja](mailto:info@marsjamudde.nl) (email) or the form below. 
 #### Planning:
 Every month we will work a Sunday afternoon from 13:30 to 16:30 h (or shorter with fewer participants), with a short break.
+
+#### Utrecht Summer School:
+In July 2026, Marsja will be a guest teacher at the [Utrecht University Summer School on the music of Hildegard von Bingen](https://utrechtsummerschool.nl/courses/art-music/hildegard-von-bingen-medieval-chant). This international, interdisciplinary, yet introductory course is a wonderful opportunity to deepen your knowledge. During the Summer School there is also the possibility for extra in-person lessons, one-on-one or in a small group. Get in touch if you are interested.
 #### Costs:
 The costs for participation depend on the number of participants. In a small group you learn more intensively than in a large group. The amounts vary from a minimum of 30 Euro (large group) to 67.50 Euro (2 or 3 people) per person. You will receive a digital payment request or an invoice afterwards.
 #### Description:
@@ -39,6 +42,8 @@ Right now, the goal is study. At a later stage, performing could also become a g
       <label class="checkbox-label" data-date="2026-02-22"><input type="checkbox" name="datum[]" value="February 22, 2026"> February 22, 2026</label>
       <label class="checkbox-label" data-date="2026-03-21"><input type="checkbox" name="datum[]" value="March 21, 2026"> March 21, 2026</label>
       <label class="checkbox-label" data-date="2026-04-19"><input type="checkbox" name="datum[]" value="April 19, 2026"> April 19, 2026</label>
+      <label class="checkbox-label" data-date="2026-05-16"><input type="checkbox" name="datum[]" value="May 16, 2026"> May 16, 2026</label>
+      <label class="checkbox-label" data-date="2026-06-21"><input type="checkbox" name="datum[]" value="June 21, 2026"> June 21, 2026</label>
     </div>
     <span class="error-message" id="datum-error" role="alert"></span>
   </div>

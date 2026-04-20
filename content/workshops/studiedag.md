@@ -18,6 +18,9 @@ Liefhebbers vanaf halfgevorderd niveau tot en met professionals, alleen vrouwen 
 Minimaal 2 (dan werken we korter), maximaal 15, uiterlijk de woensdag tevoren aanmelden via [Marsja](mailto:info@marsjamudde.nl) (mail) of het formulier hieronder.
 #### Datum:
 Elke maand werken we afwisselend een zaterdagochtend van circa 10:00 tot uiterlijk 13:00, of een zondagmiddag van circa 13:30 tot uiterlijk 16:30 uur, met een korte pauze. Kijk in de agenda voor de geplande studiedagen.
+
+#### Utrecht Summer School:
+In juli 2026 is Marsja gastdocent bij de [Utrecht University Summer School over de muziek van Hildegard von Bingen](https://utrechtsummerschool.nl/courses/art-music/hildegard-von-bingen-medieval-chant). Deze internationale, interdisciplinaire en tegelijk inleidende cursus is een mooie kans om je verder te verdiepen. Tijdens de Summer School is er ook de mogelijkheid voor extra persoonlijke lessen, individueel of in een kleine groep. Neem contact op als je hierin geïnteresseerd bent.
 #### Kosten: 
 De kosten voor deelname zijn afhankelijk van het aantal deelnemende personen. In een klein groepje leert u immers intensiever dan in een grote groep. De bedragen varieren van minimaal 30 Euro (grote groep) tot 67,50 Euro (2 of 3 mensen) per persoon. U krijgt een digitaal betaalverzoek of een factuur achteraf.
 #### Omschrijving:
@@ -39,6 +42,8 @@ Op dit moment is studie het doel. In een later stadium zou uitvoering ook een do
       <label class="checkbox-label" data-date="2026-02-22"><input type="checkbox" name="datum[]" value="22 februari 2026"> 22 februari 2026</label>
       <label class="checkbox-label" data-date="2026-03-21"><input type="checkbox" name="datum[]" value="21 maart 2026"> 21 maart 2026</label>
       <label class="checkbox-label" data-date="2026-04-19"><input type="checkbox" name="datum[]" value="19 april 2026"> 19 april 2026</label>
+      <label class="checkbox-label" data-date="2026-05-16"><input type="checkbox" name="datum[]" value="16 mei 2026"> 16 mei 2026</label>
+      <label class="checkbox-label" data-date="2026-06-21"><input type="checkbox" name="datum[]" value="21 juni 2026"> 21 juni 2026</label>
     </div>
     <span class="error-message" id="datum-error" role="alert"></span>
   </div>

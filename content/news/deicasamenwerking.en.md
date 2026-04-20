@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: -1
 ---
 ### Collaboration with the International Chant Academy
 
