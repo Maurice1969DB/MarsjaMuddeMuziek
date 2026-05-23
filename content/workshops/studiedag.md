@@ -20,7 +20,9 @@ Minimaal 2 (dan werken we korter), maximaal 15, uiterlijk de woensdag tevoren aa
 Elke maand werken we afwisselend een zaterdagochtend van circa 10:00 tot uiterlijk 13:00, of een zondagmiddag van circa 13:30 tot uiterlijk 16:30 uur, met een korte pauze. Kijk in de agenda voor de geplande studiedagen.
 
 #### Utrecht Summer School:
-In juli 2026 is Marsja gastdocent bij de [Utrecht University Summer School over de muziek van Hildegard von Bingen](https://utrechtsummerschool.nl/courses/art-music/hildegard-von-bingen-medieval-chant). Deze internationale, interdisciplinaire en tegelijk inleidende cursus is een mooie kans om je verder te verdiepen. Tijdens de Summer School is er ook de mogelijkheid voor extra persoonlijke lessen, individueel of in een kleine groep. Neem contact op als je hierin geïnteresseerd bent.
+In juli 2026 is Marsja gastdocent bij de [Utrecht University Summer School over de muziek van Hildegard von Bingen](https://utrechtsummerschool.nl/courses/art-music/hildegard-von-bingen-medieval-chant). Deze internationale, interdisciplinaire en tegelijk inleidende cursus is een mooie kans om je verder te verdiepen. Inschrijving voor de Summer School loopt via de Universiteit Utrecht.
+
+Rondom die week — in die week zelf, ervoor of erna — biedt Marsja daarnaast, los van de Summer School, extra persoonlijke lessen aan, individueel of in een kleine groep. Deze lessen vallen niet onder het programma van de Summer School. Heb je hier belangstelling voor, neem dan rechtstreeks [contact op met Marsja](mailto:info@marsjamudde.nl).
 #### Kosten: 
 De kosten voor deelname zijn afhankelijk van het aantal deelnemende personen. In een klein groepje leert u immers intensiever dan in een grote groep. De bedragen varieren van minimaal 30 Euro (grote groep) tot 67,50 Euro (2 of 3 mensen) per persoon. U krijgt een digitaal betaalverzoek of een factuur achteraf.
 #### Omschrijving:

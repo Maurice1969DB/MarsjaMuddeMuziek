@@ -20,7 +20,9 @@ Minimum 2 (we work less hours), maximum 15, register until the Wednesday before,
 Every month we will work a Sunday afternoon from 13:30 to 16:30 h (or shorter with fewer participants), with a short break.
 
 #### Utrecht Summer School:
-In July 2026, Marsja will be a guest teacher at the [Utrecht University Summer School on the music of Hildegard von Bingen](https://utrechtsummerschool.nl/courses/art-music/hildegard-von-bingen-medieval-chant). This international, interdisciplinary, yet introductory course is a wonderful opportunity to deepen your knowledge. During the Summer School there is also the possibility for extra in-person lessons, one-on-one or in a small group. Get in touch if you are interested.
+In July 2026, Marsja will be a guest teacher at the [Utrecht University Summer School on the music of Hildegard von Bingen](https://utrechtsummerschool.nl/courses/art-music/hildegard-von-bingen-medieval-chant). This international, interdisciplinary, yet introductory course is a wonderful opportunity to deepen your knowledge. Registration for the Summer School itself is handled by Utrecht University.
+
+Around that week — during the week itself, before, or after — Marsja also offers, separately from the Summer School, extra in-person lessons, one-on-one or in a small group. These lessons are not part of the Summer School programme. If you are interested, please [contact Marsja directly](mailto:info@marsjamudde.nl).
 #### Costs:
 The costs for participation depend on the number of participants. In a small group you learn more intensively than in a large group. The amounts vary from a minimum of 30 Euro (large group) to 67.50 Euro (2 or 3 people) per person. You will receive a digital payment request or an invoice afterwards.
 #### Description:
