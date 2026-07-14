@@ -3,7 +3,13 @@
     {{ $events := where .Site.RegularPages "Type" "events" }}
     {{ $workshops := where .Site.RegularPages "Type" "workshops" }}
     {{ $all := union $events $workshops }}
-    {{ $upcomingEvents := where $all "Date" "ge" now }}
+    {{ $today := time (now.Format "2006-01-02") }}
+    {{ $upcomingEvents := slice }}
+    {{ range $all }}
+        {{ $end := .Date }}
+        {{ with .Params.endDate }}{{ $end = time . }}{{ end }}
+        {{ if ge $end $today }}{{ $upcomingEvents = $upcomingEvents | append . }}{{ end }}
+    {{ end }}
     {{ $sortedUpcomingEvents := sort $upcomingEvents "Date" "asc" }}
 
     {{ if $sortedUpcomingEvents }}
