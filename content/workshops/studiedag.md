@@ -6,6 +6,8 @@ menu:
         parent: workshops
         weight: 25
 date: 2025-06-22
+aliases:
+    - /events/13jul2026-summerschool/
 ---
 ### Maandelijkse Studiedag Hildegard von Bingen: 
 Samen met andere vrouwen zingen en bestuderen van composities van Hildegard von Bingen.

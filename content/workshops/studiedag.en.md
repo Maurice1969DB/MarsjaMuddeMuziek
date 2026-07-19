@@ -6,6 +6,8 @@ menu:
         parent: workshops
         weight: 25
 date: 2025-06-22
+aliases:
+    - /en/events/13jul2026-summerschool/
 ---
 ### Monthly Study-day Hildegard von Bingen: 
 Singing compositions by Hildegard von Bingen, together with other women.
