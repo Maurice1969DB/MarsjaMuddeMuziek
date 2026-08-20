@@ -4,6 +4,7 @@ description: "Maandelijkse studiedag Hildegard von Bingen muziek - samen zingen 
 menu:
     main:
         parent: workshops
+        name: Hildegard maandelijks
         weight: 25
 date: 2025-06-22
 aliases:

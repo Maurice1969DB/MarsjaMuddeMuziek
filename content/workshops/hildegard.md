@@ -4,7 +4,8 @@ description: "Workshop Hildegard von Bingen muziek - verdieping in de middeleeuw
 menu:
     main:
         parent: workshops
-        weight: 60
+        name: Hildegard meerdaags
+        weight: 27
 ---
 ### Hildegard von Bingen: 
 Verdieping in de liederen van Hildegard von Bingen vanuit de Dendermonde Codex en de Riesencodex

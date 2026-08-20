@@ -4,6 +4,7 @@ description: "Monthly Hildegard von Bingen music study day - singing and studyin
 menu:
     main:
         parent: workshops
+        name: Hildegard monthly
         weight: 25
 date: 2025-06-22
 aliases:
