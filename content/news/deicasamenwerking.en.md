@@ -1,10 +1,10 @@
 ---
 weight: -1
 ---
-### Collaboration with the International Chant Academy
+### New Hildegard Study Days online — in a new form
 
-In May, Marsja successfully collaborated with the [International Chant Academy](https://www.chantacademy.com/) in the USA, giving an online lecture and two practical sessions as part of their Hands on With Hildegard lecture series. The feedback was overwhelmingly positive, and the depth and interdisciplinary approach were particularly appreciated.
+The collaboration with the [International Chant Academy](https://www.chantacademy.com/hildegard-study-days) in the USA continues: from 14 October to 18 November 2026 Marsja teaches six online study days on the music of Hildegard von Bingen. This autumn series takes a new form.
 
-The collaboration continues: the first series of three online sessions (January-March 2026) was a great success. New dates will be announced soon.
+We work intensively with three chants, each one more challenging than the previous, approaching every chant from two directions. The A-sessions start from the manuscript: learning to read Hufnagel notation and to make it sound in the voice. The B-sessions explore the same chant in an interdisciplinary way, through language, imagery, musical gesture, modality, theology and the structure of the text. You can follow one track, one complete chant (A+B), or the entire series of six sessions.
 
-This is ideal for those who are unable to reach the monthly Hildegard Study Days near 's-Hertogenbosch due to distance or time constraints. Keep an eye on [this page](/en/workshops/hildegard-online/) for new dates, or subscribe to the [newsletter](/en/newsletter).
+Sessions are live via Zoom, with a maximum of four active participants each, plus additional auditor seats. Ideal for those who are unable to reach the Hildegard Study Days near 's-Hertogenbosch due to distance or time constraints. For dates, times, tuition and registration see [this page](/en/workshops/hildegard-online/), or subscribe to the [newsletter](/en/newsletter).
