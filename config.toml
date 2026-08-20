@@ -7,6 +7,8 @@ summarylength = 10
 enableEmoji = true
 # moet vóór de eerste [tabel]-kop staan, anders leest TOML dit als een subsleutel
 buildFuture = true
+# gearchiveerde pagina's krijgen de extensie .backup; niet meepubliceren
+ignoreFiles = ["\\.backup$"]
 [pagination]
 pagerSize = 5
 ignoreErrors = ["error-remote-getjson"]
