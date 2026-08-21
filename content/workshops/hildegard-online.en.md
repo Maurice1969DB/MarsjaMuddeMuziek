@@ -48,12 +48,12 @@ Read more about Track B on the [ICA's Hildegard Study Days page](https://www.cha
 #### Dates and times
 Six Wednesdays, 14 October to 18 November 2026, each session 18:30 – 20:30 Amsterdam time. In another time zone? The [Hildegard Study Days page](https://www.chantacademy.com/hildegard-study-days) has a time zone tool to look up the starting time where you are.
 
-- 14 October 2026 – Track A, chant 1
-- 21 October 2026 – Track B, chant 1
-- 28 October 2026 – Track A, chant 2
-- 4 November 2026 – Track B, chant 2
-- 11 November 2026 – Track A, chant 3
-- 18 November 2026 – Track B, chant 3
+- [14 October 2026](/en/events/14okt2026-ica/) – Track A, chant 1
+- [21 October 2026](/en/events/21okt2026-ica/) – Track B, chant 1
+- [28 October 2026](/en/events/28okt2026-ica/) – Track A, chant 2
+- [4 November 2026](/en/events/04nov2026-ica/) – Track B, chant 2
+- [11 November 2026](/en/events/11nov2026-ica/) – Track A, chant 3
+- [18 November 2026](/en/events/18nov2026-ica/) – Track B, chant 3
 
 #### Choose your path
 - **3 × A – Notation Track:** the three A-sessions only.

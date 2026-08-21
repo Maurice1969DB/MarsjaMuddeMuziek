@@ -48,12 +48,12 @@ Lees meer over Track B op de [Hildegard Study Days-pagina van de ICA](https://ww
 #### Data en tijd
 Zes woensdagen, van 14 oktober tot en met 18 november 2026, telkens van 18:30 tot 20:30 uur Nederlandse tijd. Woon je in een andere tijdzone? Op de [Hildegard Study Days-pagina](https://www.chantacademy.com/hildegard-study-days) staat een tijdzonehulpmiddel waarmee je de begintijd bij jou kunt opzoeken.
 
-- 14 oktober 2026 – Track A, gezang 1
-- 21 oktober 2026 – Track B, gezang 1
-- 28 oktober 2026 – Track A, gezang 2
-- 4 november 2026 – Track B, gezang 2
-- 11 november 2026 – Track A, gezang 3
-- 18 november 2026 – Track B, gezang 3
+- [14 oktober 2026](/events/14okt2026-ica/) – Track A, gezang 1
+- [21 oktober 2026](/events/21okt2026-ica/) – Track B, gezang 1
+- [28 oktober 2026](/events/28okt2026-ica/) – Track A, gezang 2
+- [4 november 2026](/events/04nov2026-ica/) – Track B, gezang 2
+- [11 november 2026](/events/11nov2026-ica/) – Track A, gezang 3
+- [18 november 2026](/events/18nov2026-ica/) – Track B, gezang 3
 
 #### Kies je eigen route
 - **3 × A – Notatietrack:** alleen de drie A-sessies.
