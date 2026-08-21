@@ -1,4 +1,15 @@
 {{ define "main" -}}
+{{/* Evenementen zonder eigen pagina wijzen met linkTo naar de pagina die ze
+     beschrijft. Die pagina meldt ze aan als MusicEvent, zodat de agendagegevens
+     bij de tekst staan die er ook echt over gaat. Alleen wat nog komt: over
+     afgelopen sessies valt op deze pagina niets meer te lezen. */}}
+{{- $today := time.AsTime (now.Format "2006-01-02") }}
+{{- range where .Site.RegularPages "Params.linkTo" .RelPermalink }}
+  {{- $end := .Date }}
+  {{- with .Params.endDate }}{{ $end = time.AsTime . }}{{ end }}
+  {{- if ge $end $today }}{{ partial "event-schema.html" . }}{{ end }}
+{{- end }}
+
 <div class="post">
   {{ with .Params.tagline }}<span class="tagline">{{ . }}</span>{{ end }}
   {{ if in (substr (.Content | plainify) 0 1) "M" }}
