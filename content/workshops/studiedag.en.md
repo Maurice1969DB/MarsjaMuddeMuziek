@@ -20,7 +20,10 @@ Enthusiasts of any level, only women (sorry gentlemen)
 #### Number of participants:
 Minimum 2 (we work less hours), maximum 15, register until the Wednesday before, via [Marsja](mailto:info@marsjamudde.nl) (email) or the form below. 
 #### Planning:
-Every month we will work a Sunday afternoon from 13:30 to 16:30 h (or shorter with fewer participants), with a short break.
+Every month we meet at the little church in Engelen, alternating between a Saturday morning from 10:30 to 13:00 h (Singing Morning) and a Sunday afternoon from 13:30 to 16:00 h (Study Afternoon), with a short break. See the calendar for the planned dates.
+
+#### Address:
+The little church in Engelen, De Kerkhof 3, 5221 AJ Engelen ('s-Hertogenbosch).
 
 #### Costs:
 The costs for participation depend on the number of participants. In a small group you learn more intensively than in a large group. The amounts vary from a minimum of 30 Euro (large group) to 67.50 Euro (2 or 3 people) per person. You will receive a digital payment request or an invoice afterwards.
@@ -39,12 +42,10 @@ Right now, the goal is study. At a later stage, performing could also become a g
   <div class="form-group">
     <label id="datum-label">Date (multiple possible) *</label>
     <div class="checkbox-group" id="datum-checkboxes" role="group" aria-labelledby="datum-label" aria-describedby="datum-error">
-      <label class="checkbox-label" data-date="2026-01-24"><input type="checkbox" name="datum[]" value="January 24, 2026"> January 24, 2026</label>
-      <label class="checkbox-label" data-date="2026-02-22"><input type="checkbox" name="datum[]" value="February 22, 2026"> February 22, 2026</label>
-      <label class="checkbox-label" data-date="2026-03-21"><input type="checkbox" name="datum[]" value="March 21, 2026"> March 21, 2026</label>
-      <label class="checkbox-label" data-date="2026-04-19"><input type="checkbox" name="datum[]" value="April 19, 2026"> April 19, 2026</label>
-      <label class="checkbox-label" data-date="2026-05-16"><input type="checkbox" name="datum[]" value="May 16, 2026"> May 16, 2026</label>
-      <label class="checkbox-label" data-date="2026-06-21"><input type="checkbox" name="datum[]" value="June 21, 2026"> June 21, 2026</label>
+      <label class="checkbox-label" data-date="2026-09-19"><input type="checkbox" name="datum[]" value="Saturday 19 September 2026 - Singing Morning 10:30-13:00"> Saturday 19 September 2026 &ndash; Singing Morning, 10:30&ndash;13:00</label>
+      <label class="checkbox-label" data-date="2026-10-18"><input type="checkbox" name="datum[]" value="Sunday 18 October 2026 - Study Afternoon 13:30-16:00"> Sunday 18 October 2026 &ndash; Study Afternoon, 13:30&ndash;16:00</label>
+      <label class="checkbox-label" data-date="2026-11-14"><input type="checkbox" name="datum[]" value="Saturday 14 November 2026 - Singing Morning 10:30-13:00"> Saturday 14 November 2026 &ndash; Singing Morning, 10:30&ndash;13:00</label>
+      <label class="checkbox-label" data-date="2026-12-20"><input type="checkbox" name="datum[]" value="Sunday 20 December 2026 - Study Afternoon 13:30-16:00"> Sunday 20 December 2026 &ndash; Study Afternoon, 13:30&ndash;16:00</label>
     </div>
     <span class="error-message" id="datum-error" role="alert"></span>
   </div>

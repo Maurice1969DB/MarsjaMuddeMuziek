@@ -20,7 +20,10 @@ Liefhebbers vanaf halfgevorderd niveau tot en met professionals, alleen vrouwen 
 #### Aantal deelnemers:
 Minimaal 2 (dan werken we korter), maximaal 15, uiterlijk de woensdag tevoren aanmelden via [Marsja](mailto:info@marsjamudde.nl) (mail) of het formulier hieronder.
 #### Datum:
-Elke maand werken we afwisselend een zaterdagochtend van circa 10:00 tot uiterlijk 13:00, of een zondagmiddag van circa 13:30 tot uiterlijk 16:30 uur, met een korte pauze. Kijk in de agenda voor de geplande studiedagen.
+Elke maand komen we bij elkaar in het kerkje in Engelen, afwisselend op een zaterdagochtend van 10:30 tot 13:00 uur (Zang Ochtend) of op een zondagmiddag van 13:30 tot 16:00 uur (Studie Middag), met een korte pauze. Kijk in de agenda voor de geplande data.
+
+#### Adres:
+Kerkje in Engelen, De Kerkhof 3, 5221 AJ Engelen ('s-Hertogenbosch).
 
 #### Kosten: 
 De kosten voor deelname zijn afhankelijk van het aantal deelnemende personen. In een klein groepje leert u immers intensiever dan in een grote groep. De bedragen varieren van minimaal 30 Euro (grote groep) tot 67,50 Euro (2 of 3 mensen) per persoon. U krijgt een digitaal betaalverzoek of een factuur achteraf.
@@ -39,12 +42,10 @@ Op dit moment is studie het doel. In een later stadium zou uitvoering ook een do
   <div class="form-group">
     <label id="datum-label">Datum (meerdere mogelijk) *</label>
     <div class="checkbox-group" id="datum-checkboxes" role="group" aria-labelledby="datum-label" aria-describedby="datum-error">
-      <label class="checkbox-label" data-date="2026-01-24"><input type="checkbox" name="datum[]" value="24 januari 2026"> 24 januari 2026</label>
-      <label class="checkbox-label" data-date="2026-02-22"><input type="checkbox" name="datum[]" value="22 februari 2026"> 22 februari 2026</label>
-      <label class="checkbox-label" data-date="2026-03-21"><input type="checkbox" name="datum[]" value="21 maart 2026"> 21 maart 2026</label>
-      <label class="checkbox-label" data-date="2026-04-19"><input type="checkbox" name="datum[]" value="19 april 2026"> 19 april 2026</label>
-      <label class="checkbox-label" data-date="2026-05-16"><input type="checkbox" name="datum[]" value="16 mei 2026"> 16 mei 2026</label>
-      <label class="checkbox-label" data-date="2026-06-21"><input type="checkbox" name="datum[]" value="21 juni 2026"> 21 juni 2026</label>
+      <label class="checkbox-label" data-date="2026-09-19"><input type="checkbox" name="datum[]" value="zaterdag 19 september 2026 - Zang Ochtend 10:30-13:00 uur"> zaterdag 19 september 2026 &ndash; Zang Ochtend, 10:30&ndash;13:00 uur</label>
+      <label class="checkbox-label" data-date="2026-10-18"><input type="checkbox" name="datum[]" value="zondag 18 oktober 2026 - Studie Middag 13:30-16:00 uur"> zondag 18 oktober 2026 &ndash; Studie Middag, 13:30&ndash;16:00 uur</label>
+      <label class="checkbox-label" data-date="2026-11-14"><input type="checkbox" name="datum[]" value="zaterdag 14 november 2026 - Zang Ochtend 10:30-13:00 uur"> zaterdag 14 november 2026 &ndash; Zang Ochtend, 10:30&ndash;13:00 uur</label>
+      <label class="checkbox-label" data-date="2026-12-20"><input type="checkbox" name="datum[]" value="zondag 20 december 2026 - Studie Middag 13:30-16:00 uur"> zondag 20 december 2026 &ndash; Studie Middag, 13:30&ndash;16:00 uur</label>
     </div>
     <span class="error-message" id="datum-error" role="alert"></span>
   </div>
