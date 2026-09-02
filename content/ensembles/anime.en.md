@@ -14,3 +14,7 @@ The name Anime Beatitudinis Cantando is Latin for "singing in the soul of bliss"
 The core members of the ensemble are the singers Cora Schmeiser, Agnieszka Chabowska and Marsja Mudde. Depending on the program, other female singers or instrumentalists may be added to the ensemble.
 
 Anime Beatitudinis Cantando aims to educate its audience - consciously or unnoticed - about medieval and early Renaissance music and culture. Therefore, at the request of the receiving location, some programs can be expanded with additional activities, such as a themed lecture, a silent walk, or a workshop on the subject.
+### Concert dates
+**Sia laudato, San Francesco! The Canticle of the Sun**
+- Friday 2 October 2026, 8:00 PM – [Hillegondakerk, Rotterdam](/en/events/02okt2026-sialaudato/)
+- Saturday 3 October 2026, 8:00 PM – [Remonstrant Church, Alkmaar](/en/events/03okt2026-sialaudato/)

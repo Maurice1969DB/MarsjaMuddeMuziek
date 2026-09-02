@@ -22,3 +22,8 @@ Anime Beatitudinis Cantando heeft tot doel om haar publiek - bewust of ongemerkt
 Lopende projecten zijn:
 - Sia Laudato, San Francesco
 - Vita Hildegardis Bingensis
+
+### Speellijst
+**Sia laudato, San Francesco! Franciscus’ Zonnelied**
+- Vrijdag 2 oktober 2026, 20:00 uur – [Hillegondakerk, Rotterdam](/events/02okt2026-sialaudato/)
+- Zaterdag 3 oktober 2026, 20:00 uur – [Remonstrantse kerk, Alkmaar](/events/03okt2026-sialaudato/)
