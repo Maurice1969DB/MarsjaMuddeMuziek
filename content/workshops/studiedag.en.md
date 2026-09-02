@@ -15,10 +15,16 @@ Singing compositions by Hildegard von Bingen, together with other women.
 
 <img src="/workshops/images/KerkjeEngelen.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
+#### Two kinds of meetings:
+This coming season we alternate between two formats:
+
+- **Singing Morning:** simply enjoying singing a few of Hildegard's songs together. The singing itself comes first.
+- **Study Afternoon:** working on a song in depth, with an interdisciplinary interpretation that brings text, music, notation and context together.
+
 #### Target audience:
-Enthusiasts of any level, only women (sorry gentlemen)
+Enthusiasts from lower-intermediate level up to and including professionals, only women (sorry gentlemen).
 #### Number of participants:
-Minimum 2 (we work less hours), maximum 15, register until the Wednesday before, via [Marsja](mailto:info@marsjamudde.nl) (email) or the form below. 
+Singing Morning: minimum 4 and maximum 15 participants. Study Afternoon: minimum 3 and maximum 6 participants. Register until the Wednesday before, via [Marsja](mailto:info@marsjamudde.nl) (email) or the form below. 
 #### Planning:
 Every month we meet at the little church in Engelen, alternating between a Saturday morning from 10:30 to 13:00 h (Singing Morning) and a Sunday afternoon from 13:30 to 16:00 h (Study Afternoon), with a short break. See the calendar for the planned dates.
 
@@ -26,13 +32,13 @@ Every month we meet at the little church in Engelen, alternating between a Satur
 The little church in Engelen, De Kerkhof 3, 5221 AJ Engelen ('s-Hertogenbosch).
 
 #### Costs:
-The costs for participation depend on the number of participants. In a small group you learn more intensively than in a large group. The amounts vary from a minimum of 30 Euro (large group) to 67.50 Euro (2 or 3 people) per person. You will receive a digital payment request or an invoice afterwards.
+Singing Morning: 50 Euro per person. Study Afternoon: 75 Euro per person. In the smaller group of the Study Afternoon you learn more intensively than in a large group. You will receive a digital payment request or an invoice afterwards.
 #### Description:
 Hildegard von Bingen (1098-1179) was an abbess with many qualities, one of which was composing. Her music is characterized by greater freedom and scope in the melodies than the Gregorian chant of her time. The lyrics of her songs also show an enormous wealth of images and layers of meaning. This combination makes her oevre so fascinating that a monthly study day is devoted to it.
 
 The way of working is according to oral tradition, as was common in Hildegard's time. Marsja speaks and sings, the participants imitate, and so on. The written text and translation are used as tools, which we study carefully in advance. In addition, hand gestures are used that are traced from the original notation of this music, which has been handed down in manuscripts from her time. If necessary, copies of the manuscripts and a simple transcription without rhythm are provided. Audio recordings can also be used to facilitate studying.
 
-Right now, the goal is study. At a later stage, performing could also become a goal, depending on the capabilities and needs of the participants.
+Performing is not a goal at the moment. At a later stage that could change, depending on the capabilities and needs of the participants.
 
 #### Registration:
 

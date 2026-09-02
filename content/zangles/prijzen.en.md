@@ -1,13 +1,13 @@
 ---
-title: Prices and Conditions
+title: Prices and Conditions 2026
 menu:
     main:
         parent: zangles
         weight: 2
 ---
-### Prices and conditions Singing lessons at Marsja Mudde Music from September 2025
+### Prices and conditions Singing lessons at Marsja Mudde Music from October 2026
 
-An **introductory lesson** of 5 minutes costs 80 Euros. When a lesson package is subsequently taken out, it will be refunded in part (50% in case of a 5 lesson package) or in full (in case of a 10 or 20 lesson package). When you take out a package of 20 lessons, you will also receive a nice gift.
+An **introductory lesson** of 75 minutes costs 90 Euros. When a lesson package is subsequently taken out, it will be refunded in part (50% in case of a 5 lesson package) or in full (in case of a 10 or 20 lesson package). When you take out a package of 20 lessons, you will also receive a nice gift.
 
 For each lesson package that is closed, the **learning objectives** are reviewed together. Learning objectives can be in the field of style-specific and/or general singing technique, interpretation, pronunciation, singing in harmony, early notation reading, repertoire knowledge, analysis, stage presence, and so on.
 
@@ -15,9 +15,9 @@ All lessons are **including** coffee or tea, digital teaching materials and answ
 
 The **class duration** is in principle 60 minutes. It is also possible to take shorter or longer lessons, adapted to individual needs and attention span. Prices for this and for duo or group lessons are derived from the basic rate.
 
-The **basic price** for separate individual lessons will go to EUR 67.50 per hour from 1 September 2025. Derived from this basic price, there are also affordable lesson packages available of 5 pieces (4% discount), 10 pieces (8% discount) or 20 pieces (12% discount). When a lesson package is concluded, the intended lesson frequency and lesson day are also recorded. The advantage for you, apart from the discount, is that there is definitely room for you in the agenda. The advantage for Marsja Mudde Muziek is simpler planning and more continuity.
+The **basic price** for separate individual lessons is EUR 75 per hour (from 1 October 2026). Derived from this basic price, there are also affordable lesson packages available of 5 pieces (4% discount), 10 pieces (8% discount) or 20 pieces (12% discount). When a lesson package is concluded, the intended lesson frequency and lesson day are also recorded. The advantage for you, apart from the discount, is that there is definitely room for you in the agenda. The advantage for Marsja Mudde Muziek is simpler planning and more continuity.
 
-A recommendation for choral or ensemble singers is the **duo lesson**, where you have 90 minutes of lessons together. You will then attend each other's 30 minutes of individual technical instruction and work together on polyphonic repertoire for 30 minutes. A separate duo lesson costs 120 Euros for the pair. Duo lessons can also be taken out as a package, with individual learning objectives, but please note: if one of them is unable to attend, a separate individual lesson will be charged.
+A recommendation for choral or ensemble singers is the **duo lesson**, where you have 90 minutes of lessons together. You will then attend each other's 30 minutes of individual technical instruction and work together on polyphonic repertoire for 30 minutes. A separate duo lesson costs 135 Euros for the pair. Duo lessons can also be taken out as a package, with individual learning objectives, but please note: if one of them is unable to attend, a separate individual lesson will be charged.
 
 **Lesson packs are valid for a limited time**. The basic principle here is that 1 in 5 lessons can be moved up without any problems. A few examples: with biweekly lessons and a 5 lesson package, the validity is 12 weeks. With weekly lessons and a 5 lesson package, the validity is 6 weeks. Weekly 10 lesson packs can be spread over 12 weeks. Lessons can always be made up again within the period of validity. If the validity has expired, then unfortunately the outstanding lessons will expire, unless expressly agreed otherwise.
 

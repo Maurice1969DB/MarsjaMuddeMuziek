@@ -6,7 +6,7 @@ menu:
         weight: 6
 ---
 ### Maken van lesafspraken
-Lessen kunnen op afspraak plaatsvinden bij mij thuis in Den Bosch, tegen meerprijs bij u thuis of op een andere locatie, of desgewenst tegen normaal tarief online. 
+Lessen kunnen op afspraak plaatsvinden bij mij thuis in Den Bosch, of tegen meerprijs bij u thuis, op een andere locatie of online. 
 
 Als u een les of proefles wilt afspreken, kunt u mij het beste bellen of WhatsAppen op +31 6 182 777 92.
 

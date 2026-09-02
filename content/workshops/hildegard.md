@@ -15,7 +15,7 @@ Verdieping in de liederen van Hildegard von Bingen vanuit de Dendermonde Codex e
 #### Doelgroep:
 Gevorderde amateurs en (pre-)professionals
 #### Datum:
-Datum nog niet bekend; op verzoek boekbaar vanaf 5 personen
+Op aanvraag, boekbaar vanaf 5 personen
 #### Kosten: 
 prijs nog niet bekend, mede afhankelijk van aantal personen
 #### Omschrijving:

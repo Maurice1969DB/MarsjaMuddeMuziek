@@ -14,16 +14,16 @@ De themaworkshops worden allemaal gegeven door sopraan Marsja Mudde, specialiste
 #### Voor wie? 
 Bij de omschrijving van de workshop staat de doelgroep vermeld. Als u denkt niet bij de doelgroep te passen, maar toch graag zou willen deelnemen, aarzel dan niet om contact op te nemen. Wellicht is er een mogelijkheid voor u om ook over dit onderwerp te leren bij Marsja Mudde Muziek.
 #### Aantal deelnemers?
-Vanaf 3 deelnemers kan de themaworkshop al doorgang vinden. Maximum aantal deelnemers voor de themaworkshops is telkens 16. Bij overinschrijving kan een tweede workshop met hetzelfde thema worden gepland.
+Als richtlijn geldt dat een themaworkshop vanaf 3 deelnemers doorgang kan vinden, met een maximum van 16. Per workshop kunnen andere aantallen gelden; die staan dan vermeld bij de informatie over die workshop. Bij overinschrijving kan een tweede workshop met hetzelfde thema worden gepland.
 #### Waar? 
 De meeste themaworkshops vinden plaats in 's-Hertogenbosch of directe omgeving, op een locatie die past bij de muziek en het aantal deelnemers. Sommige workshops zijn op een andere locatie, hetgeen dan vermeld staat bij de informatie. De precieze locatie wordt tijdig bekendgemaakt.
 #### Hoe laat? 
-Om kwart voor 10 staan de koffie en thee klaar. Er wordt telkens gewerkt van 10 tot 13 en van 14 tot 17 uur, eventueel (op de laatste dag) eindigend met een kort informeel 'toonmoment', waarbij geïnteresseerden mogen komen luisteren.
+Om kwart voor 10 staan de koffie en thee klaar. Gebruikelijk wordt er gewerkt van 10 tot 13 en van 14 tot 17 uur, eventueel (op de laatste dag) eindigend met een kort informeel 'toonmoment', waarbij geïnteresseerden mogen komen luisteren. Bij een aantal workshops gelden andere tijden; die staan dan vermeld bij de informatie over die workshop.
 #### Wat kost het? 
 De kosten worden vermeld bij de informatie over de individuele themaworkshops. Dit bedrag is altijd inclusief BTW en studiemateriaal. 
  
 #### Inschrijven:
-Stuur een e-mail naar info apenstaartje marsjamudde.nl met daarin de volgende gegevens:
+Stuur een e-mail naar [Marsja](mailto:info@marsjamudde.nl) met daarin de volgende gegevens:
 - naam, achternaam
 - adres
 - telefoonnummer

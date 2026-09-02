@@ -34,9 +34,9 @@ Tegen het einde van de les wordt de zojuist behandelde techniek in een repertoir
 - cursussen en workshops worden aangekondigd via de Nieuwsbrief en in de Agenda
 
 #### Wat kost het?
-- zangles individueel 1 uur: 67,50 Euro (2025), inclusief thee en BTW, exclusief reiskosten en bladmuziek.
+- zangles individueel 1 uur: 75 Euro (per 1 oktober 2026), inclusief thee en BTW, exclusief reiskosten en bladmuziek.
 - de overige lesprijzen zijn hiervan afgeleid, en vindt u onder Prijzen en voorwaarden. Bij afspreken van 5 of meer lessen vooruit (lespakket) krijgt u een aantrekkelijke korting.
-- introductieles 1 1/4 uur: 80 Euro (2025). Indien u aansluitend een lespakket afsluit, ontvangt u het bedrag van de introductieles geheel of gedeeltelijk terug.
+- introductieles 1 1/4 uur: 90 Euro (per 1 oktober 2026). Indien u aansluitend een lespakket afsluit, ontvangt u het bedrag van de introductieles geheel of gedeeltelijk terug.
 - de prijzen van cursussen en workshops zijn variabel en worden vermeld bij de aankondigingen hiervan of in de offerte.
 - voor de overige voorwaarden, zie Prijzen en voorwaarden.
 

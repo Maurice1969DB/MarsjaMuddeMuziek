@@ -15,10 +15,16 @@ Samen met andere vrouwen zingen en bestuderen van composities van Hildegard von 
 
 <img src="../images/KerkjeEngelen.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
+#### Twee soorten bijeenkomsten:
+Komend seizoen wisselen we twee vormen met elkaar af:
+
+- **Zang Ochtend:** gewoon lekker zingen aan enkele liederen van Hildegard. Het zingen zelf staat voorop.
+- **Studie Middag:** verdiepend werken aan een lied, met een interdisciplinaire interpretatie waarin tekst, muziek, notatie en context bij elkaar komen.
+
 #### Doelgroep:
 Liefhebbers vanaf halfgevorderd niveau tot en met professionals, alleen vrouwen (sorry heren).
 #### Aantal deelnemers:
-Minimaal 2 (dan werken we korter), maximaal 15, uiterlijk de woensdag tevoren aanmelden via [Marsja](mailto:info@marsjamudde.nl) (mail) of het formulier hieronder.
+Zang Ochtend: minimaal 4 en maximaal 15 deelnemers. Studie Middag: minimaal 3 en maximaal 6 deelnemers. Uiterlijk de woensdag tevoren aanmelden via [Marsja](mailto:info@marsjamudde.nl) (mail) of het formulier hieronder.
 #### Datum:
 Elke maand komen we bij elkaar in het kerkje in Engelen, afwisselend op een zaterdagochtend van 10:30 tot 13:00 uur (Zang Ochtend) of op een zondagmiddag van 13:30 tot 16:00 uur (Studie Middag), met een korte pauze. Kijk in de agenda voor de geplande data.
 
@@ -26,13 +32,13 @@ Elke maand komen we bij elkaar in het kerkje in Engelen, afwisselend op een zate
 Kerkje in Engelen, De Kerkhof 3, 5221 AJ Engelen ('s-Hertogenbosch).
 
 #### Kosten: 
-De kosten voor deelname zijn afhankelijk van het aantal deelnemende personen. In een klein groepje leert u immers intensiever dan in een grote groep. De bedragen varieren van minimaal 30 Euro (grote groep) tot 67,50 Euro (2 of 3 mensen) per persoon. U krijgt een digitaal betaalverzoek of een factuur achteraf.
+Zang Ochtend: 50 Euro per persoon. Studie Middag: 75 Euro per persoon. In de kleinere groep van de Studie Middag leert u immers intensiever dan in een grote groep. U krijgt een digitaal betaalverzoek of een factuur achteraf.
 #### Omschrijving:
 Hildegard von Bingen (1098-1179) was een kloosterlinge en magistra met vele kwaliteiten, waarvan componeren er een was. Haar muziek wordt gekenmerkt door een grotere vrijheid en omvang in de melodieën dan het gregoriaans van haar tijd. Ook de teksten van haar liederen vertonen een enorme rijkdom in beelden en betekenislagen. Die combinatie maakt haar oevre zo fascinerend dat er een maandelijkse studiedag aan wordt gewijd. 
 
 De manier van werken is volgens de mondelinge overlevering, zoals in Hildegard's tijd ook gebruikelijk was. Marsja spreekt en zingt voor, de deelneemsters doen het na, enzovoort. Als hulpmiddelen worden de uitgeschreven tekst en vertaling gebruikt, die we van tevoren goed bestuderen. Daarnaast wordt gebruik gemaakt van handgebaren die worden herleid uit de oorspronkelijke notatie van deze muziek, die is overgeleverd in handschriften uit haar tijd. Indien nodig worden kopieën uit de handschriften en een eenvoudige transcriptie zonder ritme verstrekt. Ook kunnen geluidsopnames worden gebruikt om het studeren te vergemakkelijken.
 
-Op dit moment is studie het doel. In een later stadium zou uitvoering ook een doel kunnen worden, afhankelijk van de mogelijkheden en behoefte van de deelneemsters.
+Uitvoering is op dit moment geen doel. In een later stadium zou dat kunnen veranderen, afhankelijk van de mogelijkheden en behoefte van de deelneemsters.
 
 #### Aanmelden:
 

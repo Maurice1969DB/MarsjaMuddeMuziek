@@ -13,18 +13,18 @@ The themed workshops are all given by soprano Marsja Mudde, a specialist in the 
 #### For whom?
 The target group is stated in the description of the workshop. If you think you do not belong to the target group, but would still like to participate, do not hesitate to contact us. Perhaps there is an opportunity for you to learn about this subject at Marsja Mudde Muziek.
 #### Number of participants?
-The theme workshop can already take place from 3 participants. Maximum number of participants for the theme workshops is always 16. In case of over-registration, a second workshop with the same theme can be planned.
+As a guideline, a theme workshop can take place from 3 participants, with a maximum of 16. Other numbers may apply to an individual workshop; these are then stated in the information about that workshop. In case of over-registration, a second workshop with the same theme can be planned.
 #### Where?
 Most theme workshops take place in 's-Hertogenbosch or the immediate vicinity, at a location that suits the music and the number of participants. Some workshops are at a different location, which is then stated in the information. The exact location will be announced in time.
 #### What time?
-Coffee and tea are ready at a quarter to 10. Work is always from 10 a.m. to 1 p.m. and from 2 p.m. to 5 p.m., ending (on the last day) with a short informal 'show moment', where interested parties may come and listen.
+Coffee and tea are ready at a quarter to 10. Usually we work from 10 a.m. to 1 p.m. and from 2 p.m. to 5 p.m., ending (on the last day) with a short informal 'show moment', where interested parties may come and listen. A number of workshops keep different hours; these are then stated in the information about that workshop.
 #### What does it cost?
 The costs are stated in the information about the individual themed workshops. This amount always includes VAT and study materials.
 #### Stack discount
 If you want to participate in several workshops, you receive a "stack discount": with two workshops you receive a 5% discount on the total bill, with three workshops 7.5%, with four or more workshops 10%.
 
 #### Register:
-Send an e-mail to info at marsjamudde.nl with the following information:
+Send an e-mail to [Marsja](mailto:info@marsjamudde.nl) with the following information:
 - name surname
 - address
 - phone number

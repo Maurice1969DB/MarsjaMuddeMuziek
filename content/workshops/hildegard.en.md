@@ -15,8 +15,8 @@ An in-depth look at the songs of Hildegard von Bingen from the Dendermonde Codex
 #### Target audience:
 Advanced amateurs and (pre-)professionals
 #### Date:
-date not yet known
+On request, bookable from 5 participants
 #### Cost:
-price not yet known
+price not yet known, partly depending on the number of participants
 #### Description:
-Under the auspices of Centrum Cantus Modalis and in collaboration with Cora Schmeiser, Marsja Mudde Muziek is developing a five-day workshop around the rich repertoire of the abbess Hildegard von Bingen. We will work from reproductions of the original manuscripts. Themes in the workshop are pronunciation and meaning, structure and structure, cheironomy versus neumes, bourdons and other creative options and of course vocal flexibility due to the great ambitus of Hildegard's music.
+A five-day workshop around the rich repertoire of the abbess Hildegard von Bingen. We will work from reproductions of the original manuscripts. Themes in the workshop are pronunciation and meaning, structure and construction, cheironomy versus neumes, bourdons and other creative options and of course vocal flexibility due to the great ambitus of Hildegard's music.

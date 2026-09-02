@@ -10,9 +10,9 @@ Marsja geeft niet alleen workshops voor mensen die al zingen, maar ook voor scho
 Deze workshops focussen op kennismaking met het repertoire en met vroege notatie. Elke deelnemer wordt op haar of zijn niveau geholpen om het repertoire te kunnen zingen. Meer gevorderden worden individueel verder uitgedaagd. Als groep wordt gewerkt aan de interpretatie. Bij voldoende belangstelling is er een splitsing naar niveau in meer groepen mogelijk.
 - Maandelijkse studiedag Hildegard von Bingen (halve dag, alleen vrouwen)
 - Die Minne mint ende singt: Middeleeuwse Gezongen Liefdespoëzie uit Nederland en Duitsland
-Datum nader te bepalen, half februari 2026
+Op aanvraag
 - Franciscus' Ode aan de Dieren: Liederen over Schepping en Dierenrijk uit Italiaanse Middeleeuwse en Renaissance Muziek Handschriften
-Datum nader te bepalen, ergens in oktober 2026
+Op aanvraag
 - Een Middeleeuwse Kerst: Middeleeuwse Kerstliederen uit de Nederlanden
 Op verzoek te boeken in de adventsperiode, vanaf 2 personen
 - workshop op maat voor uw koor of een andere context
@@ -20,10 +20,14 @@ Op verzoek te boeken in de adventsperiode, vanaf 2 personen
 #### Workshops voor gevorderden en (pre)professionals:
 Bij deze workshops wordt verwacht dat de deelnemers voldoende ervaring hebben om de uitdaging van het volledig lezen uit de originele notatie aan te gaan. Er wordt zowel individueel als in groepjes gewerkt aan het repertoire. De workshop wordt afgesloten met een openbaar toonmoment.
 - Op weg naar Santiago da Compostella: Middeleeuwse Pelgrimsliederen uit voornamelijk Spaanse Muziek Handschriften
-Datum nader te bepalen, zomer 2026, ook op verzoek boekbaar vanaf 2 personen.
-- Hildegard von Bingen: meerdaagse verdieping in de liederen van Hildegard von Bingen vanuit de Dendermonde Codex en de Riesencodex. Datum nader te bepalen, ook op verzoek boekbaar vanaf 4 personen.
-- Mastering Modal Methods and Manners for Modal Music: datum nader te bepalen, ook op verzoek boekbaar vanaf 4 personen.
+Op aanvraag, boekbaar vanaf 2 personen.
+- Hildegard von Bingen: meerdaagse verdieping in de liederen van Hildegard von Bingen vanuit de Dendermonde Codex en de Riesencodex. Op aanvraag, boekbaar vanaf 5 personen.
+- Mastering Modal Methods and Manners for Modal Music: op aanvraag, boekbaar vanaf 4 personen.
 - workshop op maat voor uw ensemble of koor
+
+#### Online workshops:
+Deze studiedagen zijn live via Zoom en volgen een ander format dan de bijeenkomsten in Engelen: kortere sessies, Engelstalig, met een klein aantal actieve deelnemers en daarnaast plaatsen voor toehoorders.
+- Hildegard Studiedagen Online via de International Chant Academy: najaarsreeks van 14 oktober tot en met 18 november 2026, in Track A (van handschrift naar stem) en Track B (interpretatie). Losse sessies of de hele reeks.
 
 #### Workshops voor bedrijven, koren, verenigingen, etcetera:
 Informeert u vrijblijvend naar de prijzen en voorwaarden van onderstaande workshop of een workshop op maat.

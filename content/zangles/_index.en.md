@@ -26,7 +26,7 @@ Towards the end of the lesson, the techniques that were taught before are applie
 - people with fysical or mental problems are also welcome: we will find a way around it
 
 #### Where?
-- singing lessons preferrably at my home; elsewhere only on demand (with extra costs)
+- singing lessons preferrably at my home; elsewhere or online only on demand (with extra costs)
 - courses and workshops when possible on a location with nice acoustics
 
 #### When?
@@ -34,10 +34,11 @@ Towards the end of the lesson, the techniques that were taught before are applie
 - courses and workshops are announced via the Newsletter and the Agenda
 
 #### What are the prices?
-- singing lesson individual 1 hour: 67,50 Euro (2025) inclusive tea and BTW (=taxes), exclusive travel costs and sheet music
-- all other prices are derived from this: when 5 or more lessons are planned in advance, you will receive a nice discount
-- introduction 1 1/4 hours: 80 Euro (2025)
-- the prices of courses and workshops vary and are included in the descriptions
+- singing lesson individual 1 hour: 75 Euro (from 1 October 2026) inclusive tea and BTW (=taxes), exclusive travel costs and sheet music
+- all other lesson prices are derived from this, and can be found under Prices and conditions. When 5 or more lessons are planned in advance (lesson package), you will receive a nice discount
+- introduction 1 1/4 hours: 90 Euro (from 1 October 2026). If you take out a lesson package afterwards, you will be refunded the amount of the introductory lesson in full or in part
+- the prices of courses and workshops vary and are stated with their announcements or in the quotation
+- for the other conditions, see Prices and conditions
 
 #### How do I make an appointment?
-- make an appointment via the agenda for lessons, or via telephone, WhatsApp, Signal or e-mail
+- make an appointment by telephone, via WhatsApp or Signal, or by e-mail
