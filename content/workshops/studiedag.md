@@ -32,7 +32,7 @@ Elke maand komen we bij elkaar in het kerkje in Engelen, afwisselend op een zate
 Kerkje in Engelen, De Kerkhof 3, 5221 AJ Engelen ('s-Hertogenbosch).
 
 #### Kosten: 
-Zang Ochtend: 50 Euro per persoon. Studie Middag: 75 Euro per persoon. In de kleinere groep van de Studie Middag leert u immers intensiever dan in een grote groep. U krijgt een digitaal betaalverzoek of een factuur achteraf.
+Zang Ochtend: 50 Euro per persoon. Studie Middag: 75 Euro per persoon. De studiemiddagen vergen wel meer voorbereiding voor iedereen. U krijgt een digitaal betaalverzoek of een factuur achteraf.
 #### Omschrijving:
 Hildegard von Bingen (1098-1179) was een kloosterlinge en magistra met vele kwaliteiten, waarvan componeren er een was. Haar muziek wordt gekenmerkt door een grotere vrijheid en omvang in de melodieën dan het gregoriaans van haar tijd. Ook de teksten van haar liederen vertonen een enorme rijkdom in beelden en betekenislagen. Die combinatie maakt haar oevre zo fascinerend dat er een maandelijkse studiedag aan wordt gewijd. 
 
