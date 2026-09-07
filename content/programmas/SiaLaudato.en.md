@@ -18,7 +18,7 @@ The year 2025 has been declared a Jubilee Year by the late Pope Francis, with a 
 
 In his Canticle, Francis addresses various elements of Creation as brothers and sisters. He invokes the sun, moon, and stars, followed by the four classical elements as they were understood in medieval times: air, water, fire, and earth. To these, Francis adds love and peace. Toward the end of his life, he even found room to include sickness, physical death, and eternal life in his poetic vision of Creation. Was he ultimately able to value even these in their service to the Most High?
 
-<img src="/programmas/images/SiaMiniatuur.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
+<img src="/programmas/images/Altissimu.jpg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 ### A Tapestry of Interwoven Musical Styles
 The image beside this text shows the Canticle in a 13th-century manuscript. From the layout, it's clear that musical notation is missing — suggesting the Canticle was already both prayed and sung. Music held an important role in Franciscan spirituality. Thomas of Celano describes Francis singing of God the way a troubadour might sing of courtly love. He was known to burst into spontaneous song, and the Franciscan brothers often used music and chant in their devotions and street preaching.
