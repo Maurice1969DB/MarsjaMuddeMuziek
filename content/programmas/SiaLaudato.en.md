@@ -49,4 +49,7 @@ Cost estimate: contact Marsja for details. [Marsja](mailto:info@marsjamudde.nl)
 Additional activities (e.g., workshops or lectures) available by arrangement.
 
 ### Performance Dates
-Performance dates to be announced. Contact us for availability.
+- Friday 2 October 2026, 8 p.m.: [Hillegondakerk, Rotterdam](/en/events/02okt2026-sialaudato/)
+- Saturday 3 October 2026, 8 p.m.: [Remonstrantse kerk, Alkmaar](/en/events/03okt2026-sialaudato/) — the day of Francis's death, exactly 800 years later
+
+More dates to follow. Contact us for availability.
