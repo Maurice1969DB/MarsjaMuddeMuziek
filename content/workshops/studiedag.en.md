@@ -32,7 +32,7 @@ Every month we meet at the little church in Engelen, alternating between a Satur
 The little church in Engelen, De Kerkhof 3, 5221 AJ Engelen ('s-Hertogenbosch).
 
 #### Costs:
-Singing Morning: 50 Euro per person. Study Afternoon: 75 Euro per person. In the smaller group of the Study Afternoon you learn more intensively than in a large group. You will receive a digital payment request or an invoice afterwards.
+Singing Morning: 50 Euro per person. Study Afternoon: 75 Euro per person. The study afternoons do require more preparation from everyone. You will receive a digital payment request or an invoice afterwards.
 #### Description:
 Hildegard von Bingen (1098-1179) was an abbess with many qualities, one of which was composing. Her music is characterized by greater freedom and scope in the melodies than the Gregorian chant of her time. The lyrics of her songs also show an enormous wealth of images and layers of meaning. This combination makes her oevre so fascinating that a monthly study day is devoted to it.
 

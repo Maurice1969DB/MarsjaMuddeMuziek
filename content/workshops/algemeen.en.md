@@ -20,9 +20,6 @@ Most theme workshops take place in 's-Hertogenbosch or the immediate vicinity, a
 Coffee and tea are ready at a quarter to 10. Usually we work from 10 a.m. to 1 p.m. and from 2 p.m. to 5 p.m., ending (on the last day) with a short informal 'show moment', where interested parties may come and listen. A number of workshops keep different hours; these are then stated in the information about that workshop.
 #### What does it cost?
 The costs are stated in the information about the individual themed workshops. This amount always includes VAT and study materials.
-#### Stack discount
-If you want to participate in several workshops, you receive a "stack discount": with two workshops you receive a 5% discount on the total bill, with three workshops 7.5%, with four or more workshops 10%.
-
 #### Register:
 Send an e-mail to [Marsja](mailto:info@marsjamudde.nl) with the following information:
 - name surname
