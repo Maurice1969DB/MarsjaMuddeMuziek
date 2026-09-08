@@ -118,26 +118,48 @@ h1 {
 
 @media( max-width: 60em ) {
 
-    /* Make sidebar full height and nav scrollable */
+    /* Menu vult precies het zichtbare venster: 100vh is op iOS de hoogte
+       zonder Safari-balken, dvh volgt wel de balken. Eronder verdeelt een
+       flexkolom de ruimte, zodat het menu geen rekensom met vh meer nodig
+       heeft en er niets onder de schermrand valt. */
     .sidebar {
         position: fixed;
         top: 0;
         left: 0;
         height: 100vh;
+        height: 100dvh;
         width: 15rem;
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 0;
+    }
+
+    /* Alleen het open menu klemt zijn inhoud af; ingeklapt zou dat de
+       toggle-knop afsnijden. */
+    .sidebar:not(.sidebar_small) {
+        overflow: hidden;
+    }
+
+    .sidebar .social-icons {
+        flex: 0 0 auto;
+    }
+
+    /* Eén scrollgebied dat de resthoogte krijgt (min-height: 0 is nodig,
+       anders weigert een flexitem te krimpen onder zijn inhoud). */
+    .sidebar .container {
+        flex: 1 1 auto;
+        min-height: 0;
+        height: auto;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        overscroll-behavior: contain;
+        padding-bottom: 1.5rem;
     }
 
     .sidebar .sidebar-nav {
-        max-height: calc(100vh - 6rem);
-        overflow-y: auto;
-        -webkit-overflow-scrolling: touch;
-        padding-bottom: 4rem;
-    }
-
-    .sidebar .container {
-        height: calc(100vh - 3rem);
-        overflow-y: auto;
-        padding-bottom: 2rem;
+        max-height: none;
+        overflow: visible;
+        padding-bottom: 0;
     }
 
     .sidebar.sidebar_small {
