@@ -6,9 +6,12 @@ on:
   push:
     branches: ["master"]
 
-  # Cronjob elke dag om 08:00 UTC (09:00 NL in winter, 10:00 in zomer)
+  # Dagelijks kort na middernacht Nederlandse tijd (23:17 UTC = 00:17 in de
+  # winter, 01:17 in de zomer), zodat afgelopen evenementen 's ochtends al van
+  # de site zijn. GitHub start geplande runs vaak uren later; dat schuift alleen
+  # verder de nacht in.
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "17 23 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -63,6 +66,8 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
+          # De agenda filtert op de datum van de build: reken in Nederlandse tijd
+          TZ: Europe/Amsterdam
         run: |
           hugo \
             --minify \
