@@ -30,9 +30,13 @@ Uit het brede repertoire van aan elkaar verwante liederen kozen de zangeressen v
 ### Samenwerking met animator Cristina Garcia Martin
 Voor dit programma werkt ensemble ABC voor het eerst samen met animator Cristina Garcia Martin. Geinspireerd op de fresco's die Giotto maakte in de kerk die in Assisi op het graf van Sint Franciscus is gebouwd, maakt zij prachtige moderne animaties bij het Zonnelied en de levensloop van Franciscus die de rode draad vormen in het concert.
 
+<div style="max-width: 26rem; margin: 1.5rem auto;">
+
 {{< vimeo id="1124415175" title="Het Zonnelied, gezongen door Anime Beatitudinis Cantando met de animaties van Cristina Garcia Martin" >}}
 
-*Het Zonnelied, gezongen door Anime Beatitudinis Cantando, met de animaties van Cristina Garcia Martin en de Nederlandse vertaling in beeld.*
+<p style="font-size: .85em; font-style: italic; margin-top: .4rem; text-align: left;">Het Zonnelied, gezongen door Anime Beatitudinis Cantando, met de animaties van Cristina Garcia Martin en de Nederlandse vertaling in beeld.</p>
+
+</div>
 
 
 ### Sia laudato, San Francesco in het kort
