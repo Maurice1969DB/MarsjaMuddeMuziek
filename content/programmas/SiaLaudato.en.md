@@ -53,3 +53,5 @@ Additional activities (e.g., workshops or lectures) available by arrangement.
 - Saturday 3 October 2026, 8 p.m.: [Remonstrantse kerk, Alkmaar](/en/events/03okt2026-sialaudato/) — the day of Francis's death, exactly 800 years later
 
 More dates to follow. Contact us for availability.
+
+The full list of pieces is on the ensemble’s website (in Dutch): [ensembleabc.nl/sia-laudato](https://ensembleabc.nl/sia-laudato/)

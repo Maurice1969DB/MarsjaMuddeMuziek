@@ -7,6 +7,8 @@ menu:
 ---
 ### Anime Beatitudinis Cantando
 
+De eigen website van het ensemble: [ensembleabc.nl](https://ensembleabc.nl/)
+
 Anime Beatitudinis Cantando is een professioneel vrouwenensemble dat op een zinneprikkelende manier de muziek van de middeleeuwen en vroege renaissance nieuw leven inblaast. De programma's onderscheiden zich door eigenzinnige, creatieve en interdisciplinaire totaalconcepten, waarbij de zichtbare en hoorbare liefde voor deze muziek wordt gecombineerd met teksten en beelden, soms ook andere zintuigelijke middelen, die gezamenlijk een verhaal vertellen. 
 
 De klank en interpretatie van de muziek door Anime Beatitudinis Cantando kenmerkt zich door het vloeiend volgen van de originele notatie, aandacht voor het dialect en de tongval, aandacht voor de modale harmonie en akoestische effecten en bijgevolg het reageren op wat de muziek van de zangeressen wil (en dus niet andersom). Dit resulteert in een levendige uitvoering met verrassende samenklanken, die optimaal tot hun recht komen in de ruimte waar de voorstelling plaatsvindt. 
