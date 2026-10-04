@@ -30,7 +30,9 @@
   {{- end }}
   {{- if .Params.endTime }}
   "endDate": "{{ (time.AsTime (printf "%sT%s:00" $endDay .Params.endTime) $tz).Format "2006-01-02T15:04:05-07:00" }}",
-  {{- else if .Params.endDate }}
+  {{- else }}
+  {{/* Zonder eindtijd alleen de einddag: dat is waar (het evenement eindigt
+       die dag) en Google wil endDate altijd zien. */}}
   "endDate": "{{ $endDay }}",
   {{- end }}
   "url": "{{ $pageURL }}",
