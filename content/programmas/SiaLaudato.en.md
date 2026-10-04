@@ -33,7 +33,7 @@ From this broad, interconnected repertoire, the singers of Anime Beatitudinis Ca
 ### Collaboration with Animator Cristina Garcia Martin
 For this project, ensemble ABC teams up for the first time with animator Cristina Garcia Martin. Inspired by Giotto's frescoes in the Basilica of Saint Francis in Assisi, she creates stunning modern animations that accompany the Canticle and key moments from the life of Francis, forming the visual narrative thread of the concert.
 
-<div style="max-width: 26rem; margin: 1.5rem auto;">
+<div style="clear: both; max-width: 26rem; margin: 1.5rem auto;">
 
 {{< vimeo-klik id="1124415175" img="/images/zonnelied-video.jpg" title="The Canticle of the Sun, sung by Anime Beatitudinis Cantando with animations by Cristina Garcia Martin" >}}
 
