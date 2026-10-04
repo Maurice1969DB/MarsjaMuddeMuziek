@@ -27,6 +27,6 @@ Lopende projecten zijn:
 
 ### Speellijst
 **Sia laudato, San Francesco! Franciscus’ Zonnelied**
-- Eind februari 2027 – nieuwe uitvoeringen
+- Laatste weekend van februari 2027 – nieuwe uitvoeringen
 - Vrijdag 2 oktober 2026, 20:00 uur – [Hillegondakerk, Rotterdam](/events/02okt2026-sialaudato/)
 - Zaterdag 3 oktober 2026, 20:00 uur – [Remonstrantse kerk, Alkmaar](/events/03okt2026-sialaudato/)

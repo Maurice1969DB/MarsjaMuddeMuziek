@@ -27,6 +27,6 @@ Current projects are:
 
 ### Concert dates
 **Sia laudato, San Francesco! The Canticle of the Sun**
-- Late February 2027 – new performances
+- Last weekend of February 2027 – new performances
 - Friday 2 October 2026, 8:00 PM – [Hillegondakerk, Rotterdam](/en/events/02okt2026-sialaudato/)
 - Saturday 3 October 2026, 8:00 PM – [Remonstrant Church, Alkmaar](/en/events/03okt2026-sialaudato/)

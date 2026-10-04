@@ -55,7 +55,7 @@ Kostenindicatie: neem contact op met [Marsja](mailto:info@marsjamudde.nl)
 Nevenactiviteiten (zoals workshop of lezing) in overleg.
 
 ### Speeldata
-- Eind februari 2027: nieuwe uitvoeringen
+- Laatste weekend van februari 2027: nieuwe uitvoeringen
 - Vrijdag 2 oktober 2026, 20:00 uur: [Hillegondakerk, Rotterdam](/events/02okt2026-sialaudato/)
 - Zaterdag 3 oktober 2026, 20:00 uur: [Remonstrantse kerk, Alkmaar](/events/03okt2026-sialaudato/) — de sterfdag van Franciscus, precies 800 jaar na zijn dood
 
