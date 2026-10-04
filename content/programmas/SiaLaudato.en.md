@@ -26,20 +26,22 @@ The image beside this text shows the Canticle in a 13th-century manuscript. From
 Many of these devotional songs borrowed melodies from popular music of the time. Some of these tunes were later taken up by devotional confraternities in cities like Florence and Cortona, eventually written down in laudari (books of laude). Later still, polyphonic versions of some laude emerged, preserved in beautifully illuminated manuscripts of the Trecento era, such as the Squarcialupi Codex. These polyphonic settings in turn inspired new secular texts. Thus, a rich tapestry of interconnected styles and songs emerged — from Gregorian chant and troubadour melodies to the early polyphony of renowned Trecento composers like Francesco (!) Landini and Johannes Ciconia.
 
 ### An Ode to Francis and His Canticle of the Sun
+<div style="width: 13rem; float: left; margin: .3rem 1.5rem 1rem 0;">
+
+{{< vimeo-klik id="1124415175" img="/images/zonnelied-video.jpg" title="The Canticle of the Sun, sung by Anime Beatitudinis Cantando with animations by Cristina Garcia Martin" >}}
+
+<p style="font-size: .8em; font-style: italic; margin-top: .4rem; text-align: left; line-height: 1.35;">Watch the Canticle of the Sun, with animations by Cristina Garcia Martin (2:36).</p>
+
+</div>
+
 From this broad, interconnected repertoire, the singers of Anime Beatitudinis Cantando selected songs about Francis and themes closely related to his life and legacy, to the Franciscans, and to the Canticle of the Sun. They also perform a melody — set to the Umbrian text of the Canticle — in a musical style reminiscent of Francis's own era.
 
 <img src="/programmas/images/Animatiestills.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
+<div style="clear: both;"></div>
+
 ### Collaboration with Animator Cristina Garcia Martin
 For this project, ensemble ABC teams up for the first time with animator Cristina Garcia Martin. Inspired by Giotto's frescoes in the Basilica of Saint Francis in Assisi, she creates stunning modern animations that accompany the Canticle and key moments from the life of Francis, forming the visual narrative thread of the concert.
-
-<div style="clear: both; max-width: 26rem; margin: 1.5rem auto;">
-
-{{< vimeo-klik id="1124415175" img="/images/zonnelied-video.jpg" title="The Canticle of the Sun, sung by Anime Beatitudinis Cantando with animations by Cristina Garcia Martin" >}}
-
-<p style="font-size: .85em; font-style: italic; margin-top: .4rem; text-align: left;">The Canticle of the Sun, sung by Anime Beatitudinis Cantando, with animations by Cristina Garcia Martin (Dutch translation on screen).</p>
-
-</div>
 
 
 ### Sia laudato, San Francesco — at a Glance

@@ -23,20 +23,22 @@ Het jaar 2025 is door wijlen paus Franciscus uitgeroepen tot jubeljaar, waarin e
 De afbeelding hiernaast toont de tekst ervan in een dertiende-eeuws handschrift. Uit de opmaak van de pagina kan men afleiden dat de muzieknotatie ontbreekt. Het is een aanwijzing dat het Zonnelied toen al niet alleen werd gebeden, maar ook gezongen. De rol van muziek in het geloof was bij franciscanen heel groot. Thomas van Celano omschrijft hoe Franciscus zong over God als een troubadour over de hoofse liefde. Hij zou regelmatig spontaan in gezang zijn uitgebarsten. Franciscaanse broeders gebruikten vaak muziek en zang bij hun devotie en hun prediking op straat. Men vermoedt dat een deel van deze devotionele liederen, die vaak melodieen leenden van bekende muziek uit die tijd, decennia later nog steeds zijn gebruikt door de devotionele broederschappen in Florence en Cortona, en uiteindelijk genoteerd zijn in zogenaamde laudario’s. Weer later zijn van enkele lauda’s meerstemmige versies ontstaan, opgeschreven in de vaak prachtig verluchte handschriften van de Trecento, zoals de Squarcialupi Codex. En vervolgens werden op die meerstemmige versies soms weer nieuwe wereldlijke teksten bedacht. Zo ontstond een weefsel van aan elkaar verwante stijlen en liederen, van gregoriaanse en troubadours-melodieen tot aan de vroege polyfonie van beroemde Italiaanse Trecento-componisten zoals Francesco (!) Landini en Johannes Ciconia. 
 
 ### Ode aan Franciscus en zijn Zonnelied
+<div style="width: 13rem; float: left; margin: .3rem 1.5rem 1rem 0;">
+
+{{< vimeo-klik id="1124415175" img="/images/zonnelied-video.jpg" title="Het Zonnelied, gezongen door Anime Beatitudinis Cantando met de animaties van Cristina Garcia Martin" >}}
+
+<p style="font-size: .8em; font-style: italic; margin-top: .4rem; text-align: left; line-height: 1.35;">Bekijk het Zonnelied, met de animaties van Cristina Garcia Martin (2:36).</p>
+
+</div>
+
 Uit het brede repertoire van aan elkaar verwante liederen kozen de zangeressen van Anime Beatitudinis Cantando stukken over Franciscus en thema’s die op een andere manier verbonden zijn met zijn leven en gedachtengoed, met de Franciscanen, of met het Zonnelied. Op de Umbrische tekst van het Zonnelied zingen zij ook een melodie in de stijl van muziek uit Franciscus’ tijd. 
+
+<div style="clear: both;"></div>
 
 <img src="../images/Animatiestills.jpeg" style="width: 13rem; float: right; margin:1rem" loading="lazy">
 
 ### Samenwerking met animator Cristina Garcia Martin
 Voor dit programma werkt ensemble ABC voor het eerst samen met animator Cristina Garcia Martin. Geinspireerd op de fresco's die Giotto maakte in de kerk die in Assisi op het graf van Sint Franciscus is gebouwd, maakt zij prachtige moderne animaties bij het Zonnelied en de levensloop van Franciscus die de rode draad vormen in het concert.
-
-<div style="clear: both; max-width: 26rem; margin: 1.5rem auto;">
-
-{{< vimeo-klik id="1124415175" img="/images/zonnelied-video.jpg" title="Het Zonnelied, gezongen door Anime Beatitudinis Cantando met de animaties van Cristina Garcia Martin" >}}
-
-<p style="font-size: .85em; font-style: italic; margin-top: .4rem; text-align: left;">Het Zonnelied, gezongen door Anime Beatitudinis Cantando, met de animaties van Cristina Garcia Martin en de Nederlandse vertaling in beeld.</p>
-
-</div>
 
 
 ### Sia laudato, San Francesco in het kort
