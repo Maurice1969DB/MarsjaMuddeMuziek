@@ -35,7 +35,7 @@ For this project, ensemble ABC teams up for the first time with animator Cristin
 
 <div style="max-width: 26rem; margin: 1.5rem auto;">
 
-{{< vimeo id="1124415175" title="The Canticle of the Sun, sung by Anime Beatitudinis Cantando with animations by Cristina Garcia Martin" >}}
+{{< vimeo-klik id="1124415175" img="/images/zonnelied-video.jpg" title="The Canticle of the Sun, sung by Anime Beatitudinis Cantando with animations by Cristina Garcia Martin" >}}
 
 <p style="font-size: .85em; font-style: italic; margin-top: .4rem; text-align: left;">The Canticle of the Sun, sung by Anime Beatitudinis Cantando, with animations by Cristina Garcia Martin (Dutch translation on screen).</p>
 

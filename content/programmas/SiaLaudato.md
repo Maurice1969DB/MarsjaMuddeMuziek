@@ -32,7 +32,7 @@ Voor dit programma werkt ensemble ABC voor het eerst samen met animator Cristina
 
 <div style="max-width: 26rem; margin: 1.5rem auto;">
 
-{{< vimeo id="1124415175" title="Het Zonnelied, gezongen door Anime Beatitudinis Cantando met de animaties van Cristina Garcia Martin" >}}
+{{< vimeo-klik id="1124415175" img="/images/zonnelied-video.jpg" title="Het Zonnelied, gezongen door Anime Beatitudinis Cantando met de animaties van Cristina Garcia Martin" >}}
 
 <p style="font-size: .85em; font-style: italic; margin-top: .4rem; text-align: left;">Het Zonnelied, gezongen door Anime Beatitudinis Cantando, met de animaties van Cristina Garcia Martin en de Nederlandse vertaling in beeld.</p>
 
