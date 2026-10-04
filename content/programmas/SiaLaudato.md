@@ -42,7 +42,7 @@ Voor dit programma werkt ensemble ABC voor het eerst samen met animator Cristina
 ### Sia laudato, San Francesco in het kort
 Geanimeerd concertprogramma door vocaal ensemble Anime Beatitudinis Cantando, eventueel aangevuld met andere zangeressen of bespelers van instrumenten. 
 
-Middeleeuwse liederen voor (en door) de heilige Franciscus, waaronder het beroemde Zonnelied, beide jubilerend in de jaren 2025-2026. Boekbaar tot eind december 2026.
+Middeleeuwse liederen voor (en door) de heilige Franciscus, waaronder het beroemde Zonnelied, beide jubilerend in de jaren 2025-2026. Boekbaar in 2027.
 
 Multizintuigelijke beleving dankzij de unieke animatie door Cristina Garcia Martin.
 

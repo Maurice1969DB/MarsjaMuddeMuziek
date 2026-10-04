@@ -47,7 +47,7 @@ Animated concert program by vocal ensemble Anime Beatitudinis Cantando, optional
 
 Medieval songs for (and by) Saint Francis, including the celebrated Canticle of the Sun, marking their jubilees in 2025–2026.
 
-Booking available through December 2026.
+Available for booking in 2027.
 
 A multisensory experience enhanced by Cristina Garcia Martin's unique animations.
 
