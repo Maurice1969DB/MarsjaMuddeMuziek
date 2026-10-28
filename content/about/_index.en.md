@@ -13,3 +13,6 @@ In my work as a singer and teacher of Early Music, I experience a deep contact w
 Early Music often is religious or at least has its origins in a culture with a deep spiritual or religious awareness. I believe that this is the 'magic' of this music and that my skills depend on my understanding of these cultural historic backgrounds. Besides, it is important to understand and analyse the language or dialect and the musical composition of the piece. This brings me to an interpretation as original as possible. That is also why these backgrounds are always given to the audience of my concerts and performances, and of the CD's and other audiovisual media I published, in the form of detailed explanations of the programmes, and in my interviews.
 
 
+
+#### Radio interview ####
+In 2007 I was a guest on the Dutch radio programme *Zingen voor de Hemelpoort* (RKK), presented by Kees van Mechelen, in which I talked about singing Gregorian chant. The broadcast of 28 October 2007 (in Dutch) can be heard in the archive of the Netherlands Institute for Sound & Vision: [listen to the interview](https://schatkamer.beeldengeluid.nl/serie/2101608030024816331/zingen-voor-de-hemelpoort/aflevering/2101608110094731431?stream=2101610020442474821).
