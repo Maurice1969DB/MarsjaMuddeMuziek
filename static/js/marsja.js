@@ -218,43 +218,50 @@ if (sessionStorage.getItem('closeMenu') === 'true') {
 })();
 
 // Auto-strikethrough past dates in lists
+// Only list items that start with a date count as dated entries, optionally
+// after a weekday ("14 oktober 2026 – Track A", "Friday 2 October 2026, 8 PM").
+// A date further on in the text, such as "75 Euro (from 1 October 2026)", is
+// not the date of the entry itself and leaves the item alone.
 (function() {
     const months = {
         'januari': 0, 'februari': 1, 'maart': 2, 'april': 3, 'mei': 4, 'juni': 5,
         'juli': 6, 'augustus': 7, 'september': 8, 'oktober': 9, 'november': 10, 'december': 11,
-        'january': 0, 'february': 1, 'march': 2, 'april': 3, 'may': 4, 'june': 5,
-        'july': 6, 'august': 7, 'september': 8, 'october': 9, 'november': 10, 'december': 11
+        'january': 0, 'february': 1, 'march': 2, 'may': 4, 'june': 5,
+        'july': 6, 'august': 7, 'october': 9
     };
+    const month = '(' + Object.keys(months).join('|') + ')';
+    const weekday = '(?:(?:maandag|dinsdag|woensdag|donderdag|vrijdag|zaterdag|zondag|' +
+        'monday|tuesday|wednesday|thursday|friday|saturday|sunday),?\\s+)?';
+
+    // "31 januari 2026", "31 January 2026", "31 januari"
+    const dayFirst = new RegExp('^' + weekday + '(\\d{1,2})\\s+' + month + '(?:\\s+(\\d{4}))?\\b');
+    // "January 31, 2026", "January 31"; never "February 2027", which has no day
+    const monthFirst = new RegExp('^' + weekday + month + '\\s+(\\d{1,2})(?:,?\\s+(\\d{4}))?(?!\\d)');
 
     const today = new Date();
     today.setHours(0, 0, 0, 0);
-    const currentYear = today.getFullYear();
 
-    // Find all list items in content
     document.querySelectorAll('.content li').forEach(function(li) {
-        const text = li.textContent.toLowerCase();
+        const text = li.textContent.trim().toLowerCase();
+        let day, monthName, year;
 
-        // Match patterns like "31 januari 2026" or "January 31, 2026" (with year)
-        const nlMatchYear = text.match(/(\d{1,2})\s+(januari|februari|maart|april|mei|juni|juli|augustus|september|oktober|november|december)\s+(\d{4})/);
-        const enMatchYear = text.match(/(january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{1,2}),?\s+(\d{4})/);
-
-        // Match patterns like "31 januari" or "January 31" (without year - assume current year)
-        const nlMatch = text.match(/(\d{1,2})\s+(januari|februari|maart|april|mei|juni|juli|augustus|september|oktober|november|december)(?!\s+\d{4})/);
-        const enMatch = text.match(/(january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{1,2})(?!,?\s+\d{4})/);
-
-        let eventDate = null;
-
-        if (nlMatchYear) {
-            eventDate = new Date(parseInt(nlMatchYear[3]), months[nlMatchYear[2]], parseInt(nlMatchYear[1]));
-        } else if (enMatchYear) {
-            eventDate = new Date(parseInt(enMatchYear[3]), months[enMatchYear[1]], parseInt(enMatchYear[2]));
-        } else if (nlMatch) {
-            eventDate = new Date(currentYear, months[nlMatch[2]], parseInt(nlMatch[1]));
-        } else if (enMatch) {
-            eventDate = new Date(currentYear, months[enMatch[1]], parseInt(enMatch[2]));
+        let match = text.match(dayFirst);
+        if (match) {
+            [, day, monthName, year] = match;
+        } else if ((match = text.match(monthFirst))) {
+            [, monthName, day, year] = match;
+        } else {
+            return;
         }
 
-        if (eventDate && eventDate < today) {
+        // Without a year, assume the current year
+        const eventDate = new Date(
+            year ? parseInt(year) : today.getFullYear(),
+            months[monthName],
+            parseInt(day)
+        );
+
+        if (eventDate < today) {
             li.style.textDecoration = 'line-through';
             li.style.opacity = '0.6';
         }

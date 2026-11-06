@@ -34,9 +34,9 @@ Towards the end of the lesson, the techniques that were taught before are applie
 - courses and workshops are announced via the Newsletter and the Agenda
 
 #### What are the prices?
-- singing lesson individual 1 hour: 75 Euro (from 1 October 2026) inclusive tea and BTW (=taxes), exclusive travel costs and sheet music
+- singing lesson individual 1 hour: 75 Euro inclusive tea and BTW (=taxes), exclusive travel costs and sheet music
 - all other lesson prices are derived from this, and can be found under Prices and conditions. When 5 or more lessons are planned in advance (lesson package), you will receive a nice discount
-- introduction 1 1/4 hours: 90 Euro (from 1 October 2026). If you take out a lesson package afterwards, you will be refunded the amount of the introductory lesson in full or in part
+- introduction 1 1/4 hours: 90 Euro. If you take out a lesson package afterwards, you will be refunded the amount of the introductory lesson in full or in part
 - the prices of courses and workshops vary and are stated with their announcements or in the quotation
 - for the other conditions, see Prices and conditions
 
