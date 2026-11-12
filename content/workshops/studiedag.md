@@ -46,7 +46,7 @@ Uitvoering is op dit moment geen doel. In een later stadium zou dat kunnen veran
   <input type="hidden" name="_subject" value="Aanmelding Studiedag Hildegard von Bingen">
   <input type="hidden" name="_next" value="https://marsjamudde.nl/bedankt/">
   <div class="form-group">
-    <label id="datum-label">Datum (meerdere mogelijk) *</label>
+    <label id="datum-label">Datum<span class="multi-hint"> (meerdere mogelijk)</span> *</label>
     <div class="checkbox-group" id="datum-checkboxes" role="group" aria-labelledby="datum-label" aria-describedby="datum-error">
       <label class="checkbox-label" data-date="2026-09-19"><input type="checkbox" name="datum[]" value="zaterdag 19 september 2026 - Zang Ochtend 10:30-13:00 uur"> zaterdag 19 september 2026 &ndash; Zang Ochtend, 10:30&ndash;13:00 uur</label>
       <label class="checkbox-label" data-date="2026-10-18"><input type="checkbox" name="datum[]" value="zondag 18 oktober 2026 - Studie Middag 13:30-16:00 uur"> zondag 18 oktober 2026 &ndash; Studie Middag, 13:30&ndash;16:00 uur</label>

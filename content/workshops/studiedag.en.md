@@ -46,7 +46,7 @@ Performing is not a goal at the moment. At a later stage that could change, depe
   <input type="hidden" name="_subject" value="Registration Hildegard von Bingen Study Day">
   <input type="hidden" name="_next" value="https://marsjamudde.nl/en/bedankt/">
   <div class="form-group">
-    <label id="datum-label">Date (multiple possible) *</label>
+    <label id="datum-label">Date<span class="multi-hint"> (multiple possible)</span> *</label>
     <div class="checkbox-group" id="datum-checkboxes" role="group" aria-labelledby="datum-label" aria-describedby="datum-error">
       <label class="checkbox-label" data-date="2026-09-19"><input type="checkbox" name="datum[]" value="Saturday 19 September 2026 - Singing Morning 10:30-13:00"> Saturday 19 September 2026 &ndash; Singing Morning, 10:30&ndash;13:00</label>
       <label class="checkbox-label" data-date="2026-10-18"><input type="checkbox" name="datum[]" value="Sunday 18 October 2026 - Study Afternoon 13:30-16:00"> Sunday 18 October 2026 &ndash; Study Afternoon, 13:30&ndash;16:00</label>

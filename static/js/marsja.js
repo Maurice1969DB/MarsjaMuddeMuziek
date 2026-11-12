@@ -85,6 +85,25 @@ if (sessionStorage.getItem('closeMenu') === 'true') {
             datumFormGroup.style.display = 'none';
         }
     }
+
+    // Only show the "multiple possible" hint when there is more than one date to choose
+    if (visibleCheckboxes.length <= 1) {
+        document.querySelectorAll('.multi-hint').forEach(function(hint) {
+            hint.style.display = 'none';
+        });
+    }
+
+    // With only one date left, tick it and keep it ticked. Not via `disabled`,
+    // because a disabled checkbox is left out of the form submission.
+    if (visibleCheckboxes.length === 1) {
+        const onlyCheckbox = visibleCheckboxes[0].querySelector('input[type="checkbox"]');
+        if (onlyCheckbox) {
+            onlyCheckbox.checked = true;
+            onlyCheckbox.setAttribute('aria-readonly', 'true');
+            onlyCheckbox.addEventListener('click', function(e) { e.preventDefault(); });
+            visibleCheckboxes[0].style.cursor = 'default';
+        }
+    }
 })();
 
 // Handle form validation and submissions
