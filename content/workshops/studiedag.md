@@ -50,7 +50,6 @@ Uitvoering is op dit moment geen doel. In een later stadium zou dat kunnen veran
     <div class="checkbox-group" id="datum-checkboxes" role="group" aria-labelledby="datum-label" aria-describedby="datum-error">
       <label class="checkbox-label" data-date="2026-09-19"><input type="checkbox" name="datum[]" value="zaterdag 19 september 2026 - Zang Ochtend 10:30-13:00 uur"> zaterdag 19 september 2026 &ndash; Zang Ochtend, 10:30&ndash;13:00 uur</label>
       <label class="checkbox-label" data-date="2026-10-18"><input type="checkbox" name="datum[]" value="zondag 18 oktober 2026 - Studie Middag 13:30-16:00 uur"> zondag 18 oktober 2026 &ndash; Studie Middag, 13:30&ndash;16:00 uur</label>
-      <label class="checkbox-label" data-date="2026-11-14"><input type="checkbox" name="datum[]" value="zaterdag 14 november 2026 - Zang Ochtend 10:30-13:00 uur"> zaterdag 14 november 2026 &ndash; Zang Ochtend, 10:30&ndash;13:00 uur</label>
       <label class="checkbox-label" data-date="2026-12-20"><input type="checkbox" name="datum[]" value="zondag 20 december 2026 - Studie Middag 13:30-16:00 uur"> zondag 20 december 2026 &ndash; Studie Middag, 13:30&ndash;16:00 uur</label>
     </div>
     <span class="error-message" id="datum-error" role="alert"></span>
